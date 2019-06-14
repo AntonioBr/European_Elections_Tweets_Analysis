@@ -19,7 +19,7 @@ def mentions_network(cursor):
 
     k = 0 #togliere
     for document in cursor:
-        if (k <= 5000): #Da togliere
+        if (k <= 10000): #Da togliere
             mentions_list = []
             if document["mentions"] != "":
                 mentions = document["mentions"]

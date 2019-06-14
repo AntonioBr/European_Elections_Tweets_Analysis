@@ -2,6 +2,9 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import collections
 from termcolor import colored
+import community
+import igraph as ig
+from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
 
 def preliminary_analysis(given_graph):
 
@@ -9,6 +12,10 @@ def preliminary_analysis(given_graph):
 
     list_of_all_degrees = sorted(graph.degree, key=lambda x: x[1], reverse=True)
     max_degree_tuple = list_of_all_degrees[0]
+
+    print(colored("Total number of nodes: ", "yellow") + nx.number_of_nodes(graph))
+    print(colored("Total number of isolated nodes: ", "yellow") + nx.number_of_isolates(graph))
+    print(colored("Total number of edges: ", "yellow") + nx.number_of_edges(graph))
 
     if (nx.is_directed(graph)):
         print(colored("Type of network: directed", "green"))
@@ -177,9 +184,121 @@ def eigenvector_centrality(given_graph):
         print(str((highest_eigenvector_centralities_list[i])[1]) + "->" +
               str((highest_eigenvector_centralities_list[i])[0]))
 
+def degree_centrality(given_graph):
+
+    graph = nx.read_graphml(given_graph)
+
+    degree = nx.degree_centrality(graph)
+    plt.hist(degree.values(), color = 'b')
+    plt.title("Degree centrality distribution")
+    plt.xlabel("degree centrality")
+    plt.ylabel("Number of nodes")
+    plt.xticks(rotation='vertical')
+    plt.yscale("log")
+    plt.show()
+
+    highest_degree_centralities_list = largest_node(degree)
+    print(colored("Top ten highest degree centralities:", "green"))
+    for i in range(0, 10):
+        print(str((highest_degree_centralities_list[i])[1]) + "->" +
+              str((highest_degree_centralities_list[i])[0]))
+
+def pagerank(given_graph):
+
+    graph = nx.read_graphml(given_graph)
+
+    pagernk = nx.pagerank(graph)
+    plt.hist(pagernk.values(), color='b')
+    plt.title("Pagerank distribution")
+    plt.xlabel("pagerank")
+    plt.ylabel("Number of nodes")
+    plt.xticks(rotation='vertical')
+    plt.yscale("log")
+    plt.show()
+
+    highest_pagernk_centralities_list = largest_node(pagernk)
+    print(colored("Top ten highest pagerank centralities:", "green"))
+    for i in range(0, 10):
+        print(str((highest_pagernk_centralities_list[i])[1]) + "->" +
+              str((highest_pagernk_centralities_list[i])[0]))
+
+def connected_component_analysis(given_graph):
+
+    graph = nx.to_undirected(nx.read_graphml(given_graph))
+
+    number_of_connected_components = nx.number_connected_components(graph)
+    print(colored("Number of connected components: ", "yellow") + str(number_of_connected_components))
+
+    subgraphs_list = list(nx.connected_component_subgraphs(graph))
+    diameter_distributions = []
+
+    for g in subgraphs_list:
+        diameter_distributions.append(nx.diameter(g))
+
+    diameter_distributions = sorted(diameter_distributions, reverse=True)
+
+    plt.hist(diameter_distributions, color="b")
+    plt.title("Diameter distribution of subgraphs (connected components)")
+    plt.xlabel("Diameter")
+    plt.ylabel("Number of nodes")
+    plt.xticks(rotation='vertical')
+    plt.yscale("log")
+
+    plt.axes([0.4, 0.4, 0.5, 0.5])
+    for g in subgraphs_list:
+        if(nx.diameter(g) == diameter_distributions[0]):
+            pos = nx.spring_layout(graph)
+            plt.axis('off')
+            nx.draw_networkx_nodes(g, pos, node_size=10)
+            nx.draw_networkx_edges(g, pos, alpha=0.4)
+
+    plt.show()
+
+def communities_detection(given_graph):
+
+    graph = nx.to_undirected(nx.read_graphml(given_graph))
+    mod_communities = nx.algorithms.community.greedy_modularity_communities(graph)
+
+    mod_communities_list = []
+
+    for c in mod_communities:
+        mod_communities_list.append(len(c))
+
+    plt.hist(mod_communities_list, color='b')
+    plt.title("Greedy modularity communities' size")
+    plt.xlabel("size")
+    plt.ylabel("Number of communities")
+    plt.xticks(rotation='vertical')
+    plt.yscale("log")
+    plt.show()
+
+
+    # first compute the best partition
+    partition = community.best_partition(graph)
+
+    #TODO: Calcolare il sottografo per ciascuna community passando i nodi. Unificare il lavoro fatto.
+
+    # drawing
+    size = float(len(set(partition.values())))
+    pos = nx.spring_layout(graph)
+    count = 0.
+    for com in set(partition.values()):
+        count = count + 1.
+        list_nodes = [nodes for nodes in partition.keys()
+                      if partition[nodes] == com]
+        nx.draw_networkx_nodes(graph, pos, list_nodes, node_size=10,
+                               node_color=str((count / size)))
+
+    nx.draw_networkx_edges(graph, pos, alpha=0.5)
+    plt.show()
+
 
 #preliminary_analysis("./mentions_network.graphml")
 #degree_distribution("./mentions_network.graphml")
-closeness_centrality("./mentions_network.graphml")
-betweenness_centrality("./mentions_network.graphml")
-eigenvector_centrality("./mentions_network.graphml")
+#closeness_centrality("./mentions_network.graphml")
+#betweenness_centrality("./mentions_network.graphml")
+#eigenvector_centrality("./mentions_network.graphml")
+#degree_centrality("./mentions_network.graphml")
+#pagerank("./mentions_network.graphml")
+#connected_component_analysis("./mentions_network.graphml")
+communities_detection("./mentions_network.graphml")
