@@ -8,17 +8,20 @@ from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
 
 def preliminary_analysis(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     list_of_all_degrees = sorted(graph.degree, key=lambda x: x[1], reverse=True)
     max_degree_tuple = list_of_all_degrees[0]
 
-    print(colored("Total number of nodes: ", "yellow") + nx.number_of_nodes(graph))
-    print(colored("Total number of isolated nodes: ", "yellow") + nx.number_of_isolates(graph))
-    print(colored("Total number of edges: ", "yellow") + nx.number_of_edges(graph))
+    print(colored("Total number of nodes: ", "yellow") + str(nx.number_of_nodes(graph)))
+    print(colored("Total number of isolated nodes: ", "yellow") + str(nx.number_of_isolates(graph)))
+    print(colored("Total number of edges: ", "yellow") + str(nx.number_of_edges(graph)))
 
     if (nx.is_directed(graph)):
-        print(colored("Type of network: directed", "green"))
+        print(colored("Type of network: directed", "yellow"))
 
         list_of_all_in_degrees = sorted(graph.in_degree, key=lambda x: x[1], reverse=True)
         max_in_degree_tuple = list_of_all_in_degrees[0]
@@ -81,7 +84,10 @@ def preliminary_analysis(given_graph):
 
 def degree_distribution(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     degree_sequence = sorted([d for n, d in graph.degree()], reverse=True)
     degreeCount = collections.Counter(degree_sequence)
@@ -130,7 +136,10 @@ def largest_node(centrality):
 
 def closeness_centrality(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     closeness = nx.closeness_centrality(graph)
     plt.hist(closeness.values(), color = 'b')
@@ -148,7 +157,10 @@ def closeness_centrality(given_graph):
 
 def betweenness_centrality(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     betweenness = nx.betweenness_centrality(graph)
     plt.hist(betweenness.values(), color = 'b')
@@ -167,7 +179,10 @@ def betweenness_centrality(given_graph):
 
 def eigenvector_centrality(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     eigenvector = nx.eigenvector_centrality(graph)
     plt.hist(eigenvector.values(), color = 'b')
@@ -186,7 +201,10 @@ def eigenvector_centrality(given_graph):
 
 def degree_centrality(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     degree = nx.degree_centrality(graph)
     plt.hist(degree.values(), color = 'b')
@@ -205,7 +223,10 @@ def degree_centrality(given_graph):
 
 def pagerank(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     pagernk = nx.pagerank(graph)
     plt.hist(pagernk.values(), color='b')
@@ -224,7 +245,10 @@ def pagerank(given_graph):
 
 def connected_component_analysis(given_graph):
 
-    graph = nx.to_undirected(nx.read_graphml(given_graph))
+    if '.graphml' in given_graph:
+        graph = nx.to_undirected(nx.read_graphml(given_graph))
+    else:
+        graph = given_graph
 
     number_of_connected_components = nx.number_connected_components(graph)
     print(colored("Number of connected components: ", "yellow") + str(number_of_connected_components))
@@ -254,17 +278,24 @@ def connected_component_analysis(given_graph):
 
     plt.show()
 
-def communities_detection(given_graph):
+def greedy_modularity_communities_detection(given_graph):
 
-    graph = nx.to_undirected(nx.read_graphml(given_graph))
+    if '.graphml' in given_graph:
+        graph = nx.to_undirected(nx.read_graphml(given_graph))
+    else:
+        graph = given_graph
+
     mod_communities = nx.algorithms.community.greedy_modularity_communities(graph)
+    community_plotting(mod_communities, graph)
 
-    mod_communities_list = []
+def community_plotting(communities, graph):
 
-    for c in mod_communities:
-        mod_communities_list.append(len(c))
+    communities_list = []
 
-    plt.hist(mod_communities_list, color='b')
+    for c in communities:
+        communities_list.append(len(c))
+
+    plt.hist(communities_list, color='b')
     plt.title("Greedy modularity communities' size")
     plt.xlabel("size")
     plt.ylabel("Number of communities")
@@ -272,26 +303,24 @@ def communities_detection(given_graph):
     plt.yscale("log")
     plt.show()
 
+    communities_to_study_counter = 3
 
-    # first compute the best partition
-    partition = community.best_partition(graph)
+    for x in communities:
+        sub = nx.subgraph(graph, list(x))
 
-    #TODO: Calcolare il sottografo per ciascuna community passando i nodi. Unificare il lavoro fatto.
+        if communities_to_study_counter >= 0:
+            preliminary_analysis(sub)
+            degree_distribution(sub)
+            closeness_centrality(sub)
+            betweenness_centrality(sub)
+            eigenvector_centrality(sub)
+            degree_centrality(sub)
+            pagerank(sub)
+            connected_component_analysis(sub)
 
-    # drawing
-    size = float(len(set(partition.values())))
-    pos = nx.spring_layout(graph)
-    count = 0.
-    for com in set(partition.values()):
-        count = count + 1.
-        list_nodes = [nodes for nodes in partition.keys()
-                      if partition[nodes] == com]
-        nx.draw_networkx_nodes(graph, pos, list_nodes, node_size=10,
-                               node_color=str((count / size)))
-
-    nx.draw_networkx_edges(graph, pos, alpha=0.5)
-    plt.show()
-
+        communities_to_study_counter = communities_to_study_counter - 1
+        print("")
+        print("")
 
 #preliminary_analysis("./mentions_network.graphml")
 #degree_distribution("./mentions_network.graphml")
@@ -301,4 +330,5 @@ def communities_detection(given_graph):
 #degree_centrality("./mentions_network.graphml")
 #pagerank("./mentions_network.graphml")
 #connected_component_analysis("./mentions_network.graphml")
-communities_detection("./mentions_network.graphml")
+#greedy_modularity_communities_detection("./mentions_network.graphml")
+

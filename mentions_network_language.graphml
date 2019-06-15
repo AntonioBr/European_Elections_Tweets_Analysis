@@ -1,0 +1,4027 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="language" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="banci__">
+  <data key="d0">en</data>
+</node>
+<node id="SRRRJ">
+  <data key="d0">en</data>
+</node>
+<node id="EurAlmanac">
+  <data key="d0">en</data>
+</node>
+<node id="Guardian">
+  <data key="d0">en</data>
+</node>
+<node id="nocopoutuk">
+  <data key="d0">en</data>
+</node>
+<node id="YouTube">
+  <data key="d0">en</data>
+</node>
+<node id="honu2000">
+  <data key="d0">en</data>
+</node>
+<node id="Forbes">
+  <data key="d0">en</data>
+</node>
+<node id="5_News">
+  <data key="d0">en</data>
+</node>
+<node id="JnthnMorse">
+  <data key="d0">en</data>
+</node>
+<node id="UKLabour">
+  <data key="d0">en</data>
+</node>
+<node id="bbcpm">
+  <data key="d0">en</data>
+</node>
+<node id="GGevirtz">
+  <data key="d0">en</data>
+</node>
+<node id="MatthewRavenhil">
+  <data key="d0">en</data>
+</node>
+<node id="catalannews">
+  <data key="d0">en</data>
+</node>
+<node id="Nick42024488">
+  <data key="d0">en</data>
+</node>
+<node id="Nigel_Farage">
+  <data key="d0">en</data>
+</node>
+<node id="simoncoveney">
+  <data key="d0">en</data>
+</node>
+<node id="Europarl_EN">
+  <data key="d0">en</data>
+</node>
+<node id="ordinaryfaces">
+  <data key="d0">en</data>
+</node>
+<node id="SSTARKE11569524">
+  <data key="d0">en</data>
+</node>
+<node id="GoogleNews">
+  <data key="d0">en</data>
+</node>
+<node id="alankemp69">
+  <data key="d0">en</data>
+</node>
+<node id="Micalet69">
+  <data key="d0">en</data>
+</node>
+<node id="jeremycorbyn">
+  <data key="d0">en</data>
+</node>
+<node id="JudithBuntingLD">
+  <data key="d0">en</data>
+</node>
+<node id="SELibDems">
+  <data key="d0">en</data>
+</node>
+<node id="ellskin">
+  <data key="d0">en</data>
+</node>
+<node id="reFocusZone">
+  <data key="d0">en</data>
+</node>
+<node id="PeriscopeCo">
+  <data key="d0">en</data>
+</node>
+<node id="BakustanCity">
+  <data key="d0">en</data>
+</node>
+<node id="coop_exchange">
+  <data key="d0">en</data>
+</node>
+<node id="prestonlabour">
+  <data key="d0">en</data>
+</node>
+<node id="matthewbrown">
+  <data key="d0">en</data>
+</node>
+<node id="Orgetorix">
+  <data key="d0">en</data>
+</node>
+<node id="WSJ">
+  <data key="d0">en</data>
+</node>
+<node id="citizenrobert">
+  <data key="d0">en</data>
+</node>
+<node id="jerichochambers">
+  <data key="d0">en</data>
+</node>
+<node id="Neal_Compass">
+  <data key="d0">en</data>
+</node>
+<node id="KhristComplex">
+  <data key="d0">en</data>
+</node>
+<node id="lohithbb">
+  <data key="d0">en</data>
+</node>
+<node id="Gate8_CFC">
+  <data key="d0">en</data>
+</node>
+<node id="Anna_Soubry">
+  <data key="d0">en</data>
+</node>
+<node id="SkyNews">
+  <data key="d0">en</data>
+</node>
+<node id="Daily_Express">
+  <data key="d0">en</data>
+</node>
+<node id="geffers64">
+  <data key="d0">en</data>
+</node>
+<node id="heidiallen75">
+  <data key="d0">en</data>
+</node>
+<node id="briandsloan">
+  <data key="d0">en</data>
+</node>
+<node id="Telegraph">
+  <data key="d0">en</data>
+</node>
+<node id="lawrencedavis">
+  <data key="d0">en</data>
+</node>
+<node id="darrenpjones">
+  <data key="d0">en</data>
+</node>
+<node id="SGough21">
+  <data key="d0">en</data>
+</node>
+<node id="RichardBurgon">
+  <data key="d0">en</data>
+</node>
+<node id="ScottLucas_EA">
+  <data key="d0">en</data>
+</node>
+<node id="talkRADIO">
+  <data key="d0">en</data>
+</node>
+<node id="AlStewITN">
+  <data key="d0">en</data>
+</node>
+<node id="jsdarby1">
+  <data key="d0">en</data>
+</node>
+<node id="UKgovcomms">
+  <data key="d0">en</data>
+</node>
+<node id="DarrenEuronews">
+  <data key="d0">en</data>
+</node>
+<node id="BrexitParty_UK">
+  <data key="d0">en</data>
+</node>
+<node id="VinnyMcAv">
+  <data key="d0">en</data>
+</node>
+<node id="raphaellaN">
+  <data key="d0">en</data>
+</node>
+<node id="brexitparty_uk">
+  <data key="d0">en</data>
+</node>
+<node id="LBC">
+  <data key="d0">en</data>
+</node>
+<node id="Vincentcrown659">
+  <data key="d0">en</data>
+</node>
+<node id="realDonaldTrump">
+  <data key="d0">en</data>
+</node>
+<node id="BunnyGrubby">
+  <data key="d0">en</data>
+</node>
+<node id="jessphillips">
+  <data key="d0">en</data>
+</node>
+<node id="YokoyamaPj">
+  <data key="d0">en</data>
+</node>
+<node id="JamesCreedonF24">
+  <data key="d0">en</data>
+</node>
+<node id="lesRepublicains">
+  <data key="d0">fr</data>
+</node>
+<node id="partisocialiste">
+  <data key="d0">fr</data>
+</node>
+<node id="ALGALWAY">
+  <data key="d0">en</data>
+</node>
+<node id="thejournal_ie">
+  <data key="d0">en</data>
+</node>
+<node id="NewstalkFM">
+  <data key="d0">en</data>
+</node>
+<node id="rtenews">
+  <data key="d0">en</data>
+</node>
+<node id="PVinden">
+  <data key="d0">en</data>
+</node>
+<node id="PaulGoodmanCH">
+  <data key="d0">en</data>
+</node>
+<node id="LordAshcroft">
+  <data key="d0">en</data>
+</node>
+<node id="simonstorvik">
+  <data key="d0">en</data>
+</node>
+<node id="LewishamCouncil">
+  <data key="d0">en</data>
+</node>
+<node id="zozorry3377">
+  <data key="d0">en</data>
+</node>
+<node id="AnimalistaCR">
+  <data key="d0">en</data>
+</node>
+<node id="Partido_PAN">
+  <data key="d0">pt</data>
+</node>
+<node id="Party4Animals">
+  <data key="d0">en</data>
+</node>
+<node id="Tierschutzparte">
+  <data key="d0">de</data>
+</node>
+<node id="DierAnimal">
+  <data key="d0">nl</data>
+</node>
+<node id="lukeford">
+  <data key="d0">en</data>
+</node>
+<node id="9PedroGarcia">
+  <data key="d0">en</data>
+</node>
+<node id="DerSPIEGEL">
+  <data key="d0">en</data>
+</node>
+<node id="Augstein">
+  <data key="d0">en</data>
+</node>
+<node id="bodoramelow">
+  <data key="d0">de</data>
+</node>
+<node id="HandelsblattGE">
+  <data key="d0">en</data>
+</node>
+<node id="zeitonline">
+  <data key="d0">de</data>
+</node>
+<node id="nwzonline">
+  <data key="d0">de</data>
+</node>
+<node id="PragueSummit">
+  <data key="d0">en</data>
+</node>
+<node id="TPetricek">
+  <data key="d0">cs</data>
+</node>
+<node id="ScorpioSchwarz">
+  <data key="d0">en</data>
+</node>
+<node id="MailOnline">
+  <data key="d0">en</data>
+</node>
+<node id="maybeawriter">
+  <data key="d0">en</data>
+</node>
+<node id="financialtimes">
+  <data key="d0">en</data>
+</node>
+<node id="jonandali">
+  <data key="d0">en</data>
+</node>
+<node id="agrayphoto">
+  <data key="d0">en</data>
+</node>
+<node id="The4810">
+  <data key="d0">en</data>
+</node>
+<node id="UKChange">
+  <data key="d0">en</data>
+</node>
+<node id="messybeckie">
+  <data key="d0">en</data>
+</node>
+<node id="drewhuntre">
+  <data key="d0">en</data>
+</node>
+<node id="tonyroe">
+  <data key="d0">en</data>
+</node>
+<node id="bbcemt">
+  <data key="d0">en</data>
+</node>
+<node id="BBCPolitics">
+  <data key="d0">en</data>
+</node>
+<node id="VOA60News">
+  <data key="d0">en</data>
+</node>
+<node id="MrCatStubble">
+  <data key="d0">en</data>
+</node>
+<node id="POTUS">
+  <data key="d0">en</data>
+</node>
+<node id="BrianDonnellyHT">
+  <data key="d0">en</data>
+</node>
+<node id="ewduffy">
+  <data key="d0">en</data>
+</node>
+<node id="BartBull72">
+  <data key="d0">en</data>
+</node>
+<node id="aashlock">
+  <data key="d0">en</data>
+</node>
+<node id="hereandnow">
+  <data key="d0">en</data>
+</node>
+<node id="akuhnNPRnews">
+  <data key="d0">en</data>
+</node>
+<node id="odowdpeter">
+  <data key="d0">en</data>
+</node>
+<node id="GavinLeeBBC">
+  <data key="d0">en</data>
+</node>
+<node id="BeulahNix">
+  <data key="d0">en</data>
+</node>
+<node id="NeonNettle">
+  <data key="d0">en</data>
+</node>
+<node id="Wise64">
+  <data key="d0">en</data>
+</node>
+<node id="telegraph">
+  <data key="d0">en</data>
+</node>
+<node id="Conservatives">
+  <data key="d0">en</data>
+</node>
+<node id="HoltDaved">
+  <data key="d0">en</data>
+</node>
+<node id="goonerfan65">
+  <data key="d0">en</data>
+</node>
+<node id="BBCNews">
+  <data key="d0">en</data>
+</node>
+<node id="Rob_Hadley">
+  <data key="d0">en</data>
+</node>
+<node id="BBCOS">
+  <data key="d0">en</data>
+</node>
+<node id="NickSquires1">
+  <data key="d0">en</data>
+</node>
+<node id="telegraphnews">
+  <data key="d0">en</data>
+</node>
+<node id="rjnewton1982">
+  <data key="d0">en</data>
+</node>
+<node id="labour">
+  <data key="d0">en</data>
+</node>
+<node id="Endoxa66">
+  <data key="d0">en</data>
+</node>
+<node id="SamGyimah">
+  <data key="d0">en</data>
+</node>
+<node id="ChrisWolak1">
+  <data key="d0">en</data>
+</node>
+<node id="StephenPRBrown">
+  <data key="d0">en</data>
+</node>
+<node id="barrysheerman">
+  <data key="d0">en</data>
+</node>
+<node id="Williamm49">
+  <data key="d0">en</data>
+</node>
+<node id="WILLIAMM49">
+  <data key="d0">en</data>
+</node>
+<node id="justofflondon">
+  <data key="d0">en</data>
+</node>
+<node id="ChoosePippa">
+  <data key="d0">en</data>
+</node>
+<node id="ccara">
+  <data key="d0">en</data>
+</node>
+<node id="IvanYatesNT">
+  <data key="d0">en</data>
+</node>
+<node id="umithopegok">
+  <data key="d0">en</data>
+</node>
+<node id="updayUK">
+  <data key="d0">en</data>
+</node>
+<node id="Virgili73123187">
+  <data key="d0">en</data>
+</node>
+<node id="celticbro">
+  <data key="d0">en</data>
+</node>
+<node id="eddiemair">
+  <data key="d0">en</data>
+</node>
+<node id="NeilFosterGMB">
+  <data key="d0">en</data>
+</node>
+<node id="fiannafailparty">
+  <data key="d0">en</data>
+</node>
+<node id="ThomasByrneTD">
+  <data key="d0">en</data>
+</node>
+<node id="lstwrd">
+  <data key="d0">en</data>
+</node>
+<node id="mdbussiere1">
+  <data key="d0">en</data>
+</node>
+<node id="ColinDTaylor">
+  <data key="d0">en</data>
+</node>
+<node id="shaffaqmohd">
+  <data key="d0">en</data>
+</node>
+<node id="newsondowntown">
+  <data key="d0">en</data>
+</node>
+<node id="DianeDoddsMEP">
+  <data key="d0">en</data>
+</node>
+<node id="SashaWylie">
+  <data key="d0">en</data>
+</node>
+<node id="jean0369">
+  <data key="d0">en</data>
+</node>
+<node id="newsoncool">
+  <data key="d0">en</data>
+</node>
+<node id="XJMejido">
+  <data key="d0">en</data>
+</node>
+<node id="CrouzetThomas">
+  <data key="d0">en</data>
+</node>
+<node id="RefRicketts">
+  <data key="d0">en</data>
+</node>
+<node id="OxfordWords">
+  <data key="d0">en</data>
+</node>
+<node id="mperelman">
+  <data key="d0">en</data>
+</node>
+<node id="France24_en">
+  <data key="d0">en</data>
+</node>
+<node id="BCU_Brexit">
+  <data key="d0">en</data>
+</node>
+<node id="deruytea">
+  <data key="d0">ro</data>
+</node>
+<node id="bunkybun">
+  <data key="d0">en</data>
+</node>
+<node id="elpaisinenglish">
+  <data key="d0">en</data>
+</node>
+<node id="bellacaledonia">
+  <data key="d0">en</data>
+</node>
+<node id="friendofthe">
+  <data key="d0">en</data>
+</node>
+<node id="Shareaholic">
+  <data key="d0">en</data>
+</node>
+<node id="crunchtimelover">
+  <data key="d0">en</data>
+</node>
+<node id="yahooNewsUK">
+  <data key="d0">en</data>
+</node>
+<node id="cainburdeau">
+  <data key="d0">en</data>
+</node>
+<node id="CourthouseNews">
+  <data key="d0">en</data>
+</node>
+<node id="LennoxHerald">
+  <data key="d0">en</data>
+</node>
+<node id="_MrDavidJones">
+  <data key="d0">en</data>
+</node>
+<node id="Vic_Magalhaes8">
+  <data key="d0">en</data>
+</node>
+<node id="pollofpolls_EU">
+  <data key="d0">en</data>
+</node>
+<node id="politico">
+  <data key="d0">en</data>
+</node>
+<node id="sotirisusa">
+  <data key="d0">en</data>
+</node>
+<node id="MichaelPettifa1">
+  <data key="d0">en</data>
+</node>
+<node id="jockywocky">
+  <data key="d0">en</data>
+</node>
+<node id="RuthDavidsonMSP">
+  <data key="d0">en</data>
+</node>
+<node id="EDICSligo">
+  <data key="d0">en</data>
+</node>
+<node id="sligococo">
+  <data key="d0">en</data>
+</node>
+<node id="MayoCoCo">
+  <data key="d0">en</data>
+</node>
+<node id="leitrimcoco">
+  <data key="d0">en</data>
+</node>
+<node id="NancySavall">
+  <data key="d0">en</data>
+</node>
+<node id="StevenErlanger">
+  <data key="d0">en</data>
+</node>
+<node id="jon_bartley">
+  <data key="d0">en</data>
+</node>
+<node id="TheGreenParty">
+  <data key="d0">en</data>
+</node>
+<node id="ayhsWTP56">
+  <data key="d0">en</data>
+</node>
+<node id="YahooNews">
+  <data key="d0">en</data>
+</node>
+<node id="JohnOHara6">
+  <data key="d0">en</data>
+</node>
+<node id="xyang1997">
+  <data key="d0">en</data>
+</node>
+<node id="hamanegg1983">
+  <data key="d0">en</data>
+</node>
+<node id="BBCScotland">
+  <data key="d0">en</data>
+</node>
+<node id="imonarch">
+  <data key="d0">en</data>
+</node>
+<node id="GeorgeValentin2">
+  <data key="d0">en</data>
+</node>
+<node id="PeterBellini">
+  <data key="d0">en</data>
+</node>
+<node id="sachim93">
+  <data key="d0">en</data>
+</node>
+<node id="threadreaderapp">
+  <data key="d0">en</data>
+</node>
+<node id="Econ_Marshall">
+  <data key="d0">en</data>
+</node>
+<node id="jacobinmag">
+  <data key="d0">en</data>
+</node>
+<node id="Gerfome">
+  <data key="d0">en</data>
+</node>
+<node id="SmartThinktanks">
+  <data key="d0">en</data>
+</node>
+<node id="instituteforgov">
+  <data key="d0">en</data>
+</node>
+<node id="StefanieBolzen">
+  <data key="d0">en</data>
+</node>
+<node id="soniastolper">
+  <data key="d0">fr</data>
+</node>
+<node id="sarahobolt">
+  <data key="d0">en</data>
+</node>
+<node id="JMBEuansSon">
+  <data key="d0">en</data>
+</node>
+<node id="theSNP">
+  <data key="d0">en</data>
+</node>
+<node id="clairemasser">
+  <data key="d0">en</data>
+</node>
+<node id="GHulluni">
+  <data key="d0">en</data>
+</node>
+<node id="BrexitpartyY">
+  <data key="d0">en</data>
+</node>
+<node id="CraigAmbrose1">
+  <data key="d0">en</data>
+</node>
+<node id="PhDole">
+  <data key="d0">en</data>
+</node>
+<node id="mcbrexit">
+  <data key="d0">en</data>
+</node>
+<node id="sianberry">
+  <data key="d0">id</data>
+</node>
+<node id="Russell_941">
+  <data key="d0">en</data>
+</node>
+<node id="pamelageller">
+  <data key="d0">en</data>
+</node>
+<node id="Rory_M_Stewart">
+  <data key="d0">en</data>
+</node>
+<node id="kayeadams">
+  <data key="d0">en</data>
+</node>
+<node id="annjone82875685">
+  <data key="d0">en</data>
+</node>
+<node id="piersmorgan">
+  <data key="d0">en</data>
+</node>
+<node id="SandraCarreira1">
+  <data key="d0">en</data>
+</node>
+<node id="jonmgriggs">
+  <data key="d0">en</data>
+</node>
+<node id="sonneyjo">
+  <data key="d0">en</data>
+</node>
+<node id="euronews">
+  <data key="d0">en</data>
+</node>
+<node id="JuanoAbarca">
+  <data key="d0">en</data>
+</node>
+<node id="SweekimY">
+  <data key="d0">en</data>
+</node>
+<node id="LurganSpade">
+  <data key="d0">en</data>
+</node>
+<node id="HouseofCommons">
+  <data key="d0">en</data>
+</node>
+<node id="LeicesterSWP">
+  <data key="d0">en</data>
+</node>
+<node id="uaf">
+  <data key="d0">en</data>
+</node>
+<node id="ProfSaunders">
+  <data key="d0">en</data>
+</node>
+<node id="henryfarrell">
+  <data key="d0">en</data>
+</node>
+<node id="RobertHoustonII">
+  <data key="d0">en</data>
+</node>
+<node id="Eviebt">
+  <data key="d0">en</data>
+</node>
+<node id="TheBluetrot">
+  <data key="d0">en</data>
+</node>
+<node id="BrexitE">
+  <data key="d0">en</data>
+</node>
+<node id="campbellclaret">
+  <data key="d0">nl</data>
+</node>
+<node id="LeicesterUAF">
+  <data key="d0">en</data>
+</node>
+<node id="StivenSkyrah">
+  <data key="d0">en</data>
+</node>
+<node id="CsHotness">
+  <data key="d0">en</data>
+</node>
+<node id="weijgenberger">
+  <data key="d0">en</data>
+</node>
+<node id="DanJamesRenew">
+  <data key="d0">en</data>
+</node>
+<node id="RenewParty">
+  <data key="d0">en</data>
+</node>
+<node id="MariaJoseSalcdo">
+  <data key="d0">en</data>
+</node>
+<node id="TheEconomist">
+  <data key="d0">en</data>
+</node>
+<node id="dgerstner33">
+  <data key="d0">en</data>
+</node>
+<node id="James_Sloam">
+  <data key="d0">en</data>
+</node>
+<node id="bbclaurak">
+  <data key="d0">de</data>
+</node>
+<node id="LibDems">
+  <data key="d0">en</data>
+</node>
+<node id="guardian">
+  <data key="d0">en</data>
+</node>
+<node id="RozennM">
+  <data key="d0">en</data>
+</node>
+<node id="onepolicyplace">
+  <data key="d0">en</data>
+</node>
+<node id="SineFadaadB">
+  <data key="d0">en</data>
+</node>
+<node id="NathanRyding_">
+  <data key="d0">en</data>
+</node>
+<node id="ScottyMcLeod">
+  <data key="d0">en</data>
+</node>
+<node id="JimMillardld">
+  <data key="d0">en</data>
+</node>
+<node id="robinwbrown">
+  <data key="d0">en</data>
+</node>
+<node id="MediadorAnd">
+  <data key="d0">en</data>
+</node>
+<node id="coe">
+  <data key="d0">en</data>
+</node>
+<node id="TJagland">
+  <data key="d0">en</data>
+</node>
+<node id="libdemvoice">
+  <data key="d0">en</data>
+</node>
+<node id="honladymark">
+  <data key="d0">en</data>
+</node>
+<node id="ianwhu">
+  <data key="d0">en</data>
+</node>
+<node id="georgiebingham">
+  <data key="d0">en</data>
+</node>
+<node id="EdwardAdoo">
+  <data key="d0">en</data>
+</node>
+<node id="bbc3cr">
+  <data key="d0">en</data>
+</node>
+<node id="schvetlana">
+  <data key="d0">en</data>
+</node>
+<node id="mywaypress">
+  <data key="d0">en</data>
+</node>
+<node id="HainesForSF">
+  <data key="d0">en</data>
+</node>
+<node id="AtlantoCeltica">
+  <data key="d0">en</data>
+</node>
+<node id="rte">
+  <data key="d0">en</data>
+</node>
+<node id="RevMatthewZRoss">
+  <data key="d0">en</data>
+</node>
+<node id="allianceparty">
+  <data key="d0">en</data>
+</node>
+<node id="godfroykone">
+  <data key="d0">fr</data>
+</node>
+<node id="Challenges">
+  <data key="d0">fr</data>
+</node>
+<node id="AnnaHimmelreich">
+  <data key="d0">en</data>
+</node>
+<node id="impakterdotcom">
+  <data key="d0">en</data>
+</node>
+<node id="pw103">
+  <data key="d0">en</data>
+</node>
+<node id="Huggies2222">
+  <data key="d0">en</data>
+</node>
+<node id="europeansting">
+  <data key="d0">en</data>
+</node>
+<node id="CaminoMortera">
+  <data key="d0">en</data>
+</node>
+<node id="HallBenjamin">
+  <data key="d0">en</data>
+</node>
+<node id="hannahswg">
+  <data key="d0">en</data>
+</node>
+<node id="SurgeRadio">
+  <data key="d0">af</data>
+</node>
+<node id="michaeljardine">
+  <data key="d0">en</data>
+</node>
+<node id="naomi_long">
+  <data key="d0">en</data>
+</node>
+<node id="bobby9496">
+  <data key="d0">en</data>
+</node>
+<node id="M_AndersonSF">
+  <data key="d0">en</data>
+</node>
+<node id="rgjoni">
+  <data key="d0">en</data>
+</node>
+<node id="TOOSHORT1976">
+  <data key="d0">en</data>
+</node>
+<node id="dogboy999">
+  <data key="d0">en</data>
+</node>
+<node id="SamuelBREXIT">
+  <data key="d0">en</data>
+</node>
+<node id="JohnHowarth1958">
+  <data key="d0">en</data>
+</node>
+<node id="ReadingLabour">
+  <data key="d0">en</data>
+</node>
+<node id="Guillaume_Alv">
+  <data key="d0">en</data>
+</node>
+<node id="IrishTimesWorld">
+  <data key="d0">en</data>
+</node>
+<node id="Dwinterbottom2">
+  <data key="d0">en</data>
+</node>
+<node id="MetroUK">
+  <data key="d0">en</data>
+</node>
+<node id="Paulie76100259">
+  <data key="d0">en</data>
+</node>
+<node id="Thomas__Weber">
+  <data key="d0">en</data>
+</node>
+<node id="CTVNews">
+  <data key="d0">en</data>
+</node>
+<node id="Jerusalem_Post">
+  <data key="d0">en</data>
+</node>
+<node id="SCER_eu">
+  <data key="d0">en</data>
+</node>
+<node id="scer_eu">
+  <data key="d0">en</data>
+</node>
+<node id="wufandmew">
+  <data key="d0">en</data>
+</node>
+<node id="CharlesHThyme">
+  <data key="d0">en</data>
+</node>
+<node id="hayesgar">
+  <data key="d0">en</data>
+</node>
+<node id="PeoplesMomentum">
+  <data key="d0">en</data>
+</node>
+<node id="damasco1812">
+  <data key="d0">en</data>
+</node>
+<node id="ArleneBHeed">
+  <data key="d0">en</data>
+</node>
+<node id="ncodling">
+  <data key="d0">en</data>
+</node>
+<node id="rajatepoch">
+  <data key="d0">en</data>
+</node>
+<node id="SBSNews">
+  <data key="d0">en</data>
+</node>
+<node id="ezduzit63">
+  <data key="d0">en</data>
+</node>
+<node id="wordpressdotcom">
+  <data key="d0">en</data>
+</node>
+<node id="BorderRaven">
+  <data key="d0">en</data>
+</node>
+<node id="BelgaImage">
+  <data key="d0">en</data>
+</node>
+<node id="dirkwaem">
+  <data key="d0">en</data>
+</node>
+<node id="GPI159">
+  <data key="d0">en</data>
+</node>
+<node id="Zenber1">
+  <data key="d0">en</data>
+</node>
+<node id="businessinsider">
+  <data key="d0">en</data>
+</node>
+<node id="Goodwinaj1">
+  <data key="d0">en</data>
+</node>
+<node id="janeD77">
+  <data key="d0">en</data>
+</node>
+<node id="OmeletteAsiatiK">
+  <data key="d0">en</data>
+</node>
+<node id="ggreenwald">
+  <data key="d0">pt</data>
+</node>
+<node id="Arturo_Sarukhan">
+  <data key="d0">en</data>
+</node>
+<node id="FinancialTimes">
+  <data key="d0">en</data>
+</node>
+<node id="manianca">
+  <data key="d0">en</data>
+</node>
+<node id="NationalComment">
+  <data key="d0">en</data>
+</node>
+<node id="TheNationalUAE">
+  <data key="d0">en</data>
+</node>
+<node id="Mr_C_Wadd">
+  <data key="d0">en</data>
+</node>
+<node id="tdanjones1">
+  <data key="d0">en</data>
+</node>
+<node id="kennethmac2000">
+  <data key="d0">en</data>
+</node>
+<node id="LSEpoliticsblog">
+  <data key="d0">en</data>
+</node>
+<node id="CowboyPaddy">
+  <data key="d0">en</data>
+</node>
+<node id="ChambersIreland">
+  <data key="d0">en</data>
+</node>
+<node id="MaireadMcGMEP">
+  <data key="d0">en</data>
+</node>
+<node id="Paulawelf">
+  <data key="d0">en</data>
+</node>
+<node id="commonpatriot">
+  <data key="d0">en</data>
+</node>
+<node id="PamelaGeller">
+  <data key="d0">en</data>
+</node>
+<node id="unchienanatolie">
+  <data key="d0">en</data>
+</node>
+<node id="crewislife">
+  <data key="d0">en</data>
+</node>
+<node id="nytimes">
+  <data key="d0">en</data>
+</node>
+<node id="UvA_AISSR">
+  <data key="d0">en</data>
+</node>
+<node id="NL_Wetenschap">
+  <data key="d0">nl</data>
+</node>
+<node id="Fankledoose">
+  <data key="d0">en</data>
+</node>
+<node id="EURefJune">
+  <data key="d0">en</data>
+</node>
+<node id="The_Evil_Barbie">
+  <data key="d0">en</data>
+</node>
+<node id="JulesSunbeam">
+  <data key="d0">en</data>
+</node>
+<node id="bandraidoir">
+  <data key="d0">en</data>
+</node>
+<node id="WendyvanFrank1">
+  <data key="d0">en</data>
+</node>
+<node id="Tory_Karen">
+  <data key="d0">en</data>
+</node>
+<node id="Lugey6">
+  <data key="d0">en</data>
+</node>
+<node id="aJSDecepida">
+  <data key="d0">en</data>
+</node>
+<node id="akentishlass">
+  <data key="d0">en</data>
+</node>
+<node id="itechstore_ie">
+  <data key="d0">en</data>
+</node>
+<node id="TJ_Politics">
+  <data key="d0">en</data>
+</node>
+<node id="PhotoklassikInt">
+  <data key="d0">en</data>
+</node>
+<node id="ILFORDPhoto">
+  <data key="d0">en</data>
+</node>
+<node id="christinafinn8">
+  <data key="d0">en</data>
+</node>
+<node id="filfyfabio">
+  <data key="d0">en</data>
+</node>
+<node id="MartinDaubney">
+  <data key="d0">en</data>
+</node>
+<node id="andywigmore">
+  <data key="d0">en</data>
+</node>
+<node id="afplondon">
+  <data key="d0">en</data>
+</node>
+<node id="AFP">
+  <data key="d0">en</data>
+</node>
+<node id="dariothuburn">
+  <data key="d0">en</data>
+</node>
+<node id="Bankofisland">
+  <data key="d0">en</data>
+</node>
+<node id="RoyRoytonkin">
+  <data key="d0">en</data>
+</node>
+<node id="IrPsych">
+  <data key="d0">en</data>
+</node>
+<node id="Suffragentleman">
+  <data key="d0">en</data>
+</node>
+<node id="ForChange_Now">
+  <data key="d0">en</data>
+</node>
+<node id="DataCassette">
+  <data key="d0">en</data>
+</node>
+<node id="Belizean_bz">
+  <data key="d0">en</data>
+</node>
+<node id="AnimalCommando">
+  <data key="d0">en</data>
+</node>
+<node id="edsandgut1">
+  <data key="d0">en</data>
+</node>
+<node id="spegilmynd">
+  <data key="d0">en</data>
+</node>
+<node id="DahrendorfForum">
+  <data key="d0">en</data>
+</node>
+<node id="Helmut_Anheier">
+  <data key="d0">en</data>
+</node>
+<node id="Scotsfox">
+  <data key="d0">en</data>
+</node>
+<node id="JamesKelly">
+  <data key="d0">en</data>
+</node>
+<node id="PawPrintsLeft">
+  <data key="d0">en</data>
+</node>
+<node id="hopkinsjim77">
+  <data key="d0">en</data>
+</node>
+<node id="BorisJohnson">
+  <data key="d0">en</data>
+</node>
+<node id="ptaylo">
+  <data key="d0">en</data>
+</node>
+<node id="Glasgow">
+  <data key="d0">en</data>
+</node>
+<node id="wildegeese">
+  <data key="d0">en</data>
+</node>
+<node id="Leon_Hargreaves">
+  <data key="d0">en</data>
+</node>
+<node id="Young_Tories">
+  <data key="d0">en</data>
+</node>
+<node id="tomicraft">
+  <data key="d0">en</data>
+</node>
+<node id="markaphill">
+  <data key="d0">en</data>
+</node>
+<node id="boogiejuice69">
+  <data key="d0">en</data>
+</node>
+<node id="MalHavardWriter">
+  <data key="d0">en</data>
+</node>
+<node id="BremainInSpain">
+  <data key="d0">en</data>
+</node>
+<node id="LittleNinjaNo7">
+  <data key="d0">en</data>
+</node>
+<node id="patdevereaux">
+  <data key="d0">en</data>
+</node>
+<node id="brynrobinson3">
+  <data key="d0">en</data>
+</node>
+<node id="jonotabot_">
+  <data key="d0">en</data>
+</node>
+<node id="GibbonGames">
+  <data key="d0">en</data>
+</node>
+<node id="StretchKontelj">
+  <data key="d0">en</data>
+</node>
+<node id="RRInternational">
+  <data key="d0">en</data>
+</node>
+<node id="NiemanLabFuego">
+  <data key="d0">en</data>
+</node>
+<node id="Chanders">
+  <data key="d0">en</data>
+</node>
+<node id="GlobalsNewsroom">
+  <data key="d0">en</data>
+</node>
+<node id="Dturner300">
+  <data key="d0">en</data>
+</node>
+<node id="DavidLammy">
+  <data key="d0">en</data>
+</node>
+<node id="MasterFeed">
+  <data key="d0">en</data>
+</node>
+<node id="Dobronyi">
+  <data key="d0">en</data>
+</node>
+<node id="thelastrefuge2">
+  <data key="d0">en</data>
+</node>
+<node id="MissSnowbelle">
+  <data key="d0">en</data>
+</node>
+<node id="Tim_Reid79">
+  <data key="d0">en</data>
+</node>
+<node id="J_Savim">
+  <data key="d0">en</data>
+</node>
+<node id="mikegalsworthy">
+  <data key="d0">en</data>
+</node>
+<node id="StevePeers">
+  <data key="d0">en</data>
+</node>
+<node id="FT">
+  <data key="d0">en</data>
+</node>
+<node id="asimThemizz">
+  <data key="d0">en</data>
+</node>
+<node id="sophieblack2016">
+  <data key="d0">en</data>
+</node>
+<node id="StopUKPoverty">
+  <data key="d0">en</data>
+</node>
+<node id="redball2">
+  <data key="d0">en</data>
+</node>
+<node id="DukeofThumpwich">
+  <data key="d0">en</data>
+</node>
+<node id="ukbatman1973">
+  <data key="d0">en</data>
+</node>
+<node id="FrauBauerlein">
+  <data key="d0">en</data>
+</node>
+<node id="Mahopacgerman">
+  <data key="d0">en</data>
+</node>
+<node id="simonesomekh">
+  <data key="d0">en</data>
+</node>
+<node id="AP_Europe">
+  <data key="d0">en</data>
+</node>
+<node id="votematters2020">
+  <data key="d0">en</data>
+</node>
+<node id="Tonykelly950">
+  <data key="d0">en</data>
+</node>
+<node id="claire3638">
+  <data key="d0">en</data>
+</node>
+<node id="NLondonHousewif">
+  <data key="d0">en</data>
+</node>
+<node id="WBAP247NEWS">
+  <data key="d0">en</data>
+</node>
+<node id="CrostonMrs">
+  <data key="d0">en</data>
+</node>
+<node id="vanderDonkCarin">
+  <data key="d0">en</data>
+</node>
+<node id="Political_AlanS">
+  <data key="d0">en</data>
+</node>
+<node id="willie_rennie">
+  <data key="d0">en</data>
+</node>
+<node id="SocialM85897394">
+  <data key="d0">en</data>
+</node>
+<node id="christopherhope">
+  <data key="d0">en</data>
+</node>
+<node id="VoxEurop">
+  <data key="d0">en</data>
+</node>
+<node id="scebrian">
+  <data key="d0">es</data>
+</node>
+<node id="humanjahan">
+  <data key="d0">en</data>
+</node>
+<node id="ACKaminski">
+  <data key="d0">en</data>
+</node>
+<node id="sandyhruthven">
+  <data key="d0">en</data>
+</node>
+<node id="bristolgreen">
+  <data key="d0">en</data>
+</node>
+<node id="marknilsstrand">
+  <data key="d0">en</data>
+</node>
+<node id="LinkedIn">
+  <data key="d0">en</data>
+</node>
+<node id="Johnathan_E6">
+  <data key="d0">en</data>
+</node>
+<node id="procedurepols">
+  <data key="d0">en</data>
+</node>
+<node id="coxypm">
+  <data key="d0">en</data>
+</node>
+<node id="GeoffVallis">
+  <data key="d0">en</data>
+</node>
+<node id="trashfuturepod">
+  <data key="d0">en</data>
+</node>
+<node id="AliceAvizandum">
+  <data key="d0">en</data>
+</node>
+<node id="Gerdowning">
+  <data key="d0">en</data>
+</node>
+<node id="colltales">
+  <data key="d0">en</data>
+</node>
+<node id="PopescuCo">
+  <data key="d0">en</data>
+</node>
+<node id="WoodingStuart">
+  <data key="d0">en</data>
+</node>
+<node id="pverbeeck2">
+  <data key="d0">en</data>
+</node>
+<node id="NewStatesman">
+  <data key="d0">en</data>
+</node>
+<node id="snicklin1">
+  <data key="d0">en</data>
+</node>
+<node id="TheBomb1987">
+  <data key="d0">en</data>
+</node>
+<node id="MLP_officiel">
+  <data key="d0">fr</data>
+</node>
+<node id="peterbakernyt">
+  <data key="d0">en</data>
+</node>
+<node id="nav04062653">
+  <data key="d0">en</data>
+</node>
+<node id="Danielzeichner">
+  <data key="d0">en</data>
+</node>
+<node id="Martin_Cov70">
+  <data key="d0">en</data>
+</node>
+<node id="rispostanet1">
+  <data key="d0">en</data>
+</node>
+<node id="BrancoCarmine">
+  <data key="d0">en</data>
+</node>
+<node id="samdeedes">
+  <data key="d0">en</data>
+</node>
+<node id="stephanishelton">
+  <data key="d0">en</data>
+</node>
+<node id="AntoineCrouin">
+  <data key="d0">en</data>
+</node>
+<node id="cnni">
+  <data key="d0">en</data>
+</node>
+<node id="johnblundell993">
+  <data key="d0">en</data>
+</node>
+<node id="ferozwala">
+  <data key="d0">en</data>
+</node>
+<node id="SputnikInt">
+  <data key="d0">en</data>
+</node>
+<node id="YorksIFA">
+  <data key="d0">en</data>
+</node>
+<node id="Yorkshire_Party">
+  <data key="d0">en</data>
+</node>
+<node id="twitnews00">
+  <data key="d0">en</data>
+</node>
+<node id="ShoutGamers">
+  <data key="d0">en</data>
+</node>
+<node id="FameRTR">
+  <data key="d0">en</data>
+</node>
+<node id="FlyRts">
+  <data key="d0">en</data>
+</node>
+<node id="Demented_RTs">
+  <data key="d0">en</data>
+</node>
+<node id="Mighty_RTs">
+  <data key="d0">en</data>
+</node>
+<node id="BlazedRTs">
+  <data key="d0">en</data>
+</node>
+<node id="Retweet_Lobby">
+  <data key="d0">en</data>
+</node>
+<node id="Agile_RTs">
+  <data key="d0">en</data>
+</node>
+<node id="FEAR_RTs">
+  <data key="d0">en</data>
+</node>
+<node id="bbc5live">
+  <data key="d0">en</data>
+</node>
+<node id="TherealNihal">
+  <data key="d0">en</data>
+</node>
+<node id="Rose_of_Lancs">
+  <data key="d0">en</data>
+</node>
+<node id="oliverkev">
+  <data key="d0">en</data>
+</node>
+<node id="TommysViews">
+  <data key="d0">en</data>
+</node>
+<node id="SmartCircleComm">
+  <data key="d0">en</data>
+</node>
+<node id="politics_co_uk">
+  <data key="d0">en</data>
+</node>
+<node id="MKucala">
+  <data key="d0">en</data>
+</node>
+<node id="mdbuckley">
+  <data key="d0">en</data>
+</node>
+<node id="Fergal_HB">
+  <data key="d0">en</data>
+</node>
+<node id="EdelmanBXL">
+  <data key="d0">en</data>
+</node>
+<node id="gurps82">
+  <data key="d0">en</data>
+</node>
+<node id="Sputnink_">
+  <data key="d0">it</data>
+</node>
+<node id="Alagooon">
+  <data key="d0">it</data>
+</node>
+<node id="CNNMoneyCH">
+  <data key="d0">en</data>
+</node>
+<node id="ianbremmer">
+  <data key="d0">en</data>
+</node>
+<node id="ljcb12">
+  <data key="d0">en</data>
+</node>
+<node id="LyiangK">
+  <data key="d0">en</data>
+</node>
+<node id="garyjhedley">
+  <data key="d0">en</data>
+</node>
+<node id="MarnieRiptide">
+  <data key="d0">en</data>
+</node>
+<node id="heraldscotland">
+  <data key="d0">en</data>
+</node>
+<node id="NielsKirst">
+  <data key="d0">en</data>
+</node>
+<node id="RNational_off">
+  <data key="d0">fr</data>
+</node>
+<node id="AfD">
+  <data key="d0">de</data>
+</node>
+<node id="LegaSalvini">
+  <data key="d0">it</data>
+</node>
+<node id="PeterCoborn">
+  <data key="d0">en</data>
+</node>
+<node id="WAMCNews">
+  <data key="d0">en</data>
+</node>
+<node id="AlanChartock">
+  <data key="d0">en</data>
+</node>
+<node id="msfauxreporter">
+  <data key="d0">en</data>
+</node>
+<node id="C_3C_3">
+  <data key="d0">en</data>
+</node>
+<node id="Leipzigian">
+  <data key="d0">en</data>
+</node>
+<node id="Andrew_Adonis">
+  <data key="d0">en</data>
+</node>
+<node id="PaulaChertok">
+  <data key="d0">en</data>
+</node>
+<node id="BBCRadioFoyle">
+  <data key="d0">en</data>
+</node>
+<node id="dean_journalist">
+  <data key="d0">en</data>
+</node>
+<node id="romyglass">
+  <data key="d0">en</data>
+</node>
+<node id="IrishTimes">
+  <data key="d0">en</data>
+</node>
+<node id="ScoPoliticsNews">
+  <data key="d0">en</data>
+</node>
+<node id="ProgramIsle">
+  <data key="d0">en</data>
+</node>
+<node id="stephen501">
+  <data key="d0">en</data>
+</node>
+<node id="OwenSmith_MP">
+  <data key="d0">en</data>
+</node>
+<node id="uklabour">
+  <data key="d0">en</data>
+</node>
+<node id="WENSHOWHQ">
+  <data key="d0">en</data>
+</node>
+<node id="scotthgilliland">
+  <data key="d0">en</data>
+</node>
+<node id="JimAllister">
+  <data key="d0">en</data>
+</node>
+<node id="TBINJ">
+  <data key="d0">en</data>
+</node>
+<node id="SiCarswell">
+  <data key="d0">en</data>
+</node>
+<node id="saoirse_mchugh">
+  <data key="d0">so</data>
+</node>
+<node id="TomFlowers">
+  <data key="d0">en</data>
+</node>
+<node id="RTENewsPaulC">
+  <data key="d0">en</data>
+</node>
+<node id="SimonHarrisTD">
+  <data key="d0">en</data>
+</node>
+<node id="SocialEspionage">
+  <data key="d0">en</data>
+</node>
+<node id="tomwestwater">
+  <data key="d0">en</data>
+</node>
+<node id="whiteloser80">
+  <data key="d0">en</data>
+</node>
+<node id="rasadave">
+  <data key="d0">en</data>
+</node>
+<node id="LordRennard">
+  <data key="d0">en</data>
+</node>
+<node id="practicaespanol">
+  <data key="d0">en</data>
+</node>
+<node id="abc_es">
+  <data key="d0">es</data>
+</node>
+<node id="larazon_es">
+  <data key="d0">es</data>
+</node>
+<node id="elmundoes">
+  <data key="d0">es</data>
+</node>
+<node id="el_pais">
+  <data key="d0">es</data>
+</node>
+<node id="LaVanguardia">
+  <data key="d0">es</data>
+</node>
+<node id="robw1953">
+  <data key="d0">en</data>
+</node>
+<node id="lmn_ar">
+  <data key="d0">en</data>
+</node>
+<node id="CZPirates_en">
+  <data key="d0">es</data>
+</node>
+<node id="Piratenpartei">
+  <data key="d0">de</data>
+</node>
+<node id="WIONews">
+  <data key="d0">en</data>
+</node>
+<node id="ALIKHOSRAV_I">
+  <data key="d0">en</data>
+</node>
+<node id="yanisvaroufakis">
+  <data key="d0">el</data>
+</node>
+<node id="JouniNissinen">
+  <data key="d0">en</data>
+</node>
+<node id="luonnonsuojelu">
+  <data key="d0">fi</data>
+</node>
+<node id="Rae_707">
+  <data key="d0">en</data>
+</node>
+<node id="newforesteurope">
+  <data key="d0">en</data>
+</node>
+<node id="MaxTundra">
+  <data key="d0">en</data>
+</node>
+<node id="elerianm">
+  <data key="d0">en</data>
+</node>
+<node id="Wordsmiter">
+  <data key="d0">en</data>
+</node>
+<node id="BAGSS5">
+  <data key="d0">en</data>
+</node>
+<node id="idriches">
+  <data key="d0">en</data>
+</node>
+<node id="rometostandrews">
+  <data key="d0">en</data>
+</node>
+<node id="you_trend">
+  <data key="d0">it</data>
+</node>
+<node id="petercossins">
+  <data key="d0">en</data>
+</node>
+<node id="bradfordmdc">
+  <data key="d0">en</data>
+</node>
+<node id="merrionstreet">
+  <data key="d0">en</data>
+</node>
+<node id="LeoVaradkar">
+  <data key="d0">en</data>
+</node>
+<node id="NicolaSturgeon">
+  <data key="d0">en</data>
+</node>
+<node id="opwfarmleigh">
+  <data key="d0">en</data>
+</node>
+<node id="BrightonTimWolf">
+  <data key="d0">en</data>
+</node>
+<node id="electoralreform">
+  <data key="d0">en</data>
+</node>
+<node id="CarolineFlintMP">
+  <data key="d0">en</data>
+</node>
+<node id="justinmadders">
+  <data key="d0">en</data>
+</node>
+<node id="bbcnewsline">
+  <data key="d0">en</data>
+</node>
+<node id="markdevenport">
+  <data key="d0">en</data>
+</node>
+<node id="JonDelano">
+  <data key="d0">en</data>
+</node>
+<node id="Laura_K_Hughes">
+  <data key="d0">en</data>
+</node>
+<node id="Flights4Brexit">
+  <data key="d0">en</data>
+</node>
+<node id="CarolineLucas">
+  <data key="d0">en</data>
+</node>
+<node id="Newsbook_com_mt">
+  <data key="d0">en</data>
+</node>
+<node id="dragonweyr">
+  <data key="d0">en</data>
+</node>
+<node id="BlakeleyLegal">
+  <data key="d0">en</data>
+</node>
+<node id="p_blakeley_">
+  <data key="d0">en</data>
+</node>
+<node id="jon_whitehouse">
+  <data key="d0">en</data>
+</node>
+<node id="ollybarratt">
+  <data key="d0">en</data>
+</node>
+<node id="eNCA">
+  <data key="d0">en</data>
+</node>
+<node id="tomfrench85">
+  <data key="d0">en</data>
+</node>
+<node id="MsCatieMaxx">
+  <data key="d0">en</data>
+</node>
+<node id="Dam0G">
+  <data key="d0">en</data>
+</node>
+<node id="TimWillis85">
+  <data key="d0">en</data>
+</node>
+<node id="LastyKP">
+  <data key="d0">en</data>
+</node>
+<node id="SBakerCX">
+  <data key="d0">en</data>
+</node>
+<node id="FergusMMurray">
+  <data key="d0">en</data>
+</node>
+<node id="robertshrimsley">
+  <data key="d0">en</data>
+</node>
+<node id="BlindJustice41">
+  <data key="d0">en</data>
+</node>
+<node id="dw_europe">
+  <data key="d0">en</data>
+</node>
+<node id="TimmermansEU">
+  <data key="d0">en</data>
+</node>
+<node id="archbishophynes">
+  <data key="d0">en</data>
+</node>
+<node id="Northerndrums">
+  <data key="d0">en</data>
+</node>
+<node id="EU">
+  <data key="d0">en</data>
+</node>
+<node id="ArieFlack">
+  <data key="d0">en</data>
+</node>
+<node id="BAMLIN181">
+  <data key="d0">en</data>
+</node>
+<node id="anncrusader">
+  <data key="d0">en</data>
+</node>
+<node id="Lindyhopper7">
+  <data key="d0">en</data>
+</node>
+<node id="tom_watson">
+  <data key="d0">en</data>
+</node>
+<node id="phillipmhughes">
+  <data key="d0">en</data>
+</node>
+<node id="Gordon_T_Miller">
+  <data key="d0">en</data>
+</node>
+<node id="nick_clegg">
+  <data key="d0">en</data>
+</node>
+<node id="JayBut707">
+  <data key="d0">en</data>
+</node>
+<node id="PeterKenyon">
+  <data key="d0">en</data>
+</node>
+<node id="bbcnews">
+  <data key="d0">en</data>
+</node>
+<node id="TheProgressives">
+  <data key="d0">en</data>
+</node>
+<node id="BiancaSavonrola">
+  <data key="d0">en</data>
+</node>
+<node id="CRAZEEEEgoat">
+  <data key="d0">en</data>
+</node>
+<node id="Iromg">
+  <data key="d0">en</data>
+</node>
+<node id="antonisid">
+  <data key="d0">en</data>
+</node>
+<node id="JoannaEngland84">
+  <data key="d0">en</data>
+</node>
+<node id="UTAGender">
+  <data key="d0">en</data>
+</node>
+<node id="EUGenDem">
+  <data key="d0">en</data>
+</node>
+<node id="TampereUni">
+  <data key="d0">fi</data>
+</node>
+<node id="TampereUniSOC">
+  <data key="d0">fi</data>
+</node>
+<node id="akaMrsLunts">
+  <data key="d0">en</data>
+</node>
+<node id="afneil">
+  <data key="d0">en</data>
+</node>
+<node id="krishgm">
+  <data key="d0">en</data>
+</node>
+<node id="faisalislam">
+  <data key="d0">en</data>
+</node>
+<node id="adamboultonSKY">
+  <data key="d0">en</data>
+</node>
+<node id="lewis_goodall">
+  <data key="d0">en</data>
+</node>
+<node id="dokeefe">
+  <data key="d0">ro</data>
+</node>
+<node id="nuzzel">
+  <data key="d0">en</data>
+</node>
+<node id="BBCSurrey">
+  <data key="d0">en</data>
+</node>
+<node id="AnneMilton">
+  <data key="d0">en</data>
+</node>
+<node id="JamesCannon66">
+  <data key="d0">en</data>
+</node>
+<node id="Y_FovargueMP">
+  <data key="d0">en</data>
+</node>
+<node id="coachmally">
+  <data key="d0">en</data>
+</node>
+<node id="ABridgen">
+  <data key="d0">en</data>
+</node>
+<node id="GloriaDePiero">
+  <data key="d0">en</data>
+</node>
+<node id="fookanoo">
+  <data key="d0">en</data>
+</node>
+<node id="Shoutout_UK">
+  <data key="d0">en</data>
+</node>
+<node id="UKYouth">
+  <data key="d0">en</data>
+</node>
+<node id="bycLIVE">
+  <data key="d0">en</data>
+</node>
+<node id="ukyv">
+  <data key="d0">en</data>
+</node>
+<node id="YasmeenSerhan">
+  <data key="d0">en</data>
+</node>
+<node id="AkbarSAhmed">
+  <data key="d0">en</data>
+</node>
+<node id="39_stephs">
+  <data key="d0">en</data>
+</node>
+<node id="geoffreyMyers1">
+  <data key="d0">en</data>
+</node>
+<node id="pierrepurseigle">
+  <data key="d0">en</data>
+</node>
+<node id="CharlesFlynn4">
+  <data key="d0">en</data>
+</node>
+<node id="akemmapapa">
+  <data key="d0">en</data>
+</node>
+<node id="IPEMED">
+  <data key="d0">en</data>
+</node>
+<node id="JaloulAyed">
+  <data key="d0">fr</data>
+</node>
+<node id="edresphd">
+  <data key="d0">en</data>
+</node>
+<node id="LabourLordsUK">
+  <data key="d0">en</data>
+</node>
+<node id="johnmcdonnellMP">
+  <data key="d0">en</data>
+</node>
+<node id="vincentvalton">
+  <data key="d0">en</data>
+</node>
+<node id="Blausam1">
+  <data key="d0">en</data>
+</node>
+<node id="MarkPhilTaylor">
+  <data key="d0">en</data>
+</node>
+<node id="MartinBorewood">
+  <data key="d0">en</data>
+</node>
+<node id="ChukaUmunna">
+  <data key="d0">en</data>
+</node>
+<node id="Fake_Ljaschko">
+  <data key="d0">en</data>
+</node>
+<node id="NewsAutocorrect">
+  <data key="d0">en</data>
+</node>
+<node id="JKLDNMAD">
+  <data key="d0">en</data>
+</node>
+<node id="CharlesPTardif">
+  <data key="d0">en</data>
+</node>
+<node id="mcargobe">
+  <data key="d0">en</data>
+</node>
+<node id="sweetsmokscreen">
+  <data key="d0">en</data>
+</node>
+<node id="Tommoriarty16">
+  <data key="d0">en</data>
+</node>
+<node id="Dana_Regev">
+  <data key="d0">en</data>
+</node>
+<node id="Die_Gruenen">
+  <data key="d0">de</data>
+</node>
+<node id="Joerg_Meuthen">
+  <data key="d0">de</data>
+</node>
+<node id="MarkJSmithonMSN">
+  <data key="d0">en</data>
+</node>
+<node id="YoungGreenParty">
+  <data key="d0">en</data>
+</node>
+<node id="JumiLagos">
+  <data key="d0">en</data>
+</node>
+<node id="MsSalyersFHS">
+  <data key="d0">en</data>
+</node>
+<node id="herszenhorn">
+  <data key="d0">en</data>
+</node>
+<node id="POLITICOEurope">
+  <data key="d0">en</data>
+</node>
+<node id="PoliticoRyan">
+  <data key="d0">en</data>
+</node>
+<node id="sniffydogs">
+  <data key="d0">en</data>
+</node>
+<node id="samajweekly">
+  <data key="d0">en</data>
+</node>
+<node id="Samaj">
+  <data key="d0">en</data>
+</node>
+<node id="IamRobHarbour">
+  <data key="d0">en</data>
+</node>
+<node id="JohnCurticeOnTV">
+  <data key="d0">de</data>
+</node>
+<node id="skinnergj">
+  <data key="d0">en</data>
+</node>
+<node id="TrajanAlexande3">
+  <data key="d0">en</data>
+</node>
+<node id="Khristpher">
+  <data key="d0">en</data>
+</node>
+<node id="henryhtapper">
+  <data key="d0">en</data>
+</node>
+<node id="DisiFadel">
+  <data key="d0">en</data>
+</node>
+<node id="Amavinit">
+  <data key="d0">en</data>
+</node>
+<node id="EA_WorldView">
+  <data key="d0">en</data>
+</node>
+<node id="DemiLovatoTH">
+  <data key="d0">en</data>
+</node>
+<node id="lirac220299">
+  <data key="d0">en</data>
+</node>
+<node id="gdibarry">
+  <data key="d0">en</data>
+</node>
+<node id="Srm1n">
+  <data key="d0">en</data>
+</node>
+<node id="TRANSW0MAN">
+  <data key="d0">en</data>
+</node>
+<node id="BaobabDevon">
+  <data key="d0">en</data>
+</node>
+<node id="matthabusby">
+  <data key="d0">en</data>
+</node>
+<node id="CharlieCooper8">
+  <data key="d0">en</data>
+</node>
+<node id="duncan_morrow">
+  <data key="d0">en</data>
+</node>
+<node id="rjbristow">
+  <data key="d0">en</data>
+</node>
+<node id="eplane">
+  <data key="d0">en</data>
+</node>
+<node id="Jacob_Rees_Mogg">
+  <data key="d0">en</data>
+</node>
+<node id="clive_brookes">
+  <data key="d0">en</data>
+</node>
+<node id="TheLastLeg">
+  <data key="d0">en</data>
+</node>
+<node id="ananyah">
+  <data key="d0">en</data>
+</node>
+<node id="CristiSurubaru">
+  <data key="d0">en</data>
+</node>
+<node id="PolitieVEEN">
+  <data key="d0">nl</data>
+</node>
+<node id="markrutte">
+  <data key="d0">nl</data>
+</node>
+<node id="ROinNL">
+  <data key="d0">en</data>
+</node>
+<node id="MAERomania">
+  <data key="d0">en</data>
+</node>
+<node id="DanielFerrie">
+  <data key="d0">en</data>
+</node>
+<node id="MargSchinas">
+  <data key="d0">en</data>
+</node>
+<node id="EU_Commission">
+  <data key="d0">en</data>
+</node>
+<node id="IryPixar">
+  <data key="d0">en</data>
+</node>
+<node id="MikeTheKobbler">
+  <data key="d0">en</data>
+</node>
+<node id="EdjNet">
+  <data key="d0">en</data>
+</node>
+<node id="pina_haden">
+  <data key="d0">en</data>
+</node>
+<node id="people">
+  <data key="d0">en</data>
+</node>
+<node id="welshronald">
+  <data key="d0">en</data>
+</node>
+<node id="wrieurope">
+  <data key="d0">en</data>
+</node>
+<node id="bartleb">
+  <data key="d0">en</data>
+</node>
+<node id="david_voyle">
+  <data key="d0">en</data>
+</node>
+<node id="RTE_PrimeTime">
+  <data key="d0">en</data>
+</node>
+<node id="RTEOne">
+  <data key="d0">en</data>
+</node>
+<node id="ClaireByrneLive">
+  <data key="d0">en</data>
+</node>
+<node id="Jim_Sheridan">
+  <data key="d0">en</data>
+</node>
+<node id="EmmaKennedy">
+  <data key="d0">en</data>
+</node>
+<node id="Peter_M_Sharp">
+  <data key="d0">en</data>
+</node>
+<node id="geoffwhiles">
+  <data key="d0">en</data>
+</node>
+<node id="CNN">
+  <data key="d0">en</data>
+</node>
+<node id="cdeualmeria">
+  <data key="d0">en</data>
+</node>
+<node id="CUP_PoliSci">
+  <data key="d0">en</data>
+</node>
+<node id="Ita_PolSc_Rev">
+  <data key="d0">en</data>
+</node>
+<node id="lucianpirvoiu">
+  <data key="d0">en</data>
+</node>
+<node id="teodormelescanu">
+  <data key="d0">en</data>
+</node>
+<node id="JudithHaire">
+  <data key="d0">en</data>
+</node>
+<node id="PlasFron">
+  <data key="d0">en</data>
+</node>
+<node id="walktothestars">
+  <data key="d0">en</data>
+</node>
+<node id="MollyMEP">
+  <data key="d0">en</data>
+</node>
+<node id="LifeDeathWhat">
+  <data key="d0">en</data>
+</node>
+<node id="ColombeCS">
+  <data key="d0">en</data>
+</node>
+<node id="VoltEuropa">
+  <data key="d0">en</data>
+</node>
+<node id="SteepleTimes">
+  <data key="d0">en</data>
+</node>
+<node id="M_Steeples">
+  <data key="d0">en</data>
+</node>
+<node id="DavidTyke">
+  <data key="d0">en</data>
+</node>
+<node id="BBC">
+  <data key="d0">en</data>
+</node>
+<node id="BBCkatyaadler">
+  <data key="d0">en</data>
+</node>
+<node id="sophielovdrama">
+  <data key="d0">en</data>
+</node>
+<node id="RohanChindooroy">
+  <data key="d0">en</data>
+</node>
+<node id="NeilYoung13">
+  <data key="d0">en</data>
+</node>
+<node id="DanielRDivine">
+  <data key="d0">en</data>
+</node>
+<node id="Geek_Pride">
+  <data key="d0">en</data>
+</node>
+<node id="_pigeons_">
+  <data key="d0">en</data>
+</node>
+<node id="BristolSouthLab">
+  <data key="d0">en</data>
+</node>
+<node id="karinsmyth">
+  <data key="d0">en</data>
+</node>
+<node id="alljazzy777">
+  <data key="d0">en</data>
+</node>
+<node id="guyjackson42">
+  <data key="d0">en</data>
+</node>
+<node id="ADAMPLOW">
+  <data key="d0">en</data>
+</node>
+<node id="diiscoverii">
+  <data key="d0">en</data>
+</node>
+<node id="Paul_Usher1">
+  <data key="d0">en</data>
+</node>
+<node id="BBCNewsPR">
+  <data key="d0">en</data>
+</node>
+<node id="geordinhl">
+  <data key="d0">en</data>
+</node>
+<node id="YvonneMurphy111">
+  <data key="d0">en</data>
+</node>
+<node id="uk_domain_names">
+  <data key="d0">en</data>
+</node>
+<node id="mrjamesob">
+  <data key="d0">en</data>
+</node>
+<node id="IanDunt">
+  <data key="d0">en</data>
+</node>
+<node id="BethRigby">
+  <data key="d0">en</data>
+</node>
+<node id="huwbbc">
+  <data key="d0">en</data>
+</node>
+<node id="Peston">
+  <data key="d0">en</data>
+</node>
+<node id="sarahwollaston">
+  <data key="d0">en</data>
+</node>
+<node id="CMCMarkets">
+  <data key="d0">en</data>
+</node>
+<node id="mhewson_CMC">
+  <data key="d0">en</data>
+</node>
+<node id="WolfMother19">
+  <data key="d0">en</data>
+</node>
+<node id="nadeemansary">
+  <data key="d0">en</data>
+</node>
+<node id="TelePolitics">
+  <data key="d0">en</data>
+</node>
+<node id="Ashley_J_Kirk">
+  <data key="d0">en</data>
+</node>
+<node id="fivestring">
+  <data key="d0">en</data>
+</node>
+<node id="WingsScotland">
+  <data key="d0">en</data>
+</node>
+<node id="Thelandlord5">
+  <data key="d0">en</data>
+</node>
+<node id="AGRconsultancy">
+  <data key="d0">en</data>
+</node>
+<node id="CrusadeFan">
+  <data key="d0">en</data>
+</node>
+<node id="ayeshahazarika">
+  <data key="d0">en</data>
+</node>
+<node id="IainDale">
+  <data key="d0">en</data>
+</node>
+<node id="LiamHalligan">
+  <data key="d0">en</data>
+</node>
+<node id="bianca_nobilo">
+  <data key="d0">so</data>
+</node>
+<node id="hughvirginia">
+  <data key="d0">en</data>
+</node>
+<node id="techjollof">
+  <data key="d0">en</data>
+</node>
+<node id="HolyroodDaily">
+  <data key="d0">en</data>
+</node>
+<node id="MagicMagid">
+  <data key="d0">en</data>
+</node>
+<node id="HolyroodLiam">
+  <data key="d0">af</data>
+</node>
+<node id="sen924153">
+  <data key="d0">en</data>
+</node>
+<node id="YouTubeより">
+  <data key="d0">ja</data>
+</node>
+<node id="LisaZWilton">
+  <data key="d0">en</data>
+</node>
+<node id="DyfedPowysFed">
+  <data key="d0">en</data>
+</node>
+<node id="fay_young">
+  <data key="d0">en</data>
+</node>
+<node id="NewsOldies">
+  <data key="d0">en</data>
+</node>
+<node id="lea_ypi">
+  <data key="d0">en</data>
+</node>
+<node id="Independent">
+  <data key="d0">en</data>
+</node>
+<node id="LSEnews">
+  <data key="d0">en</data>
+</node>
+<node id="LSE_poty">
+  <data key="d0">en</data>
+</node>
+<node id="LSEGovernment">
+  <data key="d0">en</data>
+</node>
+<node id="seanyseanysaeny">
+  <data key="d0">en</data>
+</node>
+<node id="carbonerodani">
+  <data key="d0">en</data>
+</node>
+<node id="SkyNewsPolitics">
+  <data key="d0">en</data>
+</node>
+<node id="Brexit_Support">
+  <data key="d0">en</data>
+</node>
+<node id="gbktas">
+  <data key="d0">en</data>
+</node>
+<node id="TheBrexitPartly">
+  <data key="d0">nl</data>
+</node>
+<node id="JackoJacklin">
+  <data key="d0">en</data>
+</node>
+<node id="galdemzine">
+  <data key="d0">en</data>
+</node>
+<node id="thomaskay11">
+  <data key="d0">en</data>
+</node>
+<node id="Alan_McGuinness">
+  <data key="d0">en</data>
+</node>
+<node id="kvconstant">
+  <data key="d0">en</data>
+</node>
+<node id="BBCWorld">
+  <data key="d0">en</data>
+</node>
+<node id="GazzaHu">
+  <data key="d0">en</data>
+</node>
+<node id="AnneRabbitte">
+  <data key="d0">en</data>
+</node>
+<node id="chillisauce93">
+  <data key="d0">en</data>
+</node>
+<node id="rich_urwin">
+  <data key="d0">en</data>
+</node>
+<node id="arslan1053">
+  <data key="d0">en</data>
+</node>
+<node id="DominicRaab">
+  <data key="d0">en</data>
+</node>
+<node id="BikesNBukes">
+  <data key="d0">en</data>
+</node>
+<node id="TodaySOR">
+  <data key="d0">en</data>
+</node>
+<node id="brianvmullaney">
+  <data key="d0">en</data>
+</node>
+<node id="barryharvey">
+  <data key="d0">en</data>
+</node>
+<node id="SuzieGilbertLdn">
+  <data key="d0">en</data>
+</node>
+<node id="AOC">
+  <data key="d0">en</data>
+</node>
+<node id="Tom___Scott">
+  <data key="d0">en</data>
+</node>
+<node id="fidelmacook">
+  <data key="d0">en</data>
+</node>
+<node id="guse_guse">
+  <data key="d0">en</data>
+</node>
+<node id="canablach">
+  <data key="d0">en</data>
+</node>
+<node id="jamswilliams85">
+  <data key="d0">en</data>
+</node>
+<node id="WelshLibDems">
+  <data key="d0">en</data>
+</node>
+<node id="Hasanpatel">
+  <data key="d0">en</data>
+</node>
+<node id="wrishib">
+  <data key="d0">en</data>
+</node>
+<node id="lavidaenmochila">
+  <data key="d0">en</data>
+</node>
+<node id="JAanzi">
+  <data key="d0">en</data>
+</node>
+<node id="Lorbobo1">
+  <data key="d0">en</data>
+</node>
+<node id="sandy_cshore">
+  <data key="d0">en</data>
+</node>
+<node id="Airdroptodeals">
+  <data key="d0">en</data>
+</node>
+<node id="cryptobasenews1">
+  <data key="d0">en</data>
+</node>
+<node id="robstead">
+  <data key="d0">en</data>
+</node>
+<node id="JOE_co_uk">
+  <data key="d0">en</data>
+</node>
+<node id="apbrown17">
+  <data key="d0">en</data>
+</node>
+<node id="Dantc75">
+  <data key="d0">en</data>
+</node>
+<node id="kerrydevans">
+  <data key="d0">en</data>
+</node>
+<node id="AlmaPantaleo">
+  <data key="d0">en</data>
+</node>
+<node id="skyblue_England">
+  <data key="d0">en</data>
+</node>
+<node id="JohnEas56676398">
+  <data key="d0">en</data>
+</node>
+<node id="Stevie_T">
+  <data key="d0">en</data>
+</node>
+<node id="thecluny">
+  <data key="d0">en</data>
+</node>
+<node id="tenacitymusicpr">
+  <data key="d0">en</data>
+</node>
+<node id="radiohartlepool">
+  <data key="d0">en</data>
+</node>
+<node id="bishopfm">
+  <data key="d0">en</data>
+</node>
+<node id="matteoplatone">
+  <data key="d0">en</data>
+</node>
+<node id="JamesHockaday_">
+  <data key="d0">en</data>
+</node>
+<node id="Boostalife">
+  <data key="d0">en</data>
+</node>
+<node id="expensify">
+  <data key="d0">en</data>
+</node>
+<node id="bexiocom">
+  <data key="d0">de</data>
+</node>
+<node id="Xero">
+  <data key="d0">en</data>
+</node>
+<node id="MarxistWhovian">
+  <data key="d0">en</data>
+</node>
+<node id="dannydorling">
+  <data key="d0">en</data>
+</node>
+<node id="cllrkemp">
+  <data key="d0">en</data>
+</node>
+<node id="oldgreydoc">
+  <data key="d0">en</data>
+</node>
+<node id="elgae669">
+  <data key="d0">en</data>
+</node>
+<node id="lbc">
+  <data key="d0">en</data>
+</node>
+<node id="BerlinPolicy">
+  <data key="d0">en</data>
+</node>
+<node id="APHClarkson">
+  <data key="d0">en</data>
+</node>
+<node id="seitaro12">
+  <data key="d0">en</data>
+</node>
+<node id="HyperGoat1">
+  <data key="d0">en</data>
+</node>
+<node id="RogerGrahamD">
+  <data key="d0">en</data>
+</node>
+<node id="Rebartic">
+  <data key="d0">en</data>
+</node>
+<node id="reactionlife">
+  <data key="d0">en</data>
+</node>
+<node id="LiberallyHappy">
+  <data key="d0">en</data>
+</node>
+<node id="Marghe58277301">
+  <data key="d0">en</data>
+</node>
+<node id="DeirdreCISI">
+  <data key="d0">en</data>
+</node>
+<node id="moranjohna1">
+  <data key="d0">en</data>
+</node>
+<node id="CISI">
+  <data key="d0">en</data>
+</node>
+<node id="IrishTimesBiz">
+  <data key="d0">en</data>
+</node>
+<node id="harleyrules170">
+  <data key="d0">en</data>
+</node>
+<node id="the">
+  <data key="d0">en</data>
+</node>
+<node id="MrRPTaylor">
+  <data key="d0">en</data>
+</node>
+<node id="RadicalBrexit">
+  <data key="d0">en</data>
+</node>
+<node id="LS3370">
+  <data key="d0">en</data>
+</node>
+<node id="Hagar62lufc">
+  <data key="d0">en</data>
+</node>
+<node id="Ofcom">
+  <data key="d0">en</data>
+</node>
+<node id="JohnSeaton">
+  <data key="d0">en</data>
+</node>
+<node id="__MrBeans">
+  <data key="d0">en</data>
+</node>
+<node id="jimbo5765">
+  <data key="d0">en</data>
+</node>
+<node id="norsel1on">
+  <data key="d0">en</data>
+</node>
+<node id="bbcscotland">
+  <data key="d0">en</data>
+</node>
+<node id="sahagunfelipe">
+  <data key="d0">en</data>
+</node>
+<node id="AlanEwartJames1">
+  <data key="d0">en</data>
+</node>
+<node id="FHConservatives">
+  <data key="d0">en</data>
+</node>
+<node id="Brain1Brain">
+  <data key="d0">en</data>
+</node>
+<node id="Turnip_Ghost">
+  <data key="d0">en</data>
+</node>
+<node id="AlynSmith">
+  <data key="d0">en</data>
+</node>
+<node id="IlvesToomas">
+  <data key="d0">en</data>
+</node>
+<node id="wildey_1">
+  <data key="d0">en</data>
+</node>
+<node id="pongodhall">
+  <data key="d0">en</data>
+</node>
+<node id="PrettyHatMech">
+  <data key="d0">en</data>
+</node>
+<node id="cghgreen">
+  <data key="d0">en</data>
+</node>
+<node id="theipaper">
+  <data key="d0">en</data>
+</node>
+<node id="transform_ntwrk">
+  <data key="d0">en</data>
+</node>
+<node id="MalinBjork_EU">
+  <data key="d0">sv</data>
+</node>
+<node id="GUENGL">
+  <data key="d0">en</data>
+</node>
+<node id="alanpps">
+  <data key="d0">en</data>
+</node>
+<node id="paulwujek">
+  <data key="d0">en</data>
+</node>
+<node id="MrGiuseppeGallo">
+  <data key="d0">en</data>
+</node>
+<node id="Activeconvo">
+  <data key="d0">en</data>
+</node>
+<node id="ajayjagota">
+  <data key="d0">en</data>
+</node>
+<node id="DarrenMole">
+  <data key="d0">en</data>
+</node>
+<node id="markg5452">
+  <data key="d0">en</data>
+</node>
+<node id="SkyNewsAust">
+  <data key="d0">en</data>
+</node>
+<node id="montie">
+  <data key="d0">en</data>
+</node>
+<node id="RedCosmonaut">
+  <data key="d0">en</data>
+</node>
+<node id="phil_edwards_uk">
+  <data key="d0">en</data>
+</node>
+<node id="MechthildRoos">
+  <data key="d0">en</data>
+</node>
+<node id="HugsJoJoJo">
+  <data key="d0">en</data>
+</node>
+<node id="Petrie">
+  <data key="d0">en</data>
+</node>
+<node id="maidenheadLD">
+  <data key="d0">en</data>
+</node>
+<node id="catherinemep">
+  <data key="d0">cy</data>
+</node>
+<node id="nobbyonemate">
+  <data key="d0">en</data>
+</node>
+<node id="GreyER_13">
+  <data key="d0">en</data>
+</node>
+<node id="pdemul">
+  <data key="d0">en</data>
+</node>
+<node id="RemainiacsCast">
+  <data key="d0">en</data>
+</node>
+<node id="k_brexit">
+  <data key="d0">en</data>
+</node>
+<node id="PaddyEmond">
+  <data key="d0">en</data>
+</node>
+<node id="AnthonyDurance">
+  <data key="d0">en</data>
+</node>
+<node id="christoffler">
+  <data key="d0">en</data>
+</node>
+<node id="Untidy_mind">
+  <data key="d0">en</data>
+</node>
+<node id="GothboyUK">
+  <data key="d0">en</data>
+</node>
+<node id="yvettecooperMP">
+  <data key="d0">en</data>
+</node>
+<node id="GrahamRCarter">
+  <data key="d0">en</data>
+</node>
+<node id="100pctcocoa">
+  <data key="d0">en</data>
+</node>
+<node id="kirkconnel">
+  <data key="d0">en</data>
+</node>
+<node id="theJeremyVine">
+  <data key="d0">en</data>
+</node>
+<node id="CardinalBiggle2">
+  <data key="d0">en</data>
+</node>
+<node id="Labour4EU">
+  <data key="d0">en</data>
+</node>
+<node id="POL_Research">
+  <data key="d0">en</data>
+</node>
+<node id="election_data">
+  <data key="d0">en</data>
+</node>
+<node id="Heldinatwork">
+  <data key="d0">en</data>
+</node>
+<node id="DBizNews">
+  <data key="d0">en</data>
+</node>
+<node id="petermbenglish">
+  <data key="d0">en</data>
+</node>
+<node id="gamblingman8">
+  <data key="d0">en</data>
+</node>
+<node id="bbc">
+  <data key="d0">en</data>
+</node>
+<node id="AndrewMarr9">
+  <data key="d0">en</data>
+</node>
+<node id="kboglarka_">
+  <data key="d0">en</data>
+</node>
+<node id="matt0675">
+  <data key="d0">en</data>
+</node>
+<node id="andy_boy28">
+  <data key="d0">en</data>
+</node>
+<node id="Eurovision">
+  <data key="d0">en</data>
+</node>
+<node id="Eurodesk">
+  <data key="d0">en</data>
+</node>
+<node id="EuropeanYouthEU">
+  <data key="d0">en</data>
+</node>
+<node id="russellquirk">
+  <data key="d0">en</data>
+</node>
+<node id="mpntod">
+  <data key="d0">en</data>
+</node>
+<node id="winld">
+  <data key="d0">en</data>
+</node>
+<node id="Peter_Underwood">
+  <data key="d0">en</data>
+</node>
+<node id="VillageVoice1">
+  <data key="d0">en</data>
+</node>
+<node id="ugurtackinlar">
+  <data key="d0">en</data>
+</node>
+<node id="steven234116">
+  <data key="d0">en</data>
+</node>
+<node id="danielsharp1882">
+  <data key="d0">en</data>
+</node>
+<node id="Romabosc">
+  <data key="d0">en</data>
+</node>
+<node id="Gweilouk">
+  <data key="d0">en</data>
+</node>
+<node id="ConHome">
+  <data key="d0">en</data>
+</node>
+<node id="DARTHGRUMBLE">
+  <data key="d0">en</data>
+</node>
+<node id="StuartSW">
+  <data key="d0">en</data>
+</node>
+<node id="UKIP">
+  <data key="d0">en</data>
+</node>
+<node id="jaimenavarro">
+  <data key="d0">en</data>
+</node>
+<node id="CarolyneKershaw">
+  <data key="d0">en</data>
+</node>
+<node id="nadhimzahawi">
+  <data key="d0">en</data>
+</node>
+<node id="LeeGTMarsons">
+  <data key="d0">en</data>
+</node>
+<node id="law_soc">
+  <data key="d0">en</data>
+</node>
+<node id="XavierMuixench">
+  <data key="d0">en</data>
+</node>
+<node id="JuntsXCat">
+  <data key="d0">ca</data>
+</node>
+<node id="KRLS">
+  <data key="d0">ca</data>
+</node>
+<node id="MrMattCooke">
+  <data key="d0">en</data>
+</node>
+<node id="TheresaMayFBPE">
+  <data key="d0">en</data>
+</node>
+<node id="ASTait">
+  <data key="d0">en</data>
+</node>
+<node id="clearpolitic5">
+  <data key="d0">en</data>
+</node>
+<node id="blinkerdbritain">
+  <data key="d0">en</data>
+</node>
+<node id="MichaelCaffre10">
+  <data key="d0">en</data>
+</node>
+<node id="Paulo__1878">
+  <data key="d0">en</data>
+</node>
+<node id="EuropeLotteries">
+  <data key="d0">en</data>
+</node>
+<node id="BSHennig">
+  <data key="d0">en</data>
+</node>
+<node id="SortitionNow">
+  <data key="d0">en</data>
+</node>
+<node id="dspencer47">
+  <data key="d0">en</data>
+</node>
+<node id="GherghisanM">
+  <data key="d0">en</data>
+</node>
+<node id="shailendrat68">
+  <data key="d0">en</data>
+</node>
+<node id="WyeLea">
+  <data key="d0">en</data>
+</node>
+<node id="Mark_Elmy">
+  <data key="d0">en</data>
+</node>
+<node id="PhilMye39535608">
+  <data key="d0">en</data>
+</node>
+<node id="Leonmwc">
+  <data key="d0">en</data>
+</node>
+<node id="Berenberg_Econ">
+  <data key="d0">en</data>
+</node>
+<node id="EU_Logos">
+  <data key="d0">en</data>
+</node>
+<node id="argano_elena">
+  <data key="d0">en</data>
+</node>
+<node id="TeivoTeivainen">
+  <data key="d0">en</data>
+</node>
+<node id="EeroHeinaluoma">
+  <data key="d0">fi</data>
+</node>
+<node id="J0hnBarleyc0rn">
+  <data key="d0">en</data>
+</node>
+<node id="BryanMGLibDem">
+  <data key="d0">en</data>
+</node>
+<node id="BBCSussex">
+  <data key="d0">en</data>
+</node>
+<node id="PSUK55">
+  <data key="d0">en</data>
+</node>
+<node id="ShehanneMoore">
+  <data key="d0">en</data>
+</node>
+<node id="ChrisMo50s">
+  <data key="d0">en</data>
+</node>
+<node id="jackpw3">
+  <data key="d0">en</data>
+</node>
+<node id="SteveHa30404522">
+  <data key="d0">en</data>
+</node>
+<node id="EU_Remain_2017">
+  <data key="d0">en</data>
+</node>
+<node id="guyverhofstadt">
+  <data key="d0">en</data>
+</node>
+<node id="AlistairGeddes">
+  <data key="d0">en</data>
+</node>
+<node id="sweirz">
+  <data key="d0">en</data>
+</node>
+<node id="IROMG">
+  <data key="d0">en</data>
+</node>
+<node id="DeMeiro78">
+  <data key="d0">en</data>
+</node>
+<node id="TheDemCoalition">
+  <data key="d0">en</data>
+</node>
+<node id="thedemcoalition">
+  <data key="d0">af</data>
+</node>
+<node id="thedemocrats">
+  <data key="d0">en</data>
+</node>
+<node id="SenateDems">
+  <data key="d0">en</data>
+</node>
+<node id="HouseDemocrats">
+  <data key="d0">en</data>
+</node>
+<node id="SteveKBannon">
+  <data key="d0">en</data>
+</node>
+<node id="brianhardie65">
+  <data key="d0">en</data>
+</node>
+<node id="hileaf">
+  <data key="d0">en</data>
+</node>
+<node id="BBCNolan">
+  <data key="d0">en</data>
+</node>
+<node id="StephenNolan">
+  <data key="d0">en</data>
+</node>
+<node id="BBCSounds">
+  <data key="d0">en</data>
+</node>
+<node id="MikeBiden">
+  <data key="d0">en</data>
+</node>
+<node id="CapitalNWANews">
+  <data key="d0">en</data>
+</node>
+<node id="capitalswanews">
+  <data key="d0">en</data>
+</node>
+<node id="matt_shilcock">
+  <data key="d0">en</data>
+</node>
+<node id="daryl_paul">
+  <data key="d0">en</data>
+</node>
+<node id="SkiSavoyard">
+  <data key="d0">en</data>
+</node>
+<node id="ba19974">
+  <data key="d0">en</data>
+</node>
+<node id="HackneyAbbott">
+  <data key="d0">en</data>
+</node>
+<node id="ThePagies_">
+  <data key="d0">en</data>
+</node>
+<node id="NickBoles">
+  <data key="d0">en</data>
+</node>
+<node id="bbradleymp">
+  <data key="d0">en</data>
+</node>
+<node id="dedalos_gl">
+  <data key="d0">en</data>
+</node>
+<node id="eucopresident">
+  <data key="d0">en</data>
+</node>
+<node id="UCBNewsTeam">
+  <data key="d0">en</data>
+</node>
+<node id="UCBMedia">
+  <data key="d0">en</data>
+</node>
+<node id="dugoow">
+  <data key="d0">en</data>
+</node>
+<node id="niktraykov">
+  <data key="d0">en</data>
+</node>
+<node id="AngiePedley">
+  <data key="d0">en</data>
+</node>
+<node id="georginagodwin">
+  <data key="d0">en</data>
+</node>
+<node id="cmcdonaldgibson">
+  <data key="d0">en</data>
+</node>
+<node id="Kenji_Hall">
+  <data key="d0">en</data>
+</node>
+<node id="Nigel_95">
+  <data key="d0">en</data>
+</node>
+<node id="Scooter_NUFC">
+  <data key="d0">en</data>
+</node>
+<node id="MuleRetired">
+  <data key="d0">en</data>
+</node>
+<node id="welshrossy">
+  <data key="d0">en</data>
+</node>
+<node id="VoteLeave_eu">
+  <data key="d0">en</data>
+</node>
+<node id="KennedyJodyJ">
+  <data key="d0">en</data>
+</node>
+<node id="MAJ57069065">
+  <data key="d0">en</data>
+</node>
+<node id="theresa_may">
+  <data key="d0">en</data>
+</node>
+<node id="ilovelocke">
+  <data key="d0">en</data>
+</node>
+<node id="tim4eu">
+  <data key="d0">en</data>
+</node>
+<node id="LairdMichael3">
+  <data key="d0">en</data>
+</node>
+<node id="ukpapers">
+  <data key="d0">en</data>
+</node>
+<node id="rowenamason">
+  <data key="d0">en</data>
+</node>
+<node id="StevieJ2019">
+  <data key="d0">en</data>
+</node>
+<edge source="EurAlmanac" target="Guardian"/>
+<edge source="nocopoutuk" target="YouTube"/>
+<edge source="honu2000" target="Forbes"/>
+<edge source="JnthnMorse" target="UKLabour"/>
+<edge source="JnthnMorse" target="bbcpm"/>
+<edge source="GGevirtz" target="MatthewRavenhil"/>
+<edge source="Nick42024488" target="Nigel_Farage"/>
+<edge source="Nick42024488" target="simoncoveney"/>
+<edge source="Nick42024488" target="Europarl_EN"/>
+<edge source="SSTARKE11569524" target="GoogleNews"/>
+<edge source="alankemp69" target="YouTube"/>
+<edge source="Micalet69" target="jeremycorbyn"/>
+<edge source="JudithBuntingLD" target="SELibDems"/>
+<edge source="reFocusZone" target="PeriscopeCo"/>
+<edge source="BakustanCity" target="YouTube"/>
+<edge source="coop_exchange" target="prestonlabour"/>
+<edge source="coop_exchange" target="matthewbrown"/>
+<edge source="Orgetorix" target="WSJ"/>
+<edge source="citizenrobert" target="jerichochambers"/>
+<edge source="citizenrobert" target="Neal_Compass"/>
+<edge source="KhristComplex" target="UKLabour"/>
+<edge source="lohithbb" target="YouTube"/>
+<edge source="Gate8_CFC" target="Anna_Soubry"/>
+<edge source="Gate8_CFC" target="SkyNews"/>
+<edge source="Gate8_CFC" target="Daily_Express"/>
+<edge source="geffers64" target="heidiallen75"/>
+<edge source="briandsloan" target="Telegraph"/>
+<edge source="lawrencedavis" target="darrenpjones"/>
+<edge source="SGough21" target="RichardBurgon"/>
+<edge source="ScottLucas_EA" target="talkRADIO"/>
+<edge source="ScottLucas_EA" target="AlStewITN"/>
+<edge source="jsdarby1" target="UKgovcomms"/>
+<edge source="DarrenEuronews" target="BrexitParty_UK"/>
+<edge source="DarrenEuronews" target="Nigel_Farage"/>
+<edge source="DarrenEuronews" target="VinnyMcAv"/>
+<edge source="raphaellaN" target="brexitparty_uk"/>
+<edge source="LBC" target="Nigel_Farage"/>
+<edge source="Vincentcrown659" target="YouTube"/>
+<edge source="Vincentcrown659" target="realDonaldTrump"/>
+<edge source="BunnyGrubby" target="UKLabour"/>
+<edge source="BunnyGrubby" target="jessphillips"/>
+<edge source="YokoyamaPj" target="WSJ"/>
+<edge source="JamesCreedonF24" target="lesRepublicains"/>
+<edge source="JamesCreedonF24" target="partisocialiste"/>
+<edge source="ALGALWAY" target="thejournal_ie"/>
+<edge source="ALGALWAY" target="NewstalkFM"/>
+<edge source="ALGALWAY" target="rtenews"/>
+<edge source="PVinden" target="jeremycorbyn"/>
+<edge source="PaulGoodmanCH" target="LordAshcroft"/>
+<edge source="simonstorvik" target="LewishamCouncil"/>
+<edge source="zozorry3377" target="YouTube"/>
+<edge source="AnimalistaCR" target="Partido_PAN"/>
+<edge source="AnimalistaCR" target="Party4Animals"/>
+<edge source="AnimalistaCR" target="Tierschutzparte"/>
+<edge source="AnimalistaCR" target="DierAnimal"/>
+<edge source="lukeford" target="YouTube"/>
+<edge source="9PedroGarcia" target="DerSPIEGEL"/>
+<edge source="9PedroGarcia" target="Augstein"/>
+<edge source="9PedroGarcia" target="bodoramelow"/>
+<edge source="9PedroGarcia" target="HandelsblattGE"/>
+<edge source="9PedroGarcia" target="zeitonline"/>
+<edge source="9PedroGarcia" target="nwzonline"/>
+<edge source="PragueSummit" target="TPetricek"/>
+<edge source="ScorpioSchwarz" target="MailOnline"/>
+<edge source="maybeawriter" target="financialtimes"/>
+<edge source="jonandali" target="LBC"/>
+<edge source="The4810" target="UKChange"/>
+<edge source="messybeckie" target="LBC"/>
+<edge source="tonyroe" target="bbcemt"/>
+<edge source="tonyroe" target="BBCPolitics"/>
+<edge source="VOA60News" target="YouTube"/>
+<edge source="MrCatStubble" target="realDonaldTrump"/>
+<edge source="MrCatStubble" target="POTUS"/>
+<edge source="BrianDonnellyHT" target="ewduffy"/>
+<edge source="BartBull72" target="UKLabour"/>
+<edge source="BartBull72" target="jeremycorbyn"/>
+<edge source="aashlock" target="hereandnow"/>
+<edge source="aashlock" target="akuhnNPRnews"/>
+<edge source="aashlock" target="odowdpeter"/>
+<edge source="aashlock" target="GavinLeeBBC"/>
+<edge source="BeulahNix" target="NeonNettle"/>
+<edge source="Wise64" target="telegraph"/>
+<edge source="Wise64" target="Conservatives"/>
+<edge source="HoltDaved" target="LBC"/>
+<edge source="goonerfan65" target="BBCNews"/>
+<edge source="Rob_Hadley" target="BBCOS"/>
+<edge source="NickSquires1" target="telegraphnews"/>
+<edge source="rjnewton1982" target="labour"/>
+<edge source="rjnewton1982" target="jessphillips"/>
+<edge source="Endoxa66" target="SamGyimah"/>
+<edge source="Endoxa66" target="brexitparty_uk"/>
+<edge source="ChrisWolak1" target="YouTube"/>
+<edge source="StephenPRBrown" target="barrysheerman"/>
+<edge source="Williamm49" target="WILLIAMM49"/>
+<edge source="justofflondon" target="ChoosePippa"/>
+<edge source="ccara" target="IvanYatesNT"/>
+<edge source="umithopegok" target="updayUK"/>
+<edge source="Virgili73123187" target="Anna_Soubry"/>
+<edge source="celticbro" target="eddiemair"/>
+<edge source="fiannafailparty" target="ThomasByrneTD"/>
+<edge source="fiannafailparty" target="lstwrd"/>
+<edge source="mdbussiere1" target="YouTube"/>
+<edge source="ColinDTaylor" target="shaffaqmohd"/>
+<edge source="newsondowntown" target="DianeDoddsMEP"/>
+<edge source="SashaWylie" target="DianeDoddsMEP"/>
+<edge source="jean0369" target="YouTube"/>
+<edge source="newsoncool" target="DianeDoddsMEP"/>
+<edge source="XJMejido" target="financialtimes"/>
+<edge source="CrouzetThomas" target="YouTube"/>
+<edge source="RefRicketts" target="OxfordWords"/>
+<edge source="RefRicketts" target="jeremycorbyn"/>
+<edge source="mperelman" target="France24_en"/>
+<edge source="BCU_Brexit" target="deruytea"/>
+<edge source="bunkybun" target="elpaisinenglish"/>
+<edge source="bunkybun" target="bellacaledonia"/>
+<edge source="friendofthe" target="Shareaholic"/>
+<edge source="crunchtimelover" target="yahooNewsUK"/>
+<edge source="cainburdeau" target="CourthouseNews"/>
+<edge source="Vic_Magalhaes8" target="pollofpolls_EU"/>
+<edge source="Vic_Magalhaes8" target="politico"/>
+<edge source="sotirisusa" target="YouTube"/>
+<edge source="MichaelPettifa1" target="UKLabour"/>
+<edge source="jockywocky" target="RuthDavidsonMSP"/>
+<edge source="EDICSligo" target="sligococo"/>
+<edge source="EDICSligo" target="MayoCoCo"/>
+<edge source="EDICSligo" target="leitrimcoco"/>
+<edge source="jon_bartley" target="TheGreenParty"/>
+<edge source="ayhsWTP56" target="YahooNews"/>
+<edge source="JohnOHara6" target="jeremycorbyn"/>
+<edge source="xyang1997" target="YouTube"/>
+<edge source="hamanegg1983" target="BBCScotland"/>
+<edge source="imonarch" target="YouTube"/>
+<edge source="GeorgeValentin2" target="Nigel_Farage"/>
+<edge source="PeterBellini" target="LordAshcroft"/>
+<edge source="sachim93" target="YouTube"/>
+<edge source="threadreaderapp" target="Econ_Marshall"/>
+<edge source="threadreaderapp" target="jacobinmag"/>
+<edge source="SmartThinktanks" target="instituteforgov"/>
+<edge source="SmartThinktanks" target="StefanieBolzen"/>
+<edge source="SmartThinktanks" target="soniastolper"/>
+<edge source="SmartThinktanks" target="sarahobolt"/>
+<edge source="JMBEuansSon" target="theSNP"/>
+<edge source="clairemasser" target="BBCNews"/>
+<edge source="GHulluni" target="BrexitpartyY"/>
+<edge source="CraigAmbrose1" target="PhDole"/>
+<edge source="mcbrexit" target="sianberry"/>
+<edge source="Russell_941" target="pamelageller"/>
+<edge source="Rory_M_Stewart" target="kayeadams"/>
+<edge source="annjone82875685" target="piersmorgan"/>
+<edge source="SandraCarreira1" target="Europarl_EN"/>
+<edge source="jonmgriggs" target="TheGreenParty"/>
+<edge source="sonneyjo" target="euronews"/>
+<edge source="JuanoAbarca" target="financialtimes"/>
+<edge source="SweekimY" target="YouTube"/>
+<edge source="LurganSpade" target="HouseofCommons"/>
+<edge source="LeicesterSWP" target="uaf"/>
+<edge source="ProfSaunders" target="henryfarrell"/>
+<edge source="RobertHoustonII" target="yahooNewsUK"/>
+<edge source="Eviebt" target="TheBluetrot"/>
+<edge source="BrexitE" target="campbellclaret"/>
+<edge source="LeicesterUAF" target="uaf"/>
+<edge source="StivenSkyrah" target="BBCNews"/>
+<edge source="StivenSkyrah" target="TheGreenParty"/>
+<edge source="StivenSkyrah" target="sianberry"/>
+<edge source="CsHotness" target="YouTube"/>
+<edge source="weijgenberger" target="elpaisinenglish"/>
+<edge source="DanJamesRenew" target="RenewParty"/>
+<edge source="MariaJoseSalcdo" target="TheEconomist"/>
+<edge source="dgerstner33" target="POTUS"/>
+<edge source="James_Sloam" target="bbclaurak"/>
+<edge source="James_Sloam" target="LibDems"/>
+<edge source="James_Sloam" target="TheGreenParty"/>
+<edge source="James_Sloam" target="guardian"/>
+<edge source="RozennM" target="onepolicyplace"/>
+<edge source="SineFadaadB" target="NathanRyding_"/>
+<edge source="ScottyMcLeod" target="JimMillardld"/>
+<edge source="ScottyMcLeod" target="robinwbrown"/>
+<edge source="MediadorAnd" target="coe"/>
+<edge source="MediadorAnd" target="TJagland"/>
+<edge source="libdemvoice" target="honladymark"/>
+<edge source="ianwhu" target="georgiebingham"/>
+<edge source="EdwardAdoo" target="bbc3cr"/>
+<edge source="schvetlana" target="elpaisinenglish"/>
+<edge source="AtlantoCeltica" target="rte"/>
+<edge source="RevMatthewZRoss" target="allianceparty"/>
+<edge source="godfroykone" target="Challenges"/>
+<edge source="AnnaHimmelreich" target="impakterdotcom"/>
+<edge source="pw103" target="Telegraph"/>
+<edge source="Huggies2222" target="jeremycorbyn"/>
+<edge source="Huggies2222" target="Nigel_Farage"/>
+<edge source="europeansting" target="europeansting"/>
+<edge source="CaminoMortera" target="HallBenjamin"/>
+<edge source="CaminoMortera" target="financialtimes"/>
+<edge source="hannahswg" target="SurgeRadio"/>
+<edge source="michaeljardine" target="allianceparty"/>
+<edge source="michaeljardine" target="naomi_long"/>
+<edge source="bobby9496" target="M_AndersonSF"/>
+<edge source="rgjoni" target="thejournal_ie"/>
+<edge source="TOOSHORT1976" target="YouTube"/>
+<edge source="dogboy999" target="LBC"/>
+<edge source="SamuelBREXIT" target="brexitparty_uk"/>
+<edge source="JohnHowarth1958" target="ReadingLabour"/>
+<edge source="Guillaume_Alv" target="IrishTimesWorld"/>
+<edge source="Dwinterbottom2" target="MetroUK"/>
+<edge source="Paulie76100259" target="MetroUK"/>
+<edge source="Thomas__Weber" target="CTVNews"/>
+<edge source="SCER_eu" target="scer_eu"/>
+<edge source="wufandmew" target="pamelageller"/>
+<edge source="CharlesHThyme" target="financialtimes"/>
+<edge source="hayesgar" target="PeoplesMomentum"/>
+<edge source="ArleneBHeed" target="MetroUK"/>
+<edge source="ncodling" target="LBC"/>
+<edge source="rajatepoch" target="SBSNews"/>
+<edge source="ezduzit63" target="wordpressdotcom"/>
+<edge source="BorderRaven" target="YouTube"/>
+<edge source="BelgaImage" target="dirkwaem"/>
+<edge source="GPI159" target="brexitparty_uk"/>
+<edge source="Zenber1" target="businessinsider"/>
+<edge source="Goodwinaj1" target="brexitparty_uk"/>
+<edge source="Goodwinaj1" target="Nigel_Farage"/>
+<edge source="janeD77" target="thejournal_ie"/>
+<edge source="OmeletteAsiatiK" target="ggreenwald"/>
+<edge source="Arturo_Sarukhan" target="FinancialTimes"/>
+<edge source="manianca" target="manianca"/>
+<edge source="NationalComment" target="TheNationalUAE"/>
+<edge source="Mr_C_Wadd" target="financialtimes"/>
+<edge source="tdanjones1" target="YouTube"/>
+<edge source="kennethmac2000" target="LSEpoliticsblog"/>
+<edge source="CowboyPaddy" target="thejournal_ie"/>
+<edge source="ChambersIreland" target="MaireadMcGMEP"/>
+<edge source="Paulawelf" target="jeremycorbyn"/>
+<edge source="commonpatriot" target="PamelaGeller"/>
+<edge source="unchienanatolie" target="Telegraph"/>
+<edge source="crewislife" target="nytimes"/>
+<edge source="UvA_AISSR" target="NL_Wetenschap"/>
+<edge source="Fankledoose" target="theSNP"/>
+<edge source="EURefJune" target="The_Evil_Barbie"/>
+<edge source="EURefJune" target="JulesSunbeam"/>
+<edge source="EURefJune" target="bandraidoir"/>
+<edge source="EURefJune" target="WendyvanFrank1"/>
+<edge source="EURefJune" target="Tory_Karen"/>
+<edge source="EURefJune" target="Lugey6"/>
+<edge source="aJSDecepida" target="businessinsider"/>
+<edge source="akentishlass" target="UKLabour"/>
+<edge source="itechstore_ie" target="thejournal_ie"/>
+<edge source="TJ_Politics" target="thejournal_ie"/>
+<edge source="PhotoklassikInt" target="ILFORDPhoto"/>
+<edge source="christinafinn8" target="thejournal_ie"/>
+<edge source="filfyfabio" target="SkyNews"/>
+<edge source="filfyfabio" target="BBCNews"/>
+<edge source="filfyfabio" target="brexitparty_uk"/>
+<edge source="filfyfabio" target="MartinDaubney"/>
+<edge source="filfyfabio" target="andywigmore"/>
+<edge source="afplondon" target="AFP"/>
+<edge source="afplondon" target="dariothuburn"/>
+<edge source="Bankofisland" target="thejournal_ie"/>
+<edge source="RoyRoytonkin" target="UKChange"/>
+<edge source="IrPsych" target="thejournal_ie"/>
+<edge source="Suffragentleman" target="ForChange_Now"/>
+<edge source="DahrendorfForum" target="Helmut_Anheier"/>
+<edge source="Scotsfox" target="JamesKelly"/>
+<edge source="hopkinsjim77" target="BorisJohnson"/>
+<edge source="ptaylo" target="Glasgow"/>
+<edge source="wildegeese" target="UKChange"/>
+<edge source="Leon_Hargreaves" target="Young_Tories"/>
+<edge source="tomicraft" target="YouTube"/>
+<edge source="markaphill" target="BBCNews"/>
+<edge source="boogiejuice69" target="YouTube"/>
+<edge source="BremainInSpain" target="updayUK"/>
+<edge source="LittleNinjaNo7" target="TheEconomist"/>
+<edge source="patdevereaux" target="TheEconomist"/>
+<edge source="brynrobinson3" target="UKLabour"/>
+<edge source="brynrobinson3" target="LibDems"/>
+<edge source="jonotabot_" target="MailOnline"/>
+<edge source="GibbonGames" target="jeremycorbyn"/>
+<edge source="StretchKontelj" target="LSEpoliticsblog"/>
+<edge source="RRInternational" target="Europarl_EN"/>
+<edge source="NiemanLabFuego" target="Chanders"/>
+<edge source="Dturner300" target="DavidLammy"/>
+<edge source="Dturner300" target="jeremycorbyn"/>
+<edge source="Dturner300" target="UKLabour"/>
+<edge source="MasterFeed" target="MasterFeed"/>
+<edge source="Dobronyi" target="thelastrefuge2"/>
+<edge source="MissSnowbelle" target="jeremycorbyn"/>
+<edge source="Tim_Reid79" target="BBCNews"/>
+<edge source="Tim_Reid79" target="brexitparty_uk"/>
+<edge source="J_Savim" target="mikegalsworthy"/>
+<edge source="J_Savim" target="StevePeers"/>
+<edge source="J_Savim" target="FT"/>
+<edge source="asimThemizz" target="piersmorgan"/>
+<edge source="StopUKPoverty" target="UKLabour"/>
+<edge source="DukeofThumpwich" target="campbellclaret"/>
+<edge source="ukbatman1973" target="Nigel_Farage"/>
+<edge source="FrauBauerlein" target="Mahopacgerman"/>
+<edge source="simonesomekh" target="AP_Europe"/>
+<edge source="votematters2020" target="businessinsider"/>
+<edge source="Tonykelly950" target="LBC"/>
+<edge source="Tonykelly950" target="jeremycorbyn"/>
+<edge source="claire3638" target="UKChange"/>
+<edge source="NLondonHousewif" target="LSEpoliticsblog"/>
+<edge source="WBAP247NEWS" target="WBAP247NEWS"/>
+<edge source="CrostonMrs" target="vanderDonkCarin"/>
+<edge source="Political_AlanS" target="willie_rennie"/>
+<edge source="SocialM85897394" target="campbellclaret"/>
+<edge source="christopherhope" target="Telegraph"/>
+<edge source="VoxEurop" target="scebrian"/>
+<edge source="ACKaminski" target="UKLabour"/>
+<edge source="sandyhruthven" target="bristolgreen"/>
+<edge source="marknilsstrand" target="LinkedIn"/>
+<edge source="Johnathan_E6" target="Anna_Soubry"/>
+<edge source="Johnathan_E6" target="ForChange_Now"/>
+<edge source="procedurepols" target="LSEpoliticsblog"/>
+<edge source="coxypm" target="GeoffVallis"/>
+<edge source="trashfuturepod" target="AliceAvizandum"/>
+<edge source="Gerdowning" target="Gerdowning"/>
+<edge source="colltales" target="colltales"/>
+<edge source="WoodingStuart" target="jeremycorbyn"/>
+<edge source="pverbeeck2" target="Telegraph"/>
+<edge source="snicklin1" target="Telegraph"/>
+<edge source="TheBomb1987" target="MLP_officiel"/>
+<edge source="peterbakernyt" target="StevenErlanger"/>
+<edge source="nav04062653" target="Danielzeichner"/>
+<edge source="Martin_Cov70" target="Anna_Soubry"/>
+<edge source="rispostanet1" target="Telegraph"/>
+<edge source="rispostanet1" target="brexitparty_uk"/>
+<edge source="rispostanet1" target="Conservatives"/>
+<edge source="stephanishelton" target="euronews"/>
+<edge source="AntoineCrouin" target="cnni"/>
+<edge source="johnblundell993" target="brexitparty_uk"/>
+<edge source="johnblundell993" target="LibDems"/>
+<edge source="johnblundell993" target="UKLabour"/>
+<edge source="ferozwala" target="SputnikInt"/>
+<edge source="YorksIFA" target="Yorkshire_Party"/>
+<edge source="twitnews00" target="ShoutGamers"/>
+<edge source="twitnews00" target="FameRTR"/>
+<edge source="twitnews00" target="FlyRts"/>
+<edge source="twitnews00" target="Demented_RTs"/>
+<edge source="twitnews00" target="Mighty_RTs"/>
+<edge source="twitnews00" target="BlazedRTs"/>
+<edge source="twitnews00" target="Retweet_Lobby"/>
+<edge source="twitnews00" target="Agile_RTs"/>
+<edge source="twitnews00" target="FEAR_RTs"/>
+<edge source="bbc5live" target="TherealNihal"/>
+<edge source="Rose_of_Lancs" target="brexitparty_uk"/>
+<edge source="oliverkev" target="NeonNettle"/>
+<edge source="TommysViews" target="MetroUK"/>
+<edge source="SmartCircleComm" target="politics_co_uk"/>
+<edge source="MKucala" target="financialtimes"/>
+<edge source="mdbuckley" target="UKLabour"/>
+<edge source="Fergal_HB" target="jeremycorbyn"/>
+<edge source="Fergal_HB" target="BBCNews"/>
+<edge source="EdelmanBXL" target="EdelmanBXL"/>
+<edge source="EdelmanBXL" target="gurps82"/>
+<edge source="Sputnink_" target="Alagooon"/>
+<edge source="CNNMoneyCH" target="ianbremmer"/>
+<edge source="ljcb12" target="NeonNettle"/>
+<edge source="LyiangK" target="TheGreenParty"/>
+<edge source="garyjhedley" target="jeremycorbyn"/>
+<edge source="MarnieRiptide" target="BorisJohnson"/>
+<edge source="MarnieRiptide" target="Nigel_Farage"/>
+<edge source="heraldscotland" target="Conservatives"/>
+<edge source="NielsKirst" target="RNational_off"/>
+<edge source="NielsKirst" target="AfD"/>
+<edge source="NielsKirst" target="LegaSalvini"/>
+<edge source="PeterCoborn" target="Telegraph"/>
+<edge source="WAMCNews" target="AlanChartock"/>
+<edge source="msfauxreporter" target="C_3C_3"/>
+<edge source="Leipzigian" target="Andrew_Adonis"/>
+<edge source="BBCRadioFoyle" target="dean_journalist"/>
+<edge source="romyglass" target="IrishTimes"/>
+<edge source="ProgramIsle" target="ProgramIsle"/>
+<edge source="stephen501" target="OwenSmith_MP"/>
+<edge source="stephen501" target="uklabour"/>
+<edge source="stephen501" target="LibDems"/>
+<edge source="WENSHOWHQ" target="Europarl_EN"/>
+<edge source="scotthgilliland" target="JimAllister"/>
+<edge source="TBINJ" target="MetroUK"/>
+<edge source="SiCarswell" target="saoirse_mchugh"/>
+<edge source="TomFlowers" target="WSJ"/>
+<edge source="RTENewsPaulC" target="SimonHarrisTD"/>
+<edge source="SocialEspionage" target="BBCNews"/>
+<edge source="tomwestwater" target="BBCNews"/>
+<edge source="tomwestwater" target="theSNP"/>
+<edge source="whiteloser80" target="brexitparty_uk"/>
+<edge source="rasadave" target="politics_co_uk"/>
+<edge source="LordRennard" target="LibDems"/>
+<edge source="LordRennard" target="UKLabour"/>
+<edge source="LordRennard" target="Conservatives"/>
+<edge source="practicaespanol" target="abc_es"/>
+<edge source="practicaespanol" target="larazon_es"/>
+<edge source="practicaespanol" target="elmundoes"/>
+<edge source="practicaespanol" target="el_pais"/>
+<edge source="practicaespanol" target="LaVanguardia"/>
+<edge source="robw1953" target="financialtimes"/>
+<edge source="lmn_ar" target="CZPirates_en"/>
+<edge source="lmn_ar" target="Piratenpartei"/>
+<edge source="WIONews" target="Nigel_Farage"/>
+<edge source="ALIKHOSRAV_I" target="yanisvaroufakis"/>
+<edge source="JouniNissinen" target="luonnonsuojelu"/>
+<edge source="Rae_707" target="newforesteurope"/>
+<edge source="MaxTundra" target="SkyNews"/>
+<edge source="elerianm" target="FT"/>
+<edge source="Wordsmiter" target="SkyNews"/>
+<edge source="BAGSS5" target="BAGSS5"/>
+<edge source="idriches" target="jeremycorbyn"/>
+<edge source="rometostandrews" target="you_trend"/>
+<edge source="petercossins" target="bradfordmdc"/>
+<edge source="merrionstreet" target="LeoVaradkar"/>
+<edge source="merrionstreet" target="NicolaSturgeon"/>
+<edge source="merrionstreet" target="opwfarmleigh"/>
+<edge source="BrightonTimWolf" target="electoralreform"/>
+<edge source="CarolineFlintMP" target="justinmadders"/>
+<edge source="bbcnewsline" target="markdevenport"/>
+<edge source="JonDelano" target="Nigel_Farage"/>
+<edge source="Laura_K_Hughes" target="financialtimes"/>
+<edge source="Flights4Brexit" target="CarolineLucas"/>
+<edge source="Newsbook_com_mt" target="Europarl_EN"/>
+<edge source="dragonweyr" target="telegraphnews"/>
+<edge source="BlakeleyLegal" target="p_blakeley_"/>
+<edge source="jon_whitehouse" target="LibDems"/>
+<edge source="ollybarratt" target="eNCA"/>
+<edge source="tomfrench85" target="theSNP"/>
+<edge source="MsCatieMaxx" target="Telegraph"/>
+<edge source="Dam0G" target="Telegraph"/>
+<edge source="TimWillis85" target="LastyKP"/>
+<edge source="TimWillis85" target="SBakerCX"/>
+<edge source="FergusMMurray" target="robertshrimsley"/>
+<edge source="dw_europe" target="TimmermansEU"/>
+<edge source="archbishophynes" target="YouTube"/>
+<edge source="Northerndrums" target="EU"/>
+<edge source="ArieFlack" target="nytimes"/>
+<edge source="BAMLIN181" target="telegraph"/>
+<edge source="anncrusader" target="Anna_Soubry"/>
+<edge source="Lindyhopper7" target="tom_watson"/>
+<edge source="phillipmhughes" target="jeremycorbyn"/>
+<edge source="Gordon_T_Miller" target="nick_clegg"/>
+<edge source="JayBut707" target="BBCNews"/>
+<edge source="PeterKenyon" target="bbcnews"/>
+<edge source="PeterKenyon" target="TheProgressives"/>
+<edge source="CRAZEEEEgoat" target="Iromg"/>
+<edge source="antonisid" target="TheEconomist"/>
+<edge source="JoannaEngland84" target="telegraphnews"/>
+<edge source="UTAGender" target="EUGenDem"/>
+<edge source="UTAGender" target="TampereUni"/>
+<edge source="UTAGender" target="TampereUniSOC"/>
+<edge source="akaMrsLunts" target="afneil"/>
+<edge source="akaMrsLunts" target="krishgm"/>
+<edge source="akaMrsLunts" target="faisalislam"/>
+<edge source="akaMrsLunts" target="adamboultonSKY"/>
+<edge source="akaMrsLunts" target="lewis_goodall"/>
+<edge source="dokeefe" target="nuzzel"/>
+<edge source="BBCSurrey" target="AnneMilton"/>
+<edge source="BBCSurrey" target="JamesCannon66"/>
+<edge source="coachmally" target="ABridgen"/>
+<edge source="GloriaDePiero" target="justinmadders"/>
+<edge source="fookanoo" target="Nigel_Farage"/>
+<edge source="Shoutout_UK" target="UKYouth"/>
+<edge source="Shoutout_UK" target="bycLIVE"/>
+<edge source="Shoutout_UK" target="ukyv"/>
+<edge source="YasmeenSerhan" target="AkbarSAhmed"/>
+<edge source="39_stephs" target="businessinsider"/>
+<edge source="geoffreyMyers1" target="telegraph"/>
+<edge source="pierrepurseigle" target="jeremycorbyn"/>
+<edge source="CharlesFlynn4" target="GoogleNews"/>
+<edge source="akemmapapa" target="bbclaurak"/>
+<edge source="IPEMED" target="JaloulAyed"/>
+<edge source="edresphd" target="jeremycorbyn"/>
+<edge source="edresphd" target="UKLabour"/>
+<edge source="edresphd" target="LabourLordsUK"/>
+<edge source="edresphd" target="johnmcdonnellMP"/>
+<edge source="edresphd" target="tom_watson"/>
+<edge source="Blausam1" target="Nigel_Farage"/>
+<edge source="MarkPhilTaylor" target="brexitparty_uk"/>
+<edge source="MartinBorewood" target="ChukaUmunna"/>
+<edge source="MartinBorewood" target="ForChange_Now"/>
+<edge source="NewsAutocorrect" target="SkyNews"/>
+<edge source="JKLDNMAD" target="LBC"/>
+<edge source="CharlesPTardif" target="Telegraph"/>
+<edge source="mcargobe" target="elpaisinenglish"/>
+<edge source="sweetsmokscreen" target="Tommoriarty16"/>
+<edge source="Dana_Regev" target="AfD"/>
+<edge source="Dana_Regev" target="Die_Gruenen"/>
+<edge source="Dana_Regev" target="Joerg_Meuthen"/>
+<edge source="MarkJSmithonMSN" target="TheGreenParty"/>
+<edge source="MarkJSmithonMSN" target="YoungGreenParty"/>
+<edge source="MsSalyersFHS" target="telegraph"/>
+<edge source="herszenhorn" target="POLITICOEurope"/>
+<edge source="herszenhorn" target="PoliticoRyan"/>
+<edge source="sniffydogs" target="Telegraph"/>
+<edge source="samajweekly" target="Samaj"/>
+<edge source="IamRobHarbour" target="JohnCurticeOnTV"/>
+<edge source="skinnergj" target="skinnergj"/>
+<edge source="TrajanAlexande3" target="realDonaldTrump"/>
+<edge source="Khristpher" target="politics_co_uk"/>
+<edge source="henryhtapper" target="henryhtapper"/>
+<edge source="DisiFadel" target="financialtimes"/>
+<edge source="Amavinit" target="brexitparty_uk"/>
+<edge source="EA_WorldView" target="ScottLucas_EA"/>
+<edge source="lirac220299" target="financialtimes"/>
+<edge source="BaobabDevon" target="matthabusby"/>
+<edge source="CharlieCooper8" target="POLITICOEurope"/>
+<edge source="duncan_morrow" target="naomi_long"/>
+<edge source="rjbristow" target="BBCNews"/>
+<edge source="eplane" target="Jacob_Rees_Mogg"/>
+<edge source="clive_brookes" target="TheLastLeg"/>
+<edge source="ananyah" target="theSNP"/>
+<edge source="CristiSurubaru" target="PolitieVEEN"/>
+<edge source="CristiSurubaru" target="markrutte"/>
+<edge source="CristiSurubaru" target="ROinNL"/>
+<edge source="CristiSurubaru" target="MAERomania"/>
+<edge source="DanielFerrie" target="MargSchinas"/>
+<edge source="DanielFerrie" target="EU_Commission"/>
+<edge source="IryPixar" target="MikeTheKobbler"/>
+<edge source="pina_haden" target="people"/>
+<edge source="welshronald" target="FT"/>
+<edge source="wrieurope" target="POLITICOEurope"/>
+<edge source="wrieurope" target="PoliticoRyan"/>
+<edge source="bartleb" target="jeremycorbyn"/>
+<edge source="david_voyle" target="RTE_PrimeTime"/>
+<edge source="david_voyle" target="RTEOne"/>
+<edge source="david_voyle" target="rtenews"/>
+<edge source="david_voyle" target="rte"/>
+<edge source="david_voyle" target="ClaireByrneLive"/>
+<edge source="Jim_Sheridan" target="EmmaKennedy"/>
+<edge source="Peter_M_Sharp" target="Telegraph"/>
+<edge source="geoffwhiles" target="BBCNews"/>
+<edge source="geoffwhiles" target="CNN"/>
+<edge source="cdeualmeria" target="Europarl_EN"/>
+<edge source="CUP_PoliSci" target="Ita_PolSc_Rev"/>
+<edge source="lucianpirvoiu" target="teodormelescanu"/>
+<edge source="JudithHaire" target="MetroUK"/>
+<edge source="PlasFron" target="Telegraph"/>
+<edge source="walktothestars" target="MollyMEP"/>
+<edge source="ColombeCS" target="VoltEuropa"/>
+<edge source="SteepleTimes" target="SteepleTimes"/>
+<edge source="SteepleTimes" target="M_Steeples"/>
+<edge source="DavidTyke" target="BBC"/>
+<edge source="DavidTyke" target="BBCkatyaadler"/>
+<edge source="sophielovdrama" target="LibDems"/>
+<edge source="RohanChindooroy" target="BBCNews"/>
+<edge source="DanielRDivine" target="financialtimes"/>
+<edge source="Geek_Pride" target="politics_co_uk"/>
+<edge source="_pigeons_" target="UKLabour"/>
+<edge source="_pigeons_" target="BristolSouthLab"/>
+<edge source="_pigeons_" target="karinsmyth"/>
+<edge source="alljazzy777" target="YouTube"/>
+<edge source="guyjackson42" target="ADAMPLOW"/>
+<edge source="guyjackson42" target="AFP"/>
+<edge source="diiscoverii" target="brexitparty_uk"/>
+<edge source="diiscoverii" target="piersmorgan"/>
+<edge source="diiscoverii" target="Conservatives"/>
+<edge source="diiscoverii" target="UKLabour"/>
+<edge source="diiscoverii" target="LibDems"/>
+<edge source="Paul_Usher1" target="BBCNews"/>
+<edge source="Paul_Usher1" target="BBCNewsPR"/>
+<edge source="geordinhl" target="LibDems"/>
+<edge source="YvonneMurphy111" target="LBC"/>
+<edge source="uk_domain_names" target="TheGreenParty"/>
+<edge source="uk_domain_names" target="ForChange_Now"/>
+<edge source="uk_domain_names" target="LibDems"/>
+<edge source="uk_domain_names" target="DavidLammy"/>
+<edge source="uk_domain_names" target="mrjamesob"/>
+<edge source="uk_domain_names" target="IanDunt"/>
+<edge source="uk_domain_names" target="bbclaurak"/>
+<edge source="uk_domain_names" target="BethRigby"/>
+<edge source="uk_domain_names" target="huwbbc"/>
+<edge source="uk_domain_names" target="adamboultonSKY"/>
+<edge source="uk_domain_names" target="Peston"/>
+<edge source="uk_domain_names" target="sarahwollaston"/>
+<edge source="CMCMarkets" target="mhewson_CMC"/>
+<edge source="WolfMother19" target="Telegraph"/>
+<edge source="nadeemansary" target="businessinsider"/>
+<edge source="TelePolitics" target="Ashley_J_Kirk"/>
+<edge source="fivestring" target="theSNP"/>
+<edge source="fivestring" target="NicolaSturgeon"/>
+<edge source="fivestring" target="WingsScotland"/>
+<edge source="Thelandlord5" target="financialtimes"/>
+<edge source="AGRconsultancy" target="guardian"/>
+<edge source="CrusadeFan" target="brexitparty_uk"/>
+<edge source="ayeshahazarika" target="IainDale"/>
+<edge source="ayeshahazarika" target="LiamHalligan"/>
+<edge source="ayeshahazarika" target="bianca_nobilo"/>
+<edge source="ayeshahazarika" target="cnni"/>
+<edge source="hughvirginia" target="financialtimes"/>
+<edge source="techjollof" target="techjollof"/>
+<edge source="HolyroodDaily" target="MagicMagid"/>
+<edge source="HolyroodDaily" target="HolyroodLiam"/>
+<edge source="sen924153" target="YouTubeより"/>
+<edge source="LisaZWilton" target="MagicMagid"/>
+<edge source="DyfedPowysFed" target="BBCNews"/>
+<edge source="NewsOldies" target="brexitparty_uk"/>
+<edge source="lea_ypi" target="Independent"/>
+<edge source="lea_ypi" target="LSEnews"/>
+<edge source="lea_ypi" target="LSE_poty"/>
+<edge source="lea_ypi" target="LSEGovernment"/>
+<edge source="seanyseanysaeny" target="jeremycorbyn"/>
+<edge source="seanyseanysaeny" target="Conservatives"/>
+<edge source="carbonerodani" target="SkyNewsPolitics"/>
+<edge source="carbonerodani" target="Nigel_Farage"/>
+<edge source="Brexit_Support" target="Anna_Soubry"/>
+<edge source="Brexit_Support" target="heidiallen75"/>
+<edge source="gbktas" target="BBCNews"/>
+<edge source="gbktas" target="Nigel_Farage"/>
+<edge source="gbktas" target="TheBrexitPartly"/>
+<edge source="galdemzine" target="MagicMagid"/>
+<edge source="thomaskay11" target="Alan_McGuinness"/>
+<edge source="kvconstant" target="BBCWorld"/>
+<edge source="kvconstant" target="YouTube"/>
+<edge source="GazzaHu" target="ChukaUmunna"/>
+<edge source="GazzaHu" target="Anna_Soubry"/>
+<edge source="GazzaHu" target="heidiallen75"/>
+<edge source="AnneRabbitte" target="fiannafailparty"/>
+<edge source="chillisauce93" target="Anna_Soubry"/>
+<edge source="rich_urwin" target="politics_co_uk"/>
+<edge source="arslan1053" target="DominicRaab"/>
+<edge source="BikesNBukes" target="TodaySOR"/>
+<edge source="brianvmullaney" target="TheEconomist"/>
+<edge source="barryharvey" target="Nigel_Farage"/>
+<edge source="SuzieGilbertLdn" target="AOC"/>
+<edge source="Tom___Scott" target="TheEconomist"/>
+<edge source="fidelmacook" target="politics_co_uk"/>
+<edge source="guse_guse" target="politics_co_uk"/>
+<edge source="jamswilliams85" target="WelshLibDems"/>
+<edge source="Hasanpatel" target="Nigel_Farage"/>
+<edge source="Hasanpatel" target="brexitparty_uk"/>
+<edge source="wrishib" target="UKLabour"/>
+<edge source="wrishib" target="LibDems"/>
+<edge source="wrishib" target="TheGreenParty"/>
+<edge source="lavidaenmochila" target="SkyNewsPolitics"/>
+<edge source="lavidaenmochila" target="Nigel_Farage"/>
+<edge source="JAanzi" target="MagicMagid"/>
+<edge source="JAanzi" target="MetroUK"/>
+<edge source="Lorbobo1" target="SkyNews"/>
+<edge source="sandy_cshore" target="theSNP"/>
+<edge source="Airdroptodeals" target="cryptobasenews1"/>
+<edge source="robstead" target="JOE_co_uk"/>
+<edge source="apbrown17" target="MetroUK"/>
+<edge source="Dantc75" target="brexitparty_uk"/>
+<edge source="kerrydevans" target="politics_co_uk"/>
+<edge source="AlmaPantaleo" target="Telegraph"/>
+<edge source="JohnEas56676398" target="BBCNews"/>
+<edge source="JohnEas56676398" target="theSNP"/>
+<edge source="Stevie_T" target="thecluny"/>
+<edge source="Stevie_T" target="tenacitymusicpr"/>
+<edge source="Stevie_T" target="radiohartlepool"/>
+<edge source="Stevie_T" target="bishopfm"/>
+<edge source="matteoplatone" target="guardian"/>
+<edge source="JamesHockaday_" target="MetroUK"/>
+<edge source="Boostalife" target="expensify"/>
+<edge source="Boostalife" target="bexiocom"/>
+<edge source="Boostalife" target="Xero"/>
+<edge source="MarxistWhovian" target="dannydorling"/>
+<edge source="cllrkemp" target="politics_co_uk"/>
+<edge source="oldgreydoc" target="guardian"/>
+<edge source="elgae669" target="lbc"/>
+<edge source="BerlinPolicy" target="APHClarkson"/>
+<edge source="seitaro12" target="TheEconomist"/>
+<edge source="HyperGoat1" target="YouTube"/>
+<edge source="RogerGrahamD" target="Rebartic"/>
+<edge source="LiberallyHappy" target="financialtimes"/>
+<edge source="Marghe58277301" target="Marghe58277301"/>
+<edge source="DeirdreCISI" target="moranjohna1"/>
+<edge source="DeirdreCISI" target="CISI"/>
+<edge source="DeirdreCISI" target="IrishTimesBiz"/>
+<edge source="harleyrules170" target="the"/>
+<edge source="MrRPTaylor" target="ForChange_Now"/>
+<edge source="MrRPTaylor" target="brexitparty_uk"/>
+<edge source="RadicalBrexit" target="Telegraph"/>
+<edge source="LS3370" target="theSNP"/>
+<edge source="Hagar62lufc" target="Ofcom"/>
+<edge source="Hagar62lufc" target="BBCNews"/>
+<edge source="Hagar62lufc" target="BBC"/>
+<edge source="JohnSeaton" target="IanDunt"/>
+<edge source="__MrBeans" target="brexitparty_uk"/>
+<edge source="jimbo5765" target="brexitparty_uk"/>
+<edge source="norsel1on" target="bbcscotland"/>
+<edge source="norsel1on" target="bbcnews"/>
+<edge source="sahagunfelipe" target="guardian"/>
+<edge source="AlanEwartJames1" target="FHConservatives"/>
+<edge source="Brain1Brain" target="BBCNews"/>
+<edge source="Brain1Brain" target="campbellclaret"/>
+<edge source="Turnip_Ghost" target="AlynSmith"/>
+<edge source="IlvesToomas" target="TheEconomist"/>
+<edge source="wildey_1" target="brexitparty_uk"/>
+<edge source="pongodhall" target="nuzzel"/>
+<edge source="pongodhall" target="PrettyHatMech"/>
+<edge source="cghgreen" target="theipaper"/>
+<edge source="transform_ntwrk" target="MalinBjork_EU"/>
+<edge source="transform_ntwrk" target="GUENGL"/>
+<edge source="alanpps" target="Telegraph"/>
+<edge source="MrGiuseppeGallo" target="LBC"/>
+<edge source="Activeconvo" target="ajayjagota"/>
+<edge source="DarrenMole" target="brexitparty_uk"/>
+<edge source="DarrenMole" target="SkyNews"/>
+<edge source="markg5452" target="brexitparty_uk"/>
+<edge source="SkyNewsAust" target="montie"/>
+<edge source="RedCosmonaut" target="MagicMagid"/>
+<edge source="phil_edwards_uk" target="Conservatives"/>
+<edge source="MechthildRoos" target="Europarl_EN"/>
+<edge source="HugsJoJoJo" target="Petrie"/>
+<edge source="maidenheadLD" target="LibDems"/>
+<edge source="maidenheadLD" target="catherinemep"/>
+<edge source="nobbyonemate" target="UKLabour"/>
+<edge source="GreyER_13" target="Anna_Soubry"/>
+<edge source="GreyER_13" target="heidiallen75"/>
+<edge source="GreyER_13" target="Telegraph"/>
+<edge source="pdemul" target="nuzzel"/>
+<edge source="pdemul" target="RemainiacsCast"/>
+<edge source="k_brexit" target="brexitparty_uk"/>
+<edge source="PaddyEmond" target="UKLabour"/>
+<edge source="PaddyEmond" target="ForChange_Now"/>
+<edge source="AnthonyDurance" target="brexitparty_uk"/>
+<edge source="christoffler" target="BBCkatyaadler"/>
+<edge source="Untidy_mind" target="BBCPolitics"/>
+<edge source="GothboyUK" target="yvettecooperMP"/>
+<edge source="GrahamRCarter" target="jeremycorbyn"/>
+<edge source="GrahamRCarter" target="UKLabour"/>
+<edge source="100pctcocoa" target="politics_co_uk"/>
+<edge source="kirkconnel" target="theJeremyVine"/>
+<edge source="CardinalBiggle2" target="Labour4EU"/>
+<edge source="POL_Research" target="election_data"/>
+<edge source="Heldinatwork" target="DBizNews"/>
+<edge source="petermbenglish" target="nuzzel"/>
+<edge source="petermbenglish" target="RemainiacsCast"/>
+<edge source="gamblingman8" target="bbc"/>
+<edge source="gamblingman8" target="AndrewMarr9"/>
+<edge source="gamblingman8" target="Nigel_Farage"/>
+<edge source="gamblingman8" target="brexitparty_uk"/>
+<edge source="kboglarka_" target="TheEconomist"/>
+<edge source="matt0675" target="bbcnews"/>
+<edge source="andy_boy28" target="Eurovision"/>
+<edge source="Eurodesk" target="Eurodesk"/>
+<edge source="Eurodesk" target="EuropeanYouthEU"/>
+<edge source="Eurodesk" target="Europarl_EN"/>
+<edge source="russellquirk" target="SkyNews"/>
+<edge source="mpntod" target="winld"/>
+<edge source="Peter_Underwood" target="LibDems"/>
+<edge source="VillageVoice1" target="BBCNews"/>
+<edge source="ugurtackinlar" target="YouTube"/>
+<edge source="steven234116" target="telegraph"/>
+<edge source="danielsharp1882" target="politics_co_uk"/>
+<edge source="Romabosc" target="TheEconomist"/>
+<edge source="Gweilouk" target="ConHome"/>
+<edge source="Gweilouk" target="Conservatives"/>
+<edge source="DARTHGRUMBLE" target="Conservatives"/>
+<edge source="StuartSW" target="UKIP"/>
+<edge source="StuartSW" target="Conservatives"/>
+<edge source="StuartSW" target="LibDems"/>
+<edge source="jaimenavarro" target="TheEconomist"/>
+<edge source="CarolyneKershaw" target="nadhimzahawi"/>
+<edge source="LeeGTMarsons" target="law_soc"/>
+<edge source="XavierMuixench" target="JuntsXCat"/>
+<edge source="XavierMuixench" target="KRLS"/>
+<edge source="MrMattCooke" target="brexitparty_uk"/>
+<edge source="MrMattCooke" target="Conservatives"/>
+<edge source="MrMattCooke" target="UKLabour"/>
+<edge source="TheresaMayFBPE" target="brexitparty_uk"/>
+<edge source="TheresaMayFBPE" target="UKLabour"/>
+<edge source="TheresaMayFBPE" target="LibDems"/>
+<edge source="TheresaMayFBPE" target="TheGreenParty"/>
+<edge source="TheresaMayFBPE" target="BBCPolitics"/>
+<edge source="TheresaMayFBPE" target="SkyNewsPolitics"/>
+<edge source="ASTait" target="clearpolitic5"/>
+<edge source="blinkerdbritain" target="UKLabour"/>
+<edge source="Paulo__1878" target="brexitparty_uk"/>
+<edge source="EuropeLotteries" target="BSHennig"/>
+<edge source="EuropeLotteries" target="SortitionNow"/>
+<edge source="dspencer47" target="brexitparty_uk"/>
+<edge source="dspencer47" target="Conservatives"/>
+<edge source="dspencer47" target="UKLabour"/>
+<edge source="shailendrat68" target="TheEconomist"/>
+<edge source="WyeLea" target="Telegraph"/>
+<edge source="Mark_Elmy" target="piersmorgan"/>
+<edge source="PhilMye39535608" target="BBCNews"/>
+<edge source="Leonmwc" target="Berenberg_Econ"/>
+<edge source="EU_Logos" target="argano_elena"/>
+<edge source="TeivoTeivainen" target="EeroHeinaluoma"/>
+<edge source="J0hnBarleyc0rn" target="LBC"/>
+<edge source="BryanMGLibDem" target="LBC"/>
+<edge source="BBCSussex" target="Nigel_Farage"/>
+<edge source="PSUK55" target="Telegraph"/>
+<edge source="ShehanneMoore" target="Telegraph"/>
+<edge source="jackpw3" target="UKLabour"/>
+<edge source="SteveHa30404522" target="Ofcom"/>
+<edge source="EU_Remain_2017" target="guyverhofstadt"/>
+<edge source="EU_Remain_2017" target="JOE_co_uk"/>
+<edge source="AlistairGeddes" target="YouTube"/>
+<edge source="sweirz" target="IROMG"/>
+<edge source="DeMeiro78" target="AOC"/>
+<edge source="DeMeiro78" target="TheDemCoalition"/>
+<edge source="DeMeiro78" target="thedemcoalition"/>
+<edge source="DeMeiro78" target="thedemocrats"/>
+<edge source="DeMeiro78" target="SenateDems"/>
+<edge source="DeMeiro78" target="HouseDemocrats"/>
+<edge source="DeMeiro78" target="realDonaldTrump"/>
+<edge source="DeMeiro78" target="SteveKBannon"/>
+<edge source="DeMeiro78" target="Nigel_Farage"/>
+<edge source="brianhardie65" target="BethRigby"/>
+<edge source="brianhardie65" target="bbclaurak"/>
+<edge source="hileaf" target="BBCNews"/>
+<edge source="BBCNolan" target="StephenNolan"/>
+<edge source="BBCNolan" target="BBCSounds"/>
+<edge source="MikeBiden" target="bbcnews"/>
+<edge source="CapitalNWANews" target="brexitparty_uk"/>
+<edge source="capitalswanews" target="brexitparty_uk"/>
+<edge source="matt_shilcock" target="brexitparty_uk"/>
+<edge source="SkiSavoyard" target="BBCNews"/>
+<edge source="ba19974" target="HackneyAbbott"/>
+<edge source="ba19974" target="UKLabour"/>
+<edge source="ThePagies_" target="johnmcdonnellMP"/>
+<edge source="NickBoles" target="bbradleymp"/>
+<edge source="dedalos_gl" target="nytimes"/>
+<edge source="dedalos_gl" target="WSJ"/>
+<edge source="dedalos_gl" target="jeremycorbyn"/>
+<edge source="dedalos_gl" target="eucopresident"/>
+<edge source="dedalos_gl" target="Nigel_Farage"/>
+<edge source="UCBNewsTeam" target="UCBMedia"/>
+<edge source="dugoow" target="MagicMagid"/>
+<edge source="niktraykov" target="LBC"/>
+<edge source="AngiePedley" target="LBC"/>
+<edge source="georginagodwin" target="cmcdonaldgibson"/>
+<edge source="georginagodwin" target="Kenji_Hall"/>
+<edge source="Nigel_95" target="BBCNews"/>
+<edge source="Nigel_95" target="Anna_Soubry"/>
+<edge source="Scooter_NUFC" target="Nigel_Farage"/>
+<edge source="MuleRetired" target="Telegraph"/>
+<edge source="welshrossy" target="BBCNews"/>
+<edge source="welshrossy" target="VoteLeave_eu"/>
+<edge source="KennedyJodyJ" target="Telegraph"/>
+<edge source="MAJ57069065" target="theresa_may"/>
+<edge source="MAJ57069065" target="jeremycorbyn"/>
+<edge source="ilovelocke" target="jeremycorbyn"/>
+<edge source="tim4eu" target="bbcnews"/>
+<edge source="ukpapers" target="rowenamason"/>
+<edge source="StevieJ2019" target="Telegraph"/>
+</graph></graphml>
