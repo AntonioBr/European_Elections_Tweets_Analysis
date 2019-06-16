@@ -5,6 +5,7 @@ from termcolor import colored
 import community
 import igraph as ig
 from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
+from Language_Network_Analysis import general_analysis
 
 def preliminary_analysis(given_graph):
 
@@ -286,7 +287,25 @@ def greedy_modularity_communities_detection(given_graph):
         graph = given_graph
 
     mod_communities = nx.algorithms.community.greedy_modularity_communities(graph)
-    community_plotting(mod_communities, graph)
+
+    print(colored("Total number of detected communities: ", "yellow"), str(len(mod_communities)))
+    print("")
+
+    mod_communities.sort(key=len, reverse = True)
+    greatest_communities = []
+
+    if len(mod_communities) > 5:
+
+        for i in range(0, 5):
+            greatest_communities.append(mod_communities[i])
+
+    else:
+
+        for i in range(0, len(mod_communities)):
+            greatest_communities.append(mod_communities[i])
+
+
+    community_plotting(greatest_communities, graph)
 
 def community_plotting(communities, graph):
 
@@ -317,10 +336,15 @@ def community_plotting(communities, graph):
             degree_centrality(sub)
             pagerank(sub)
             connected_component_analysis(sub)
+            try:
+                general_analysis(sub)
+            except:
+                pass
 
         communities_to_study_counter = communities_to_study_counter - 1
         print("")
         print("")
+
 
 #preliminary_analysis("./mentions_network.graphml")
 #degree_distribution("./mentions_network.graphml")
@@ -331,4 +355,6 @@ def community_plotting(communities, graph):
 #pagerank("./mentions_network.graphml")
 #connected_component_analysis("./mentions_network.graphml")
 #greedy_modularity_communities_detection("./mentions_network.graphml")
+# In generale è meglio usare la rete con la lingua in quanto maggiori controlli sono stati effettuati
+greedy_modularity_communities_detection("./mentions_network_language.graphml")
 

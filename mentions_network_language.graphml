@@ -10,7 +10,7 @@
   <data key="d0">en</data>
 </node>
 <node id="Guardian">
-  <data key="d0">en</data>
+  <data key="d0">id</data>
 </node>
 <node id="nocopoutuk">
   <data key="d0">en</data>
@@ -19,9 +19,6 @@
   <data key="d0">en</data>
 </node>
 <node id="honu2000">
-  <data key="d0">en</data>
-</node>
-<node id="Forbes">
   <data key="d0">en</data>
 </node>
 <node id="5_News">
@@ -44,6 +41,9 @@
 </node>
 <node id="catalannews">
   <data key="d0">en</data>
+</node>
+<node id="manuelvalls">
+  <data key="d0">es</data>
 </node>
 <node id="Nick42024488">
   <data key="d0">en</data>
@@ -87,9 +87,6 @@
 <node id="reFocusZone">
   <data key="d0">en</data>
 </node>
-<node id="PeriscopeCo">
-  <data key="d0">en</data>
-</node>
 <node id="BakustanCity">
   <data key="d0">en</data>
 </node>
@@ -97,9 +94,6 @@
   <data key="d0">en</data>
 </node>
 <node id="prestonlabour">
-  <data key="d0">en</data>
-</node>
-<node id="matthewbrown">
   <data key="d0">en</data>
 </node>
 <node id="Orgetorix">
@@ -268,16 +262,13 @@
   <data key="d0">en</data>
 </node>
 <node id="DerSPIEGEL">
-  <data key="d0">en</data>
+  <data key="d0">de</data>
 </node>
 <node id="Augstein">
-  <data key="d0">en</data>
+  <data key="d0">af</data>
 </node>
 <node id="bodoramelow">
   <data key="d0">de</data>
-</node>
-<node id="HandelsblattGE">
-  <data key="d0">en</data>
 </node>
 <node id="zeitonline">
   <data key="d0">de</data>
@@ -336,9 +327,6 @@
 <node id="MrCatStubble">
   <data key="d0">en</data>
 </node>
-<node id="POTUS">
-  <data key="d0">en</data>
-</node>
 <node id="BrianDonnellyHT">
   <data key="d0">en</data>
 </node>
@@ -385,7 +373,7 @@
   <data key="d0">en</data>
 </node>
 <node id="BBCNews">
-  <data key="d0">en</data>
+  <data key="d0">fr</data>
 </node>
 <node id="Rob_Hadley">
   <data key="d0">en</data>
@@ -427,9 +415,6 @@
   <data key="d0">en</data>
 </node>
 <node id="justofflondon">
-  <data key="d0">en</data>
-</node>
-<node id="ChoosePippa">
   <data key="d0">en</data>
 </node>
 <node id="ccara">
@@ -509,9 +494,6 @@
 </node>
 <node id="BCU_Brexit">
   <data key="d0">en</data>
-</node>
-<node id="deruytea">
-  <data key="d0">ro</data>
 </node>
 <node id="bunkybun">
   <data key="d0">en</data>
@@ -633,6 +615,9 @@
 <node id="Gerfome">
   <data key="d0">en</data>
 </node>
+<node id="BrexitAlex">
+  <data key="d0">en</data>
+</node>
 <node id="SmartThinktanks">
   <data key="d0">en</data>
 </node>
@@ -660,9 +645,6 @@
 <node id="GHulluni">
   <data key="d0">en</data>
 </node>
-<node id="BrexitpartyY">
-  <data key="d0">en</data>
-</node>
 <node id="CraigAmbrose1">
   <data key="d0">en</data>
 </node>
@@ -673,7 +655,7 @@
   <data key="d0">en</data>
 </node>
 <node id="sianberry">
-  <data key="d0">id</data>
+  <data key="d0">en</data>
 </node>
 <node id="Russell_941">
   <data key="d0">en</data>
@@ -742,7 +724,7 @@
   <data key="d0">en</data>
 </node>
 <node id="campbellclaret">
-  <data key="d0">nl</data>
+  <data key="d0">en</data>
 </node>
 <node id="LeicesterUAF">
   <data key="d0">en</data>
@@ -775,13 +757,13 @@
   <data key="d0">en</data>
 </node>
 <node id="bbclaurak">
-  <data key="d0">de</data>
+  <data key="d0">en</data>
 </node>
 <node id="LibDems">
   <data key="d0">en</data>
 </node>
 <node id="guardian">
-  <data key="d0">en</data>
+  <data key="d0">id</data>
 </node>
 <node id="RozennM">
   <data key="d0">en</data>
@@ -876,9 +858,6 @@
 <node id="CaminoMortera">
   <data key="d0">en</data>
 </node>
-<node id="HallBenjamin">
-  <data key="d0">en</data>
-</node>
 <node id="hannahswg">
   <data key="d0">en</data>
 </node>
@@ -912,9 +891,6 @@
 <node id="JohnHowarth1958">
   <data key="d0">en</data>
 </node>
-<node id="ReadingLabour">
-  <data key="d0">en</data>
-</node>
 <node id="Guillaume_Alv">
   <data key="d0">en</data>
 </node>
@@ -940,9 +916,6 @@
   <data key="d0">en</data>
 </node>
 <node id="SCER_eu">
-  <data key="d0">en</data>
-</node>
-<node id="scer_eu">
   <data key="d0">en</data>
 </node>
 <node id="wufandmew">
@@ -984,9 +957,6 @@
 <node id="BelgaImage">
   <data key="d0">en</data>
 </node>
-<node id="dirkwaem">
-  <data key="d0">en</data>
-</node>
 <node id="GPI159">
   <data key="d0">en</data>
 </node>
@@ -1006,7 +976,7 @@
   <data key="d0">en</data>
 </node>
 <node id="ggreenwald">
-  <data key="d0">pt</data>
+  <data key="d0">en</data>
 </node>
 <node id="Arturo_Sarukhan">
   <data key="d0">en</data>
@@ -1086,9 +1056,6 @@
 <node id="WendyvanFrank1">
   <data key="d0">en</data>
 </node>
-<node id="Tory_Karen">
-  <data key="d0">en</data>
-</node>
 <node id="Lugey6">
   <data key="d0">en</data>
 </node>
@@ -1128,9 +1095,6 @@
 <node id="AFP">
   <data key="d0">en</data>
 </node>
-<node id="dariothuburn">
-  <data key="d0">en</data>
-</node>
 <node id="Bankofisland">
   <data key="d0">en</data>
 </node>
@@ -1162,9 +1126,6 @@
   <data key="d0">en</data>
 </node>
 <node id="DahrendorfForum">
-  <data key="d0">en</data>
-</node>
-<node id="Helmut_Anheier">
   <data key="d0">en</data>
 </node>
 <node id="Scotsfox">
@@ -1237,7 +1198,7 @@
   <data key="d0">en</data>
 </node>
 <node id="Chanders">
-  <data key="d0">en</data>
+  <data key="d0">cy</data>
 </node>
 <node id="GlobalsNewsroom">
   <data key="d0">en</data>
@@ -1294,9 +1255,6 @@
   <data key="d0">en</data>
 </node>
 <node id="FrauBauerlein">
-  <data key="d0">en</data>
-</node>
-<node id="Mahopacgerman">
   <data key="d0">en</data>
 </node>
 <node id="simonesomekh">
@@ -1458,28 +1416,7 @@
 <node id="ShoutGamers">
   <data key="d0">en</data>
 </node>
-<node id="FameRTR">
-  <data key="d0">en</data>
-</node>
 <node id="FlyRts">
-  <data key="d0">en</data>
-</node>
-<node id="Demented_RTs">
-  <data key="d0">en</data>
-</node>
-<node id="Mighty_RTs">
-  <data key="d0">en</data>
-</node>
-<node id="BlazedRTs">
-  <data key="d0">en</data>
-</node>
-<node id="Retweet_Lobby">
-  <data key="d0">en</data>
-</node>
-<node id="Agile_RTs">
-  <data key="d0">en</data>
-</node>
-<node id="FEAR_RTs">
   <data key="d0">en</data>
 </node>
 <node id="bbc5live">
@@ -1515,9 +1452,6 @@
 <node id="EdelmanBXL">
   <data key="d0">en</data>
 </node>
-<node id="gurps82">
-  <data key="d0">en</data>
-</node>
 <node id="Sputnink_">
   <data key="d0">it</data>
 </node>
@@ -1528,7 +1462,7 @@
   <data key="d0">en</data>
 </node>
 <node id="ianbremmer">
-  <data key="d0">en</data>
+  <data key="d0">de</data>
 </node>
 <node id="ljcb12">
   <data key="d0">en</data>
@@ -1674,9 +1608,6 @@
 <node id="lmn_ar">
   <data key="d0">en</data>
 </node>
-<node id="CZPirates_en">
-  <data key="d0">es</data>
-</node>
 <node id="Piratenpartei">
   <data key="d0">de</data>
 </node>
@@ -1821,16 +1752,10 @@
 <node id="dw_europe">
   <data key="d0">en</data>
 </node>
-<node id="TimmermansEU">
-  <data key="d0">en</data>
-</node>
 <node id="archbishophynes">
   <data key="d0">en</data>
 </node>
 <node id="Northerndrums">
-  <data key="d0">en</data>
-</node>
-<node id="EU">
   <data key="d0">en</data>
 </node>
 <node id="ArieFlack">
@@ -1854,9 +1779,6 @@
 <node id="Gordon_T_Miller">
   <data key="d0">en</data>
 </node>
-<node id="nick_clegg">
-  <data key="d0">en</data>
-</node>
 <node id="JayBut707">
   <data key="d0">en</data>
 </node>
@@ -1864,7 +1786,7 @@
   <data key="d0">en</data>
 </node>
 <node id="bbcnews">
-  <data key="d0">en</data>
+  <data key="d0">fr</data>
 </node>
 <node id="TheProgressives">
   <data key="d0">en</data>
@@ -1912,21 +1834,15 @@
   <data key="d0">en</data>
 </node>
 <node id="lewis_goodall">
-  <data key="d0">en</data>
+  <data key="d0">fr</data>
 </node>
 <node id="dokeefe">
   <data key="d0">ro</data>
-</node>
-<node id="nuzzel">
-  <data key="d0">en</data>
 </node>
 <node id="BBCSurrey">
   <data key="d0">en</data>
 </node>
 <node id="AnneMilton">
-  <data key="d0">en</data>
-</node>
-<node id="JamesCannon66">
   <data key="d0">en</data>
 </node>
 <node id="Y_FovargueMP">
@@ -1953,9 +1869,6 @@
 <node id="bycLIVE">
   <data key="d0">en</data>
 </node>
-<node id="ukyv">
-  <data key="d0">en</data>
-</node>
 <node id="YasmeenSerhan">
   <data key="d0">en</data>
 </node>
@@ -1979,9 +1892,6 @@
 </node>
 <node id="IPEMED">
   <data key="d0">en</data>
-</node>
-<node id="JaloulAyed">
-  <data key="d0">fr</data>
 </node>
 <node id="edresphd">
   <data key="d0">en</data>
@@ -2064,9 +1974,6 @@
 <node id="samajweekly">
   <data key="d0">en</data>
 </node>
-<node id="Samaj">
-  <data key="d0">en</data>
-</node>
 <node id="IamRobHarbour">
   <data key="d0">en</data>
 </node>
@@ -2145,9 +2052,6 @@
 <node id="PolitieVEEN">
   <data key="d0">nl</data>
 </node>
-<node id="markrutte">
-  <data key="d0">nl</data>
-</node>
 <node id="ROinNL">
   <data key="d0">en</data>
 </node>
@@ -2194,9 +2098,6 @@
   <data key="d0">en</data>
 </node>
 <node id="RTEOne">
-  <data key="d0">en</data>
-</node>
-<node id="ClaireByrneLive">
   <data key="d0">en</data>
 </node>
 <node id="Jim_Sheridan">
@@ -2281,9 +2182,6 @@
   <data key="d0">en</data>
 </node>
 <node id="_pigeons_">
-  <data key="d0">en</data>
-</node>
-<node id="BristolSouthLab">
   <data key="d0">en</data>
 </node>
 <node id="karinsmyth">
@@ -2388,9 +2286,6 @@
 <node id="HolyroodDaily">
   <data key="d0">en</data>
 </node>
-<node id="MagicMagid">
-  <data key="d0">en</data>
-</node>
 <node id="HolyroodLiam">
   <data key="d0">af</data>
 </node>
@@ -2443,10 +2338,13 @@
   <data key="d0">en</data>
 </node>
 <node id="TheBrexitPartly">
-  <data key="d0">nl</data>
+  <data key="d0">en</data>
 </node>
 <node id="JackoJacklin">
   <data key="d0">en</data>
+</node>
+<node id="COLDWAR_STEVE">
+  <data key="d0">so</data>
 </node>
 <node id="galdemzine">
   <data key="d0">en</data>
@@ -2461,7 +2359,7 @@
   <data key="d0">en</data>
 </node>
 <node id="BBCWorld">
-  <data key="d0">en</data>
+  <data key="d0">de</data>
 </node>
 <node id="GazzaHu">
   <data key="d0">en</data>
@@ -2497,7 +2395,7 @@
   <data key="d0">en</data>
 </node>
 <node id="AOC">
-  <data key="d0">en</data>
+  <data key="d0">ca</data>
 </node>
 <node id="Tom___Scott">
   <data key="d0">en</data>
@@ -2574,10 +2472,10 @@
 <node id="tenacitymusicpr">
   <data key="d0">en</data>
 </node>
-<node id="radiohartlepool">
+<node id="NovaradioNE">
   <data key="d0">en</data>
 </node>
-<node id="bishopfm">
+<node id="radiohartlepool">
   <data key="d0">en</data>
 </node>
 <node id="matteoplatone">
@@ -2608,6 +2506,9 @@
   <data key="d0">en</data>
 </node>
 <node id="oldgreydoc">
+  <data key="d0">en</data>
+</node>
+<node id="fperraudin">
   <data key="d0">en</data>
 </node>
 <node id="elgae669">
@@ -2857,7 +2758,7 @@
   <data key="d0">en</data>
 </node>
 <node id="AndrewMarr9">
-  <data key="d0">en</data>
+  <data key="d0">sk</data>
 </node>
 <node id="kboglarka_">
   <data key="d0">en</data>
@@ -2866,9 +2767,6 @@
   <data key="d0">en</data>
 </node>
 <node id="andy_boy28">
-  <data key="d0">en</data>
-</node>
-<node id="Eurovision">
   <data key="d0">en</data>
 </node>
 <node id="Eurodesk">
@@ -2967,9 +2865,6 @@
 <node id="EuropeLotteries">
   <data key="d0">en</data>
 </node>
-<node id="BSHennig">
-  <data key="d0">en</data>
-</node>
 <node id="SortitionNow">
   <data key="d0">en</data>
 </node>
@@ -3006,10 +2901,10 @@
 <node id="TeivoTeivainen">
   <data key="d0">en</data>
 </node>
-<node id="EeroHeinaluoma">
-  <data key="d0">fi</data>
-</node>
 <node id="J0hnBarleyc0rn">
+  <data key="d0">en</data>
+</node>
+<node id="RoryStewartUK">
   <data key="d0">en</data>
 </node>
 <node id="BryanMGLibDem">
@@ -3055,7 +2950,7 @@
   <data key="d0">en</data>
 </node>
 <node id="thedemcoalition">
-  <data key="d0">af</data>
+  <data key="d0">en</data>
 </node>
 <node id="thedemocrats">
   <data key="d0">en</data>
@@ -3064,9 +2959,6 @@
   <data key="d0">en</data>
 </node>
 <node id="HouseDemocrats">
-  <data key="d0">en</data>
-</node>
-<node id="SteveKBannon">
   <data key="d0">en</data>
 </node>
 <node id="brianhardie65">
@@ -3106,7 +2998,7 @@
   <data key="d0">en</data>
 </node>
 <node id="HackneyAbbott">
-  <data key="d0">en</data>
+  <data key="d0">so</data>
 </node>
 <node id="ThePagies_">
   <data key="d0">en</data>
@@ -3141,12 +3033,6 @@
 <node id="georginagodwin">
   <data key="d0">en</data>
 </node>
-<node id="cmcdonaldgibson">
-  <data key="d0">en</data>
-</node>
-<node id="Kenji_Hall">
-  <data key="d0">en</data>
-</node>
 <node id="Nigel_95">
   <data key="d0">en</data>
 </node>
@@ -3157,9 +3043,6 @@
   <data key="d0">en</data>
 </node>
 <node id="welshrossy">
-  <data key="d0">en</data>
-</node>
-<node id="VoteLeave_eu">
   <data key="d0">en</data>
 </node>
 <node id="KennedyJodyJ">
@@ -3191,10 +3074,10 @@
 </node>
 <edge source="EurAlmanac" target="Guardian"/>
 <edge source="nocopoutuk" target="YouTube"/>
-<edge source="honu2000" target="Forbes"/>
 <edge source="JnthnMorse" target="UKLabour"/>
 <edge source="JnthnMorse" target="bbcpm"/>
 <edge source="GGevirtz" target="MatthewRavenhil"/>
+<edge source="catalannews" target="manuelvalls"/>
 <edge source="Nick42024488" target="Nigel_Farage"/>
 <edge source="Nick42024488" target="simoncoveney"/>
 <edge source="Nick42024488" target="Europarl_EN"/>
@@ -3202,10 +3085,8 @@
 <edge source="alankemp69" target="YouTube"/>
 <edge source="Micalet69" target="jeremycorbyn"/>
 <edge source="JudithBuntingLD" target="SELibDems"/>
-<edge source="reFocusZone" target="PeriscopeCo"/>
 <edge source="BakustanCity" target="YouTube"/>
 <edge source="coop_exchange" target="prestonlabour"/>
-<edge source="coop_exchange" target="matthewbrown"/>
 <edge source="Orgetorix" target="WSJ"/>
 <edge source="citizenrobert" target="jerichochambers"/>
 <edge source="citizenrobert" target="Neal_Compass"/>
@@ -3248,7 +3129,6 @@
 <edge source="9PedroGarcia" target="DerSPIEGEL"/>
 <edge source="9PedroGarcia" target="Augstein"/>
 <edge source="9PedroGarcia" target="bodoramelow"/>
-<edge source="9PedroGarcia" target="HandelsblattGE"/>
 <edge source="9PedroGarcia" target="zeitonline"/>
 <edge source="9PedroGarcia" target="nwzonline"/>
 <edge source="PragueSummit" target="TPetricek"/>
@@ -3261,7 +3141,6 @@
 <edge source="tonyroe" target="BBCPolitics"/>
 <edge source="VOA60News" target="YouTube"/>
 <edge source="MrCatStubble" target="realDonaldTrump"/>
-<edge source="MrCatStubble" target="POTUS"/>
 <edge source="BrianDonnellyHT" target="ewduffy"/>
 <edge source="BartBull72" target="UKLabour"/>
 <edge source="BartBull72" target="jeremycorbyn"/>
@@ -3283,7 +3162,6 @@
 <edge source="ChrisWolak1" target="YouTube"/>
 <edge source="StephenPRBrown" target="barrysheerman"/>
 <edge source="Williamm49" target="WILLIAMM49"/>
-<edge source="justofflondon" target="ChoosePippa"/>
 <edge source="ccara" target="IvanYatesNT"/>
 <edge source="umithopegok" target="updayUK"/>
 <edge source="Virgili73123187" target="Anna_Soubry"/>
@@ -3301,7 +3179,6 @@
 <edge source="RefRicketts" target="OxfordWords"/>
 <edge source="RefRicketts" target="jeremycorbyn"/>
 <edge source="mperelman" target="France24_en"/>
-<edge source="BCU_Brexit" target="deruytea"/>
 <edge source="bunkybun" target="elpaisinenglish"/>
 <edge source="bunkybun" target="bellacaledonia"/>
 <edge source="friendofthe" target="Shareaholic"/>
@@ -3326,13 +3203,13 @@
 <edge source="sachim93" target="YouTube"/>
 <edge source="threadreaderapp" target="Econ_Marshall"/>
 <edge source="threadreaderapp" target="jacobinmag"/>
+<edge source="Gerfome" target="BrexitAlex"/>
 <edge source="SmartThinktanks" target="instituteforgov"/>
 <edge source="SmartThinktanks" target="StefanieBolzen"/>
 <edge source="SmartThinktanks" target="soniastolper"/>
 <edge source="SmartThinktanks" target="sarahobolt"/>
 <edge source="JMBEuansSon" target="theSNP"/>
 <edge source="clairemasser" target="BBCNews"/>
-<edge source="GHulluni" target="BrexitpartyY"/>
 <edge source="CraigAmbrose1" target="PhDole"/>
 <edge source="mcbrexit" target="sianberry"/>
 <edge source="Russell_941" target="pamelageller"/>
@@ -3357,7 +3234,6 @@
 <edge source="weijgenberger" target="elpaisinenglish"/>
 <edge source="DanJamesRenew" target="RenewParty"/>
 <edge source="MariaJoseSalcdo" target="TheEconomist"/>
-<edge source="dgerstner33" target="POTUS"/>
 <edge source="James_Sloam" target="bbclaurak"/>
 <edge source="James_Sloam" target="LibDems"/>
 <edge source="James_Sloam" target="TheGreenParty"/>
@@ -3380,7 +3256,6 @@
 <edge source="Huggies2222" target="jeremycorbyn"/>
 <edge source="Huggies2222" target="Nigel_Farage"/>
 <edge source="europeansting" target="europeansting"/>
-<edge source="CaminoMortera" target="HallBenjamin"/>
 <edge source="CaminoMortera" target="financialtimes"/>
 <edge source="hannahswg" target="SurgeRadio"/>
 <edge source="michaeljardine" target="allianceparty"/>
@@ -3390,12 +3265,10 @@
 <edge source="TOOSHORT1976" target="YouTube"/>
 <edge source="dogboy999" target="LBC"/>
 <edge source="SamuelBREXIT" target="brexitparty_uk"/>
-<edge source="JohnHowarth1958" target="ReadingLabour"/>
 <edge source="Guillaume_Alv" target="IrishTimesWorld"/>
 <edge source="Dwinterbottom2" target="MetroUK"/>
 <edge source="Paulie76100259" target="MetroUK"/>
 <edge source="Thomas__Weber" target="CTVNews"/>
-<edge source="SCER_eu" target="scer_eu"/>
 <edge source="wufandmew" target="pamelageller"/>
 <edge source="CharlesHThyme" target="financialtimes"/>
 <edge source="hayesgar" target="PeoplesMomentum"/>
@@ -3404,7 +3277,6 @@
 <edge source="rajatepoch" target="SBSNews"/>
 <edge source="ezduzit63" target="wordpressdotcom"/>
 <edge source="BorderRaven" target="YouTube"/>
-<edge source="BelgaImage" target="dirkwaem"/>
 <edge source="GPI159" target="brexitparty_uk"/>
 <edge source="Zenber1" target="businessinsider"/>
 <edge source="Goodwinaj1" target="brexitparty_uk"/>
@@ -3429,7 +3301,6 @@
 <edge source="EURefJune" target="JulesSunbeam"/>
 <edge source="EURefJune" target="bandraidoir"/>
 <edge source="EURefJune" target="WendyvanFrank1"/>
-<edge source="EURefJune" target="Tory_Karen"/>
 <edge source="EURefJune" target="Lugey6"/>
 <edge source="aJSDecepida" target="businessinsider"/>
 <edge source="akentishlass" target="UKLabour"/>
@@ -3443,12 +3314,10 @@
 <edge source="filfyfabio" target="MartinDaubney"/>
 <edge source="filfyfabio" target="andywigmore"/>
 <edge source="afplondon" target="AFP"/>
-<edge source="afplondon" target="dariothuburn"/>
 <edge source="Bankofisland" target="thejournal_ie"/>
 <edge source="RoyRoytonkin" target="UKChange"/>
 <edge source="IrPsych" target="thejournal_ie"/>
 <edge source="Suffragentleman" target="ForChange_Now"/>
-<edge source="DahrendorfForum" target="Helmut_Anheier"/>
 <edge source="Scotsfox" target="JamesKelly"/>
 <edge source="hopkinsjim77" target="BorisJohnson"/>
 <edge source="ptaylo" target="Glasgow"/>
@@ -3482,7 +3351,6 @@
 <edge source="StopUKPoverty" target="UKLabour"/>
 <edge source="DukeofThumpwich" target="campbellclaret"/>
 <edge source="ukbatman1973" target="Nigel_Farage"/>
-<edge source="FrauBauerlein" target="Mahopacgerman"/>
 <edge source="simonesomekh" target="AP_Europe"/>
 <edge source="votematters2020" target="businessinsider"/>
 <edge source="Tonykelly950" target="LBC"/>
@@ -3523,14 +3391,7 @@
 <edge source="ferozwala" target="SputnikInt"/>
 <edge source="YorksIFA" target="Yorkshire_Party"/>
 <edge source="twitnews00" target="ShoutGamers"/>
-<edge source="twitnews00" target="FameRTR"/>
 <edge source="twitnews00" target="FlyRts"/>
-<edge source="twitnews00" target="Demented_RTs"/>
-<edge source="twitnews00" target="Mighty_RTs"/>
-<edge source="twitnews00" target="BlazedRTs"/>
-<edge source="twitnews00" target="Retweet_Lobby"/>
-<edge source="twitnews00" target="Agile_RTs"/>
-<edge source="twitnews00" target="FEAR_RTs"/>
 <edge source="bbc5live" target="TherealNihal"/>
 <edge source="Rose_of_Lancs" target="brexitparty_uk"/>
 <edge source="oliverkev" target="NeonNettle"/>
@@ -3541,7 +3402,6 @@
 <edge source="Fergal_HB" target="jeremycorbyn"/>
 <edge source="Fergal_HB" target="BBCNews"/>
 <edge source="EdelmanBXL" target="EdelmanBXL"/>
-<edge source="EdelmanBXL" target="gurps82"/>
 <edge source="Sputnink_" target="Alagooon"/>
 <edge source="CNNMoneyCH" target="ianbremmer"/>
 <edge source="ljcb12" target="NeonNettle"/>
@@ -3583,7 +3443,6 @@
 <edge source="practicaespanol" target="el_pais"/>
 <edge source="practicaespanol" target="LaVanguardia"/>
 <edge source="robw1953" target="financialtimes"/>
-<edge source="lmn_ar" target="CZPirates_en"/>
 <edge source="lmn_ar" target="Piratenpartei"/>
 <edge source="WIONews" target="Nigel_Farage"/>
 <edge source="ALIKHOSRAV_I" target="yanisvaroufakis"/>
@@ -3616,15 +3475,12 @@
 <edge source="TimWillis85" target="LastyKP"/>
 <edge source="TimWillis85" target="SBakerCX"/>
 <edge source="FergusMMurray" target="robertshrimsley"/>
-<edge source="dw_europe" target="TimmermansEU"/>
 <edge source="archbishophynes" target="YouTube"/>
-<edge source="Northerndrums" target="EU"/>
 <edge source="ArieFlack" target="nytimes"/>
 <edge source="BAMLIN181" target="telegraph"/>
 <edge source="anncrusader" target="Anna_Soubry"/>
 <edge source="Lindyhopper7" target="tom_watson"/>
 <edge source="phillipmhughes" target="jeremycorbyn"/>
-<edge source="Gordon_T_Miller" target="nick_clegg"/>
 <edge source="JayBut707" target="BBCNews"/>
 <edge source="PeterKenyon" target="bbcnews"/>
 <edge source="PeterKenyon" target="TheProgressives"/>
@@ -3639,22 +3495,18 @@
 <edge source="akaMrsLunts" target="faisalislam"/>
 <edge source="akaMrsLunts" target="adamboultonSKY"/>
 <edge source="akaMrsLunts" target="lewis_goodall"/>
-<edge source="dokeefe" target="nuzzel"/>
 <edge source="BBCSurrey" target="AnneMilton"/>
-<edge source="BBCSurrey" target="JamesCannon66"/>
 <edge source="coachmally" target="ABridgen"/>
 <edge source="GloriaDePiero" target="justinmadders"/>
 <edge source="fookanoo" target="Nigel_Farage"/>
 <edge source="Shoutout_UK" target="UKYouth"/>
 <edge source="Shoutout_UK" target="bycLIVE"/>
-<edge source="Shoutout_UK" target="ukyv"/>
 <edge source="YasmeenSerhan" target="AkbarSAhmed"/>
 <edge source="39_stephs" target="businessinsider"/>
 <edge source="geoffreyMyers1" target="telegraph"/>
 <edge source="pierrepurseigle" target="jeremycorbyn"/>
 <edge source="CharlesFlynn4" target="GoogleNews"/>
 <edge source="akemmapapa" target="bbclaurak"/>
-<edge source="IPEMED" target="JaloulAyed"/>
 <edge source="edresphd" target="jeremycorbyn"/>
 <edge source="edresphd" target="UKLabour"/>
 <edge source="edresphd" target="LabourLordsUK"/>
@@ -3678,7 +3530,6 @@
 <edge source="herszenhorn" target="POLITICOEurope"/>
 <edge source="herszenhorn" target="PoliticoRyan"/>
 <edge source="sniffydogs" target="Telegraph"/>
-<edge source="samajweekly" target="Samaj"/>
 <edge source="IamRobHarbour" target="JohnCurticeOnTV"/>
 <edge source="skinnergj" target="skinnergj"/>
 <edge source="TrajanAlexande3" target="realDonaldTrump"/>
@@ -3696,7 +3547,6 @@
 <edge source="clive_brookes" target="TheLastLeg"/>
 <edge source="ananyah" target="theSNP"/>
 <edge source="CristiSurubaru" target="PolitieVEEN"/>
-<edge source="CristiSurubaru" target="markrutte"/>
 <edge source="CristiSurubaru" target="ROinNL"/>
 <edge source="CristiSurubaru" target="MAERomania"/>
 <edge source="DanielFerrie" target="MargSchinas"/>
@@ -3711,7 +3561,6 @@
 <edge source="david_voyle" target="RTEOne"/>
 <edge source="david_voyle" target="rtenews"/>
 <edge source="david_voyle" target="rte"/>
-<edge source="david_voyle" target="ClaireByrneLive"/>
 <edge source="Jim_Sheridan" target="EmmaKennedy"/>
 <edge source="Peter_M_Sharp" target="Telegraph"/>
 <edge source="geoffwhiles" target="BBCNews"/>
@@ -3732,7 +3581,6 @@
 <edge source="DanielRDivine" target="financialtimes"/>
 <edge source="Geek_Pride" target="politics_co_uk"/>
 <edge source="_pigeons_" target="UKLabour"/>
-<edge source="_pigeons_" target="BristolSouthLab"/>
 <edge source="_pigeons_" target="karinsmyth"/>
 <edge source="alljazzy777" target="YouTube"/>
 <edge source="guyjackson42" target="ADAMPLOW"/>
@@ -3774,10 +3622,8 @@
 <edge source="ayeshahazarika" target="cnni"/>
 <edge source="hughvirginia" target="financialtimes"/>
 <edge source="techjollof" target="techjollof"/>
-<edge source="HolyroodDaily" target="MagicMagid"/>
 <edge source="HolyroodDaily" target="HolyroodLiam"/>
 <edge source="sen924153" target="YouTubeより"/>
-<edge source="LisaZWilton" target="MagicMagid"/>
 <edge source="DyfedPowysFed" target="BBCNews"/>
 <edge source="NewsOldies" target="brexitparty_uk"/>
 <edge source="lea_ypi" target="Independent"/>
@@ -3793,7 +3639,7 @@
 <edge source="gbktas" target="BBCNews"/>
 <edge source="gbktas" target="Nigel_Farage"/>
 <edge source="gbktas" target="TheBrexitPartly"/>
-<edge source="galdemzine" target="MagicMagid"/>
+<edge source="JackoJacklin" target="COLDWAR_STEVE"/>
 <edge source="thomaskay11" target="Alan_McGuinness"/>
 <edge source="kvconstant" target="BBCWorld"/>
 <edge source="kvconstant" target="YouTube"/>
@@ -3819,7 +3665,6 @@
 <edge source="wrishib" target="TheGreenParty"/>
 <edge source="lavidaenmochila" target="SkyNewsPolitics"/>
 <edge source="lavidaenmochila" target="Nigel_Farage"/>
-<edge source="JAanzi" target="MagicMagid"/>
 <edge source="JAanzi" target="MetroUK"/>
 <edge source="Lorbobo1" target="SkyNews"/>
 <edge source="sandy_cshore" target="theSNP"/>
@@ -3833,8 +3678,8 @@
 <edge source="JohnEas56676398" target="theSNP"/>
 <edge source="Stevie_T" target="thecluny"/>
 <edge source="Stevie_T" target="tenacitymusicpr"/>
+<edge source="Stevie_T" target="NovaradioNE"/>
 <edge source="Stevie_T" target="radiohartlepool"/>
-<edge source="Stevie_T" target="bishopfm"/>
 <edge source="matteoplatone" target="guardian"/>
 <edge source="JamesHockaday_" target="MetroUK"/>
 <edge source="Boostalife" target="expensify"/>
@@ -3842,6 +3687,7 @@
 <edge source="Boostalife" target="Xero"/>
 <edge source="MarxistWhovian" target="dannydorling"/>
 <edge source="cllrkemp" target="politics_co_uk"/>
+<edge source="oldgreydoc" target="fperraudin"/>
 <edge source="oldgreydoc" target="guardian"/>
 <edge source="elgae669" target="lbc"/>
 <edge source="BerlinPolicy" target="APHClarkson"/>
@@ -3873,7 +3719,6 @@
 <edge source="Turnip_Ghost" target="AlynSmith"/>
 <edge source="IlvesToomas" target="TheEconomist"/>
 <edge source="wildey_1" target="brexitparty_uk"/>
-<edge source="pongodhall" target="nuzzel"/>
 <edge source="pongodhall" target="PrettyHatMech"/>
 <edge source="cghgreen" target="theipaper"/>
 <edge source="transform_ntwrk" target="MalinBjork_EU"/>
@@ -3885,7 +3730,6 @@
 <edge source="DarrenMole" target="SkyNews"/>
 <edge source="markg5452" target="brexitparty_uk"/>
 <edge source="SkyNewsAust" target="montie"/>
-<edge source="RedCosmonaut" target="MagicMagid"/>
 <edge source="phil_edwards_uk" target="Conservatives"/>
 <edge source="MechthildRoos" target="Europarl_EN"/>
 <edge source="HugsJoJoJo" target="Petrie"/>
@@ -3895,7 +3739,6 @@
 <edge source="GreyER_13" target="Anna_Soubry"/>
 <edge source="GreyER_13" target="heidiallen75"/>
 <edge source="GreyER_13" target="Telegraph"/>
-<edge source="pdemul" target="nuzzel"/>
 <edge source="pdemul" target="RemainiacsCast"/>
 <edge source="k_brexit" target="brexitparty_uk"/>
 <edge source="PaddyEmond" target="UKLabour"/>
@@ -3911,7 +3754,6 @@
 <edge source="CardinalBiggle2" target="Labour4EU"/>
 <edge source="POL_Research" target="election_data"/>
 <edge source="Heldinatwork" target="DBizNews"/>
-<edge source="petermbenglish" target="nuzzel"/>
 <edge source="petermbenglish" target="RemainiacsCast"/>
 <edge source="gamblingman8" target="bbc"/>
 <edge source="gamblingman8" target="AndrewMarr9"/>
@@ -3919,7 +3761,6 @@
 <edge source="gamblingman8" target="brexitparty_uk"/>
 <edge source="kboglarka_" target="TheEconomist"/>
 <edge source="matt0675" target="bbcnews"/>
-<edge source="andy_boy28" target="Eurovision"/>
 <edge source="Eurodesk" target="Eurodesk"/>
 <edge source="Eurodesk" target="EuropeanYouthEU"/>
 <edge source="Eurodesk" target="Europarl_EN"/>
@@ -3954,7 +3795,6 @@
 <edge source="ASTait" target="clearpolitic5"/>
 <edge source="blinkerdbritain" target="UKLabour"/>
 <edge source="Paulo__1878" target="brexitparty_uk"/>
-<edge source="EuropeLotteries" target="BSHennig"/>
 <edge source="EuropeLotteries" target="SortitionNow"/>
 <edge source="dspencer47" target="brexitparty_uk"/>
 <edge source="dspencer47" target="Conservatives"/>
@@ -3965,7 +3805,7 @@
 <edge source="PhilMye39535608" target="BBCNews"/>
 <edge source="Leonmwc" target="Berenberg_Econ"/>
 <edge source="EU_Logos" target="argano_elena"/>
-<edge source="TeivoTeivainen" target="EeroHeinaluoma"/>
+<edge source="J0hnBarleyc0rn" target="RoryStewartUK"/>
 <edge source="J0hnBarleyc0rn" target="LBC"/>
 <edge source="BryanMGLibDem" target="LBC"/>
 <edge source="BBCSussex" target="Nigel_Farage"/>
@@ -3984,7 +3824,6 @@
 <edge source="DeMeiro78" target="SenateDems"/>
 <edge source="DeMeiro78" target="HouseDemocrats"/>
 <edge source="DeMeiro78" target="realDonaldTrump"/>
-<edge source="DeMeiro78" target="SteveKBannon"/>
 <edge source="DeMeiro78" target="Nigel_Farage"/>
 <edge source="brianhardie65" target="BethRigby"/>
 <edge source="brianhardie65" target="bbclaurak"/>
@@ -4006,17 +3845,13 @@
 <edge source="dedalos_gl" target="eucopresident"/>
 <edge source="dedalos_gl" target="Nigel_Farage"/>
 <edge source="UCBNewsTeam" target="UCBMedia"/>
-<edge source="dugoow" target="MagicMagid"/>
 <edge source="niktraykov" target="LBC"/>
 <edge source="AngiePedley" target="LBC"/>
-<edge source="georginagodwin" target="cmcdonaldgibson"/>
-<edge source="georginagodwin" target="Kenji_Hall"/>
 <edge source="Nigel_95" target="BBCNews"/>
 <edge source="Nigel_95" target="Anna_Soubry"/>
 <edge source="Scooter_NUFC" target="Nigel_Farage"/>
 <edge source="MuleRetired" target="Telegraph"/>
 <edge source="welshrossy" target="BBCNews"/>
-<edge source="welshrossy" target="VoteLeave_eu"/>
 <edge source="KennedyJodyJ" target="Telegraph"/>
 <edge source="MAJ57069065" target="theresa_may"/>
 <edge source="MAJ57069065" target="jeremycorbyn"/>

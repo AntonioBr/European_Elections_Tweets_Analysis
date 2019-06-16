@@ -1,15 +1,13 @@
-import Centrality_Measures as cm
 import networkx as nx
 import matplotlib.pyplot as plt
-import collections
 from termcolor import colored
-import community
-import igraph as ig
-from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
 
 def general_analysis(given_graph):
 
-    graph = nx.read_graphml(given_graph)
+    if '.graphml' in given_graph:
+        graph = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
 
     languages_list = []
     nodes_language_list = []
@@ -39,7 +37,9 @@ def general_analysis(given_graph):
     plt.bar(x, y, color = "b")
     plt.yscale("log")
     plt.xticks(rotation='vertical')
+    plt.title("Languages distribution")
+    plt.xlabel("Languages")
+    plt.ylabel("Number of users")
     plt.show()
 
-
-general_analysis("./mentions_network_language.graphml")
+#general_analysis("./mentions_network_language.graphml")

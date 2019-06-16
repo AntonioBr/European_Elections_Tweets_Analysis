@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="#righttovote"/>
+<node id="#votingrights"/>
+<node id="#foughttovote"/>
+<node id="#europeanelections"/>
+<node id="#womanssuffrage"/>
+<node id="#suffragettes"/>
+<node id="#suffragettemovement"/>
+<node id="#politics"/>
+<node id="#EP2019"/>
+<node id="#eu19pic"/>
+<node id="#EuropeanElections"/>
+<node id="#VoterTurnout"/>
+<node id="#Infographic"/>
+<node id="#EUElectionResults"/>
+<node id="#europeanelectionresults"/>
+<node id="#elections"/>
+<node id="#EuropeanUnion"/>
+<node id="#EU"/>
+<node id="#Croatia"/>
+<node id="#4"/>
+<node id="#VotingDayOff"/>
+<node id="#FineForNotVoting"/>
+<node id="#corbyn"/>
+<node id="#EuropeanElections2019"/>
+<node id="#posttruth"/>
+<node id="#fakenews"/>
+<node id="#UK"/>
+<node id="#Brexithttps"/>
+<node id="#26M"/>
+<node id="#MAGA"/>
+<node id="#CreepingSharia"/>
+<node id="#news"/>
+<node id="#ccot"/>
+<node id="#buffoon"/>
+<node id="#Europeanelections"/>
+<node id="#rdgukhttps"/>
+<node id="#EuropeanElection2019"/>
+<node id="#strangethingspeoplebelieve"/>
+<node id="#European"/>
+<node id="#videohttps"/>
+<node id="#EUelections2019"/>
+<node id="#cnn"/>
+<node id="#SitRoom"/>
+<node id="#TheLead"/>
+<node id="#outfront"/>
+<node id="#AC360"/>
+<node id="#NPR"/>
+<node id="#PBSnews"/>
+<node id="#PBSnewshour"/>
+<node id="#pbs"/>
+<node id="#cltv"/>
+<node id="#tcot"/>
+<node id="#maga"/>
+<node id="#nyc"/>
+<node id="#boston"/>
+<node id="#chicago"/>
+<node id="#milwaukee"/>
+<node id="#detroit"/>
+<node id="#baltimore"/>
+<node id="#cbs"/>
+<node id="#miami"/>
+<node id="#atlanta"/>
+<node id="#houston"/>
+<node id="#dallas"/>
+<node id="#denver"/>
+<node id="#cleveland"/>
+<node id="#dc"/>
+<node id="#StopBrexit"/>
+<node id="#BankHolidayMonday"/>
+<node id="#MondayMotivation"/>
+<node id="#Brexit"/>
+<node id="#UKpol"/>
+<node id="#auspol"/>
+<node id="#cdnpoli"/>
+<node id="#UShttps"/>
+<node id="#EuropeanElectionResults"/>
+<node id="#SorryBannon"/>
+<node id="#Resist"/>
+<node id="#Europe"/>
+<edge source="#righttovote" target="#votingrights"/>
+<edge source="#righttovote" target="#foughttovote"/>
+<edge source="#righttovote" target="#europeanelections"/>
+<edge source="#righttovote" target="#womanssuffrage"/>
+<edge source="#righttovote" target="#suffragettes"/>
+<edge source="#righttovote" target="#suffragettemovement"/>
+<edge source="#votingrights" target="#foughttovote"/>
+<edge source="#votingrights" target="#europeanelections"/>
+<edge source="#votingrights" target="#womanssuffrage"/>
+<edge source="#votingrights" target="#suffragettes"/>
+<edge source="#votingrights" target="#suffragettemovement"/>
+<edge source="#foughttovote" target="#europeanelections"/>
+<edge source="#foughttovote" target="#womanssuffrage"/>
+<edge source="#foughttovote" target="#suffragettes"/>
+<edge source="#foughttovote" target="#suffragettemovement"/>
+<edge source="#europeanelections" target="#womanssuffrage"/>
+<edge source="#europeanelections" target="#suffragettes"/>
+<edge source="#europeanelections" target="#suffragettemovement"/>
+<edge source="#womanssuffrage" target="#suffragettes"/>
+<edge source="#womanssuffrage" target="#suffragettemovement"/>
+<edge source="#suffragettes" target="#suffragettemovement"/>
+<edge source="#EP2019" target="#eu19pic"/>
+<edge source="#EuropeanElections" target="#VoterTurnout"/>
+<edge source="#EuropeanElections" target="#Infographic"/>
+<edge source="#EuropeanElections" target="#europeanelectionresults"/>
+<edge source="#VoterTurnout" target="#Infographic"/>
+<edge source="#EUElectionResults" target="#Brexit"/>
+<edge source="#EUElectionResults" target="#news"/>
+<edge source="#EUElectionResults" target="#UKpol"/>
+<edge source="#EUElectionResults" target="#auspol"/>
+<edge source="#EUElectionResults" target="#cdnpoli"/>
+<edge source="#EUElectionResults" target="#maga"/>
+<edge source="#EUElectionResults" target="#EU"/>
+<edge source="#EUElectionResults" target="#UShttps"/>
+<edge source="#elections" target="#EuropeanUnion"/>
+<edge source="#elections" target="#EU"/>
+<edge source="#elections" target="#Croatia"/>
+<edge source="#elections" target="#European"/>
+<edge source="#elections" target="#videohttps"/>
+<edge source="#EuropeanUnion" target="#EU"/>
+<edge source="#EuropeanUnion" target="#Croatia"/>
+<edge source="#EU" target="#Croatia"/>
+<edge source="#EU" target="#Brexit"/>
+<edge source="#EU" target="#news"/>
+<edge source="#EU" target="#UKpol"/>
+<edge source="#EU" target="#auspol"/>
+<edge source="#EU" target="#cdnpoli"/>
+<edge source="#EU" target="#maga"/>
+<edge source="#EU" target="#UShttps"/>
+<edge source="#VotingDayOff" target="#FineForNotVoting"/>
+<edge source="#corbyn" target="#EuropeanElections2019"/>
+<edge source="#corbyn" target="#posttruth"/>
+<edge source="#corbyn" target="#fakenews"/>
+<edge source="#EuropeanElections2019" target="#posttruth"/>
+<edge source="#EuropeanElections2019" target="#fakenews"/>
+<edge source="#posttruth" target="#fakenews"/>
+<edge source="#UK" target="#Brexithttps"/>
+<edge source="#MAGA" target="#CreepingSharia"/>
+<edge source="#MAGA" target="#news"/>
+<edge source="#MAGA" target="#ccot"/>
+<edge source="#MAGA" target="#SorryBannon"/>
+<edge source="#MAGA" target="#Resist"/>
+<edge source="#CreepingSharia" target="#news"/>
+<edge source="#CreepingSharia" target="#ccot"/>
+<edge source="#news" target="#ccot"/>
+<edge source="#news" target="#Brexit"/>
+<edge source="#news" target="#UKpol"/>
+<edge source="#news" target="#auspol"/>
+<edge source="#news" target="#cdnpoli"/>
+<edge source="#news" target="#maga"/>
+<edge source="#news" target="#UShttps"/>
+<edge source="#European" target="#videohttps"/>
+<edge source="#cnn" target="#SitRoom"/>
+<edge source="#cnn" target="#TheLead"/>
+<edge source="#cnn" target="#outfront"/>
+<edge source="#cnn" target="#AC360"/>
+<edge source="#cnn" target="#NPR"/>
+<edge source="#cnn" target="#PBSnews"/>
+<edge source="#cnn" target="#PBSnewshour"/>
+<edge source="#cnn" target="#pbs"/>
+<edge source="#cnn" target="#cltv"/>
+<edge source="#cnn" target="#tcot"/>
+<edge source="#cnn" target="#maga"/>
+<edge source="#cnn" target="#nyc"/>
+<edge source="#cnn" target="#boston"/>
+<edge source="#cnn" target="#chicago"/>
+<edge source="#cnn" target="#milwaukee"/>
+<edge source="#cnn" target="#detroit"/>
+<edge source="#cnn" target="#baltimore"/>
+<edge source="#cnn" target="#cbs"/>
+<edge source="#cnn" target="#miami"/>
+<edge source="#cnn" target="#atlanta"/>
+<edge source="#cnn" target="#houston"/>
+<edge source="#cnn" target="#dallas"/>
+<edge source="#cnn" target="#denver"/>
+<edge source="#cnn" target="#cleveland"/>
+<edge source="#cnn" target="#dc"/>
+<edge source="#SitRoom" target="#TheLead"/>
+<edge source="#SitRoom" target="#outfront"/>
+<edge source="#SitRoom" target="#AC360"/>
+<edge source="#SitRoom" target="#NPR"/>
+<edge source="#SitRoom" target="#PBSnews"/>
+<edge source="#SitRoom" target="#PBSnewshour"/>
+<edge source="#SitRoom" target="#pbs"/>
+<edge source="#SitRoom" target="#cltv"/>
+<edge source="#SitRoom" target="#tcot"/>
+<edge source="#SitRoom" target="#maga"/>
+<edge source="#SitRoom" target="#nyc"/>
+<edge source="#SitRoom" target="#boston"/>
+<edge source="#SitRoom" target="#chicago"/>
+<edge source="#SitRoom" target="#milwaukee"/>
+<edge source="#SitRoom" target="#detroit"/>
+<edge source="#SitRoom" target="#baltimore"/>
+<edge source="#SitRoom" target="#cbs"/>
+<edge source="#SitRoom" target="#miami"/>
+<edge source="#SitRoom" target="#atlanta"/>
+<edge source="#SitRoom" target="#houston"/>
+<edge source="#SitRoom" target="#dallas"/>
+<edge source="#SitRoom" target="#denver"/>
+<edge source="#SitRoom" target="#cleveland"/>
+<edge source="#SitRoom" target="#dc"/>
+<edge source="#TheLead" target="#outfront"/>
+<edge source="#TheLead" target="#AC360"/>
+<edge source="#TheLead" target="#NPR"/>
+<edge source="#TheLead" target="#PBSnews"/>
+<edge source="#TheLead" target="#PBSnewshour"/>
+<edge source="#TheLead" target="#pbs"/>
+<edge source="#TheLead" target="#cltv"/>
+<edge source="#TheLead" target="#tcot"/>
+<edge source="#TheLead" target="#maga"/>
+<edge source="#TheLead" target="#nyc"/>
+<edge source="#TheLead" target="#boston"/>
+<edge source="#TheLead" target="#chicago"/>
+<edge source="#TheLead" target="#milwaukee"/>
+<edge source="#TheLead" target="#detroit"/>
+<edge source="#TheLead" target="#baltimore"/>
+<edge source="#TheLead" target="#cbs"/>
+<edge source="#TheLead" target="#miami"/>
+<edge source="#TheLead" target="#atlanta"/>
+<edge source="#TheLead" target="#houston"/>
+<edge source="#TheLead" target="#dallas"/>
+<edge source="#TheLead" target="#denver"/>
+<edge source="#TheLead" target="#cleveland"/>
+<edge source="#TheLead" target="#dc"/>
+<edge source="#outfront" target="#AC360"/>
+<edge source="#outfront" target="#NPR"/>
+<edge source="#outfront" target="#PBSnews"/>
+<edge source="#outfront" target="#PBSnewshour"/>
+<edge source="#outfront" target="#pbs"/>
+<edge source="#outfront" target="#cltv"/>
+<edge source="#outfront" target="#tcot"/>
+<edge source="#outfront" target="#maga"/>
+<edge source="#outfront" target="#nyc"/>
+<edge source="#outfront" target="#boston"/>
+<edge source="#outfront" target="#chicago"/>
+<edge source="#outfront" target="#milwaukee"/>
+<edge source="#outfront" target="#detroit"/>
+<edge source="#outfront" target="#baltimore"/>
+<edge source="#outfront" target="#cbs"/>
+<edge source="#outfront" target="#miami"/>
+<edge source="#outfront" target="#atlanta"/>
+<edge source="#outfront" target="#houston"/>
+<edge source="#outfront" target="#dallas"/>
+<edge source="#outfront" target="#denver"/>
+<edge source="#outfront" target="#cleveland"/>
+<edge source="#outfront" target="#dc"/>
+<edge source="#AC360" target="#NPR"/>
+<edge source="#AC360" target="#PBSnews"/>
+<edge source="#AC360" target="#PBSnewshour"/>
+<edge source="#AC360" target="#pbs"/>
+<edge source="#AC360" target="#cltv"/>
+<edge source="#AC360" target="#tcot"/>
+<edge source="#AC360" target="#maga"/>
+<edge source="#AC360" target="#nyc"/>
+<edge source="#AC360" target="#boston"/>
+<edge source="#AC360" target="#chicago"/>
+<edge source="#AC360" target="#milwaukee"/>
+<edge source="#AC360" target="#detroit"/>
+<edge source="#AC360" target="#baltimore"/>
+<edge source="#AC360" target="#cbs"/>
+<edge source="#AC360" target="#miami"/>
+<edge source="#AC360" target="#atlanta"/>
+<edge source="#AC360" target="#houston"/>
+<edge source="#AC360" target="#dallas"/>
+<edge source="#AC360" target="#denver"/>
+<edge source="#AC360" target="#cleveland"/>
+<edge source="#AC360" target="#dc"/>
+<edge source="#NPR" target="#PBSnews"/>
+<edge source="#NPR" target="#PBSnewshour"/>
+<edge source="#NPR" target="#pbs"/>
+<edge source="#NPR" target="#cltv"/>
+<edge source="#NPR" target="#tcot"/>
+<edge source="#NPR" target="#maga"/>
+<edge source="#NPR" target="#nyc"/>
+<edge source="#NPR" target="#boston"/>
+<edge source="#NPR" target="#chicago"/>
+<edge source="#NPR" target="#milwaukee"/>
+<edge source="#NPR" target="#detroit"/>
+<edge source="#NPR" target="#baltimore"/>
+<edge source="#NPR" target="#cbs"/>
+<edge source="#NPR" target="#miami"/>
+<edge source="#NPR" target="#atlanta"/>
+<edge source="#NPR" target="#houston"/>
+<edge source="#NPR" target="#dallas"/>
+<edge source="#NPR" target="#denver"/>
+<edge source="#NPR" target="#cleveland"/>
+<edge source="#NPR" target="#dc"/>
+<edge source="#PBSnews" target="#PBSnewshour"/>
+<edge source="#PBSnews" target="#pbs"/>
+<edge source="#PBSnews" target="#cltv"/>
+<edge source="#PBSnews" target="#tcot"/>
+<edge source="#PBSnews" target="#maga"/>
+<edge source="#PBSnews" target="#nyc"/>
+<edge source="#PBSnews" target="#boston"/>
+<edge source="#PBSnews" target="#chicago"/>
+<edge source="#PBSnews" target="#milwaukee"/>
+<edge source="#PBSnews" target="#detroit"/>
+<edge source="#PBSnews" target="#baltimore"/>
+<edge source="#PBSnews" target="#cbs"/>
+<edge source="#PBSnews" target="#miami"/>
+<edge source="#PBSnews" target="#atlanta"/>
+<edge source="#PBSnews" target="#houston"/>
+<edge source="#PBSnews" target="#dallas"/>
+<edge source="#PBSnews" target="#denver"/>
+<edge source="#PBSnews" target="#cleveland"/>
+<edge source="#PBSnews" target="#dc"/>
+<edge source="#PBSnewshour" target="#pbs"/>
+<edge source="#PBSnewshour" target="#cltv"/>
+<edge source="#PBSnewshour" target="#tcot"/>
+<edge source="#PBSnewshour" target="#maga"/>
+<edge source="#PBSnewshour" target="#nyc"/>
+<edge source="#PBSnewshour" target="#boston"/>
+<edge source="#PBSnewshour" target="#chicago"/>
+<edge source="#PBSnewshour" target="#milwaukee"/>
+<edge source="#PBSnewshour" target="#detroit"/>
+<edge source="#PBSnewshour" target="#baltimore"/>
+<edge source="#PBSnewshour" target="#cbs"/>
+<edge source="#PBSnewshour" target="#miami"/>
+<edge source="#PBSnewshour" target="#atlanta"/>
+<edge source="#PBSnewshour" target="#houston"/>
+<edge source="#PBSnewshour" target="#dallas"/>
+<edge source="#PBSnewshour" target="#denver"/>
+<edge source="#PBSnewshour" target="#cleveland"/>
+<edge source="#PBSnewshour" target="#dc"/>
+<edge source="#pbs" target="#cltv"/>
+<edge source="#pbs" target="#tcot"/>
+<edge source="#pbs" target="#maga"/>
+<edge source="#pbs" target="#nyc"/>
+<edge source="#pbs" target="#boston"/>
+<edge source="#pbs" target="#chicago"/>
+<edge source="#pbs" target="#milwaukee"/>
+<edge source="#pbs" target="#detroit"/>
+<edge source="#pbs" target="#baltimore"/>
+<edge source="#pbs" target="#cbs"/>
+<edge source="#pbs" target="#miami"/>
+<edge source="#pbs" target="#atlanta"/>
+<edge source="#pbs" target="#houston"/>
+<edge source="#pbs" target="#dallas"/>
+<edge source="#pbs" target="#denver"/>
+<edge source="#pbs" target="#cleveland"/>
+<edge source="#pbs" target="#dc"/>
+<edge source="#cltv" target="#tcot"/>
+<edge source="#cltv" target="#maga"/>
+<edge source="#cltv" target="#nyc"/>
+<edge source="#cltv" target="#boston"/>
+<edge source="#cltv" target="#chicago"/>
+<edge source="#cltv" target="#milwaukee"/>
+<edge source="#cltv" target="#detroit"/>
+<edge source="#cltv" target="#baltimore"/>
+<edge source="#cltv" target="#cbs"/>
+<edge source="#cltv" target="#miami"/>
+<edge source="#cltv" target="#atlanta"/>
+<edge source="#cltv" target="#houston"/>
+<edge source="#cltv" target="#dallas"/>
+<edge source="#cltv" target="#denver"/>
+<edge source="#cltv" target="#cleveland"/>
+<edge source="#cltv" target="#dc"/>
+<edge source="#tcot" target="#maga"/>
+<edge source="#tcot" target="#nyc"/>
+<edge source="#tcot" target="#boston"/>
+<edge source="#tcot" target="#chicago"/>
+<edge source="#tcot" target="#milwaukee"/>
+<edge source="#tcot" target="#detroit"/>
+<edge source="#tcot" target="#baltimore"/>
+<edge source="#tcot" target="#cbs"/>
+<edge source="#tcot" target="#miami"/>
+<edge source="#tcot" target="#atlanta"/>
+<edge source="#tcot" target="#houston"/>
+<edge source="#tcot" target="#dallas"/>
+<edge source="#tcot" target="#denver"/>
+<edge source="#tcot" target="#cleveland"/>
+<edge source="#tcot" target="#dc"/>
+<edge source="#maga" target="#nyc"/>
+<edge source="#maga" target="#boston"/>
+<edge source="#maga" target="#chicago"/>
+<edge source="#maga" target="#milwaukee"/>
+<edge source="#maga" target="#detroit"/>
+<edge source="#maga" target="#baltimore"/>
+<edge source="#maga" target="#cbs"/>
+<edge source="#maga" target="#miami"/>
+<edge source="#maga" target="#atlanta"/>
+<edge source="#maga" target="#houston"/>
+<edge source="#maga" target="#dallas"/>
+<edge source="#maga" target="#denver"/>
+<edge source="#maga" target="#cleveland"/>
+<edge source="#maga" target="#dc"/>
+<edge source="#maga" target="#Brexit"/>
+<edge source="#maga" target="#UKpol"/>
+<edge source="#maga" target="#auspol"/>
+<edge source="#maga" target="#cdnpoli"/>
+<edge source="#maga" target="#UShttps"/>
+<edge source="#nyc" target="#boston"/>
+<edge source="#nyc" target="#chicago"/>
+<edge source="#nyc" target="#milwaukee"/>
+<edge source="#nyc" target="#detroit"/>
+<edge source="#nyc" target="#baltimore"/>
+<edge source="#nyc" target="#cbs"/>
+<edge source="#nyc" target="#miami"/>
+<edge source="#nyc" target="#atlanta"/>
+<edge source="#nyc" target="#houston"/>
+<edge source="#nyc" target="#dallas"/>
+<edge source="#nyc" target="#denver"/>
+<edge source="#nyc" target="#cleveland"/>
+<edge source="#nyc" target="#dc"/>
+<edge source="#boston" target="#chicago"/>
+<edge source="#boston" target="#milwaukee"/>
+<edge source="#boston" target="#detroit"/>
+<edge source="#boston" target="#baltimore"/>
+<edge source="#boston" target="#cbs"/>
+<edge source="#boston" target="#miami"/>
+<edge source="#boston" target="#atlanta"/>
+<edge source="#boston" target="#houston"/>
+<edge source="#boston" target="#dallas"/>
+<edge source="#boston" target="#denver"/>
+<edge source="#boston" target="#cleveland"/>
+<edge source="#boston" target="#dc"/>
+<edge source="#chicago" target="#milwaukee"/>
+<edge source="#chicago" target="#detroit"/>
+<edge source="#chicago" target="#baltimore"/>
+<edge source="#chicago" target="#cbs"/>
+<edge source="#chicago" target="#miami"/>
+<edge source="#chicago" target="#atlanta"/>
+<edge source="#chicago" target="#houston"/>
+<edge source="#chicago" target="#dallas"/>
+<edge source="#chicago" target="#denver"/>
+<edge source="#chicago" target="#cleveland"/>
+<edge source="#chicago" target="#dc"/>
+<edge source="#milwaukee" target="#detroit"/>
+<edge source="#milwaukee" target="#baltimore"/>
+<edge source="#milwaukee" target="#cbs"/>
+<edge source="#milwaukee" target="#miami"/>
+<edge source="#milwaukee" target="#atlanta"/>
+<edge source="#milwaukee" target="#houston"/>
+<edge source="#milwaukee" target="#dallas"/>
+<edge source="#milwaukee" target="#denver"/>
+<edge source="#milwaukee" target="#cleveland"/>
+<edge source="#milwaukee" target="#dc"/>
+<edge source="#detroit" target="#baltimore"/>
+<edge source="#detroit" target="#cbs"/>
+<edge source="#detroit" target="#miami"/>
+<edge source="#detroit" target="#atlanta"/>
+<edge source="#detroit" target="#houston"/>
+<edge source="#detroit" target="#dallas"/>
+<edge source="#detroit" target="#denver"/>
+<edge source="#detroit" target="#cleveland"/>
+<edge source="#detroit" target="#dc"/>
+<edge source="#baltimore" target="#cbs"/>
+<edge source="#baltimore" target="#miami"/>
+<edge source="#baltimore" target="#atlanta"/>
+<edge source="#baltimore" target="#houston"/>
+<edge source="#baltimore" target="#dallas"/>
+<edge source="#baltimore" target="#denver"/>
+<edge source="#baltimore" target="#cleveland"/>
+<edge source="#baltimore" target="#dc"/>
+<edge source="#cbs" target="#miami"/>
+<edge source="#cbs" target="#atlanta"/>
+<edge source="#cbs" target="#houston"/>
+<edge source="#cbs" target="#dallas"/>
+<edge source="#cbs" target="#denver"/>
+<edge source="#cbs" target="#cleveland"/>
+<edge source="#cbs" target="#dc"/>
+<edge source="#miami" target="#atlanta"/>
+<edge source="#miami" target="#houston"/>
+<edge source="#miami" target="#dallas"/>
+<edge source="#miami" target="#denver"/>
+<edge source="#miami" target="#cleveland"/>
+<edge source="#miami" target="#dc"/>
+<edge source="#atlanta" target="#houston"/>
+<edge source="#atlanta" target="#dallas"/>
+<edge source="#atlanta" target="#denver"/>
+<edge source="#atlanta" target="#cleveland"/>
+<edge source="#atlanta" target="#dc"/>
+<edge source="#houston" target="#dallas"/>
+<edge source="#houston" target="#denver"/>
+<edge source="#houston" target="#cleveland"/>
+<edge source="#houston" target="#dc"/>
+<edge source="#dallas" target="#denver"/>
+<edge source="#dallas" target="#cleveland"/>
+<edge source="#dallas" target="#dc"/>
+<edge source="#denver" target="#cleveland"/>
+<edge source="#denver" target="#dc"/>
+<edge source="#cleveland" target="#dc"/>
+<edge source="#StopBrexit" target="#BankHolidayMonday"/>
+<edge source="#StopBrexit" target="#MondayMotivation"/>
+<edge source="#BankHolidayMonday" target="#MondayMotivation"/>
+<edge source="#Brexit" target="#UKpol"/>
+<edge source="#Brexit" target="#auspol"/>
+<edge source="#Brexit" target="#cdnpoli"/>
+<edge source="#Brexit" target="#UShttps"/>
+<edge source="#UKpol" target="#auspol"/>
+<edge source="#UKpol" target="#cdnpoli"/>
+<edge source="#UKpol" target="#UShttps"/>
+<edge source="#auspol" target="#cdnpoli"/>
+<edge source="#auspol" target="#UShttps"/>
+<edge source="#cdnpoli" target="#UShttps"/>
+<edge source="#SorryBannon" target="#Resist"/>
+</graph></graphml>
