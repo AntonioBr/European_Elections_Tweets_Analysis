@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9effdb-ee99-4cc4-b027-b71a16e7709d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Centrality_Measures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Centrality_Measures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Language_Network_Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Language_Network_Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mentions_Network_Creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mentions_Network_Creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mentions_network.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/mentions_network.graphml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mentions_network_language.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/mentions_network_language.graphml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hastag_Network_Creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hastag_Network_Creator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashtags_network.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/hashtags_network.graphml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +16,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mentions_Network_Creator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="109" selection-start-line="109" selection-end-line="109" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hastag_Network_Creator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="48" column="21" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="21" />
+            <state relative-caret-position="10">
+              <caret line="13" column="17" selection-end-line="13" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sentiment_Analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4964" selection-start-line="4964" selection-end-line="4964" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mentions_Network_Creator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -42,29 +62,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Language_Network_Analysis.py">
+        <entry file="file://$PROJECT_DIR$/Queries_Mongo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="2" selection-start-column="34" selection-end-line="4" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Centrality_Measures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4530">
-              <caret line="309" selection-start-line="309" selection-end-line="309" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Appoggio.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -96,9 +99,11 @@
         <option value="$PROJECT_DIR$/Demo.py" />
         <option value="$PROJECT_DIR$/Appoggio.py" />
         <option value="$PROJECT_DIR$/Language_Network_Analysis.py" />
-        <option value="$PROJECT_DIR$/Centrality_Measures.py" />
-        <option value="$PROJECT_DIR$/Hastag_Network_Creator.py" />
         <option value="$PROJECT_DIR$/Mentions_Network_Creator.py" />
+        <option value="$PROJECT_DIR$/Centrality_Measures.py" />
+        <option value="$PROJECT_DIR$/Hashtag_Network_Analysis.py" />
+        <option value="$PROJECT_DIR$/Hastag_Network_Creator.py" />
+        <option value="$PROJECT_DIR$/Sentiment_Analysis.py" />
       </list>
     </option>
   </component>
@@ -146,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Mentions_Network_Creator">
+  <component name="RunManager" selected="Python.Sentiment_Analysis">
     <configuration name="Centrality_Measures" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="European_Elections" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +166,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Centrality_Measures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hashtag_Network_Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="European_Elections" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashtag_Network_Analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,28 +218,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Language_Network_Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="European_Elections" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Language_Network_Analysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Mentions_Network_Creator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="European_Elections" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,29 +240,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in Appoggio.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Sentiment_Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="European_Elections" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Appoggio.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sentiment_Analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mentions_Network_Creator" />
-        <item itemvalue="Python.Hastag_Network_Creator" />
+        <item itemvalue="Python.Sentiment_Analysis" />
+        <item itemvalue="Python.Hashtag_Network_Analysis" />
         <item itemvalue="Python.Centrality_Measures" />
-        <item itemvalue="Python.Language_Network_Analysis" />
-        <item itemvalue="Python tests.pytest in Appoggio.py" />
+        <item itemvalue="Python.Hastag_Network_Creator" />
+        <item itemvalue="Python.Mentions_Network_Creator" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +303,9 @@
       <workItem from="1560585424739" duration="6763000" />
       <workItem from="1560702236411" duration="3858000" />
       <workItem from="1560713478081" duration="1401000" />
+      <workItem from="1560755506285" duration="3999000" />
+      <workItem from="1560775053507" duration="1230000" />
+      <workItem from="1560792864111" duration="4490000" />
     </task>
     <servers />
   </component>
@@ -307,7 +321,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82099000" />
+    <option name="totallyTimeSpent" value="91818000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,7 +335,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21082391" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22051696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,7 +354,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.226979" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.2956381" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
@@ -440,39 +454,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Hastag_Network_Creator.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="43" />
+          <line>26</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Hastag_Network_Creator.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="44" />
+          <line>46</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hastag_Network_Creator.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hastag_Network_Creator.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hastag_Network_Creator.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="48" />
+          <url>file://$PROJECT_DIR$/Sentiment_Analysis.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/European_Elections$Sentiment_Analysis.coverage" NAME="Sentiment_Analysis Coverage Results" MODIFIED="1560798810420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$Download_tweets.coverage" NAME="Download_tweets Coverage Results" MODIFIED="1559028786975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$db_Manager.coverage" NAME="db_Manager Coverage Results" MODIFIED="1559227719029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/European_Elections$Hastag_Network_Creator.coverage" NAME="Hastag_Network_Creator Coverage Results" MODIFIED="1560714665520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/European_Elections$Hashtag_Network_Analysis.coverage" NAME="Hashtag_Network_Analysis Coverage Results" MODIFIED="1560758909774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/European_Elections$Hastag_Network_Creator.coverage" NAME="Hastag_Network_Creator Coverage Results" MODIFIED="1560756087935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$Language_Network_Analysis.coverage" NAME="Language_Network_Analysis Coverage Results" MODIFIED="1560702632927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/European_Elections$Mentions_Network_Creator.coverage" NAME="Mentions_Network_Creator Coverage Results" MODIFIED="1560714793160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/European_Elections$Centrality_Measures.coverage" NAME="Centrality_Measures Coverage Results" MODIFIED="1560705083365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/European_Elections$Mentions_Network_Creator.coverage" NAME="Mentions_Network_Creator Coverage Results" MODIFIED="1560755825464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/European_Elections$Centrality_Measures.coverage" NAME="Centrality_Measures Coverage Results" MODIFIED="1560757446631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$Appoggio.coverage" NAME="Appoggio Coverage Results" MODIFIED="1558957776895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1560534525420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/European_Elections$pytest_in_Appoggio_py.coverage" NAME="pytest in Appoggio.py Coverage Results" MODIFIED="1560584909764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -550,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_Manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mentions_network.graphml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -594,42 +593,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Appoggio.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_Manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Language_Network_Analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="527">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Centrality_Measures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4530">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="178">
+          <caret line="338" column="42" lean-forward="true" selection-start-line="330" selection-start-column="12" selection-end-line="338" selection-end-column="42" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Appoggio.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Hashtag_Network_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queries_Mongo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="2" selection-start-column="34" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hastag_Network_Creator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="10">
+          <caret line="13" column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pymongo/cursor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7817">
+          <caret line="627" column="31" lean-forward="true" selection-start-line="627" selection-start-column="31" selection-end-line="627" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Mentions_Network_Creator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="237">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4964" selection-start-line="4964" selection-end-line="4964" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sentiment_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

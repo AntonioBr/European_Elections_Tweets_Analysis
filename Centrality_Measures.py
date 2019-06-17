@@ -336,6 +336,7 @@ def community_plotting(communities, graph):
             degree_centrality(sub)
             pagerank(sub)
             connected_component_analysis(sub)
+            cliques_per_node_analysis(sub)
             try:
                 general_analysis(sub)
             except:
@@ -345,6 +346,36 @@ def community_plotting(communities, graph):
         print("")
         print("")
 
+def cliques_per_node_analysis(given_graph):
+
+    if '.graphml' in given_graph:
+        graph = nx.to_undirected(nx.read_graphml(given_graph))
+    else:
+        graph = given_graph
+
+    maximal_cliques = nx.algorithms.clique.number_of_cliques(graph)
+    maximal_cliques = sorted(maximal_cliques.items(), key=lambda x: x[1], reverse = True)
+
+    print(colored("Top ten number of maximal cliques per node: ", "yellow"))
+    if len(maximal_cliques) > 15:
+
+        for i in range (0, 15):
+            print(maximal_cliques[i])
+
+    else:
+        for i in range (0, len(maximal_cliques)):
+            print(maximal_cliques[i])
+
+    x, y = zip(*maximal_cliques)  # unpack a list of pairs into two tuples
+
+    plt.bar(x, y, color="b")
+    plt.yscale("log")
+    #plt.xticks(rotation='vertical')
+    plt.xticks([])
+    plt.title("Number of maximal cliques per node distribution")
+    plt.xlabel("Node")
+    plt.ylabel("Nuber of maximal cliques per node")
+    plt.show()
 
 #preliminary_analysis("./mentions_network.graphml")
 #degree_distribution("./mentions_network.graphml")
@@ -356,5 +387,7 @@ def community_plotting(communities, graph):
 #connected_component_analysis("./mentions_network.graphml")
 #greedy_modularity_communities_detection("./mentions_network.graphml")
 # In generale è meglio usare la rete con la lingua in quanto maggiori controlli sono stati effettuati
-greedy_modularity_communities_detection("./mentions_network_language.graphml")
+#greedy_modularity_communities_detection("./mentions_network_language.graphml")
+
+#cliques_per_node_analysis("./mentions_network_language.graphml")
 

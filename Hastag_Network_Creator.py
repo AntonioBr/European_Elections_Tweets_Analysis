@@ -9,7 +9,7 @@ def retrieve_one_tweet_per_time():
     db = client.european_elections
     collection = db.tweets
 
-    cursor = collection.find({})
+    cursor = collection.find({}) #Qui mettere  criteri di ricerca query mongo
 
     return cursor
 
@@ -40,11 +40,12 @@ def mentions_network_per_language(cursor):
 
                             if G.has_edge(i, k):
 
-                                pass
+                                G[i][k]["weight"] += (document["favorites"] + document["retweets"])
 
                             else:
 
-                                G.add_edge(i, k)
+                                G.add_edge(i, k, weight = (document["favorites"] + document["retweets"]))
+
 
             p = p + 1
 

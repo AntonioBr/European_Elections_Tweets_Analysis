@@ -1,0 +1,6 @@
+Queries interessanti a MONGO:
+
+1) db.getCollection('tweets').find({
+    "date" : { "$gte" : ISODate("2019-03-26T00:00:00Z"), "$lt" : ISODate("2019-05-26T00:00:00Z") }}).count() 
+
+    Questa query è stata utilizzata per trovare tutti i tweets degli ultimi 3 mesi.
