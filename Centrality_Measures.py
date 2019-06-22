@@ -6,6 +6,9 @@ import community
 import igraph as ig
 from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
 from Language_Network_Analysis import general_analysis
+from Sentiment_Analysis import *
+import statistics
+
 
 def preliminary_analysis(given_graph):
 
@@ -30,6 +33,17 @@ def preliminary_analysis(given_graph):
         maximum_in_list = max_in_degree_tuple[1]
 
         print("")
+
+        print(colored("Len of in-degree", "yellow") + str(len(list_of_all_in_degrees)))
+
+        in_degree_list = []
+        for i in range(0, len(list_of_all_in_degrees)):
+            in_degree_list.append(list_of_all_in_degrees[i][1])
+
+        z = sum(in_degree_list)
+        average_in_degree = sum(in_degree_list) / nx.number_of_nodes(graph)
+        print(colored("Average in-degree: " + str(average_in_degree), "green"))
+
         print(colored("Nodes with max in-degree: ", "green"))
         for i in range(0, len(list_of_all_in_degrees)):
             if ((list_of_all_in_degrees[i])[1] == maximum_in_list):
@@ -46,7 +60,17 @@ def preliminary_analysis(given_graph):
         list_of_all_out_degrees = sorted(graph.out_degree, key=lambda x: x[1], reverse=True)
         max_out_degree_tuple = list_of_all_out_degrees[0]
 
+        print(colored("Len of out-degree", "yellow") + str(len(list_of_all_out_degrees)))
+
         maximum_in_list = max_out_degree_tuple[1]
+
+        out_degree_list = []
+        for i in range(0, len(list_of_all_out_degrees)):
+            out_degree_list.append(list_of_all_out_degrees[i][1])
+
+        c = sum(out_degree_list)
+        average_out_degree = sum(out_degree_list) / nx.number_of_nodes(graph)
+        print(colored("Average out-degree: " + str(average_out_degree), "green"))
 
         print(colored("Nodes with max out-degree: ", "green"))
         for i in range(0, len(list_of_all_out_degrees)):
@@ -91,6 +115,7 @@ def degree_distribution(given_graph):
         graph = given_graph
 
     degree_sequence = sorted([d for n, d in graph.degree()], reverse=True)
+    '''
     degreeCount = collections.Counter(degree_sequence)
     deg, cnt = zip(*degreeCount.items())
 
@@ -101,11 +126,25 @@ def degree_distribution(given_graph):
     plt.xlabel("Degree")
     plt.ylabel("Number of nodes")
     plt.show()
+    '''
+    fig, ax = plt.subplots()
+    plt.hist(list(degree_sequence))
+    ax.set_yscale('log')
+    plt.title("degree distribution")
+    plt.xlabel("Degree")
+    plt.ylabel("Number of nodes")
+    plt.show()
 
     if (nx.is_directed(graph)):
 
         # in-degree
-        in_degree_sequence = sorted([d for n, d in graph.in_degree()], reverse=True)  # degree sequence
+
+
+        in_degree_sequence = sorted([d for n, d in graph.in_degree()])  # degree sequence
+        print("Average in degree: " + str(statistics.mean(list(in_degree_sequence))))
+        #print(in_degree_sequence)
+        '''
+        print(len(in_degree_sequence))
         in_degreeCount = collections.Counter(in_degree_sequence)
         deg, cnt = zip(*in_degreeCount.items())
 
@@ -116,14 +155,34 @@ def degree_distribution(given_graph):
         plt.xlabel("Degree")
         plt.ylabel("Number of nodes")
         plt.show()
+        '''
+        fig, ax = plt.subplots()
+        plt.hist(list(in_degree_sequence))
+        ax.set_yscale('log')
+        plt.title("in-degree distribution")
+        plt.xlabel("Degree")
+        plt.ylabel("Number of nodes")
+        plt.show()
 
         # out-degree
-        out_degree_sequence = sorted([d for n, d in graph.out_degree()], reverse=True)  # degree sequence
+        out_degree_sequence = sorted([d for n, d in graph.out_degree()])  # degree sequence
+        print("Average out degree: " + str(statistics.mean(list(out_degree_sequence))))
+        #print(out_degree_sequence)
+        '''
+        print(len(out_degree_sequence))
         out_degreeCount = collections.Counter(out_degree_sequence)
         deg, cnt = zip(*out_degreeCount.items())
 
         fig, ax = plt.subplots()
         plt.bar(deg, cnt, width=0.80, color='b')
+        ax.set_yscale('log')
+        plt.title("out-degree distribution")
+        plt.xlabel("Degree")
+        plt.ylabel("Number of nodes")
+        plt.show()
+        '''
+        fig, ax = plt.subplots()
+        plt.hist(list(out_degree_sequence))
         ax.set_yscale('log')
         plt.title("out-degree distribution")
         plt.xlabel("Degree")
@@ -325,7 +384,36 @@ def community_plotting(communities, graph):
     communities_to_study_counter = 3
 
     for x in communities:
+
         sub = nx.subgraph(graph, list(x))
+        my_dataframe = pd.DataFrame(columns=["username", "text"])
+
+        #### Sentiment analysis over communities
+
+        nodeDict = dict(graph.nodes(data=True))
+        for l in range(0, len(list(x))):
+            for key, value in nodeDict.items():
+                if key == list(x)[l]:
+                    try:
+                        inserting_dict = {"username": key, "text": value["text"]}
+                        my_dataframe = my_dataframe.append(inserting_dict,  ignore_index=True)
+                    except:
+                        pass
+
+        basic_preprocessed_tweets = initial_text_preprocessing(my_dataframe["text"])
+        tweets = refined_text_preprocessing(basic_preprocessed_tweets["text"], "english")
+        print(words_counter(tweets))
+
+        my_stopwords = ['’', '...', '…', 'rt', '“', '”', '…', 'u', ':/']
+        tweets = refined_processing(tweets, my_stopwords)
+        print(words_counter(tweets))
+
+        cloud_visualization(tweets)
+        histogram_visualization(tweets)
+        afinn_visualization(basic_preprocessed_tweets)
+        NRC_visualization(basic_preprocessed_tweets["text"])
+
+        ####
 
         if communities_to_study_counter >= 0:
             preliminary_analysis(sub)
@@ -357,9 +445,9 @@ def cliques_per_node_analysis(given_graph):
     maximal_cliques = sorted(maximal_cliques.items(), key=lambda x: x[1], reverse = True)
 
     print(colored("Top ten number of maximal cliques per node: ", "yellow"))
-    if len(maximal_cliques) > 15:
+    if len(maximal_cliques) > 10:
 
-        for i in range (0, 15):
+        for i in range (0, 10):
             print(maximal_cliques[i])
 
     else:
@@ -377,10 +465,10 @@ def cliques_per_node_analysis(given_graph):
     plt.ylabel("Nuber of maximal cliques per node")
     plt.show()
 
-#preliminary_analysis("./mentions_network.graphml")
-#degree_distribution("./mentions_network.graphml")
-#closeness_centrality("./mentions_network.graphml")
-#betweenness_centrality("./mentions_network.graphml")
+#preliminary_analysis("./mentions_network_language.graphml")
+#degree_distribution("./mentions_network_language.graphml")
+#closeness_centrality("./mentions_network_language.graphml")
+betweenness_centrality("./mentions_network_language.graphml")
 #eigenvector_centrality("./mentions_network.graphml")
 #degree_centrality("./mentions_network.graphml")
 #pagerank("./mentions_network.graphml")

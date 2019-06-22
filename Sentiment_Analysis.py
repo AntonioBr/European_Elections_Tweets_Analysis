@@ -23,7 +23,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from pymongo import MongoClient
 import langdetect as lgt
 import re
-
+from nltk.stem.lancaster import LancasterStemmer
 
 def retrieve_one_tweet_per_time():
     client = MongoClient(port=27017)
@@ -80,6 +80,10 @@ def refined_text_preprocessing(text, language):
 
     punctuation = string.punctuation
     tweets_text = tweets_text.apply(lambda x: [item for item in x if item not in punctuation])
+
+    lancaster_stemmer = LancasterStemmer()
+    tweets_text = tweets_text.apply(
+        lambda x: [lancaster_stemmer.stem(item) for item in x])
 
     return tweets_text
 
@@ -207,12 +211,11 @@ def NRC_visualization(tweets):
     plt.show()
 
 
-
+'''
 original_tweets = retrieve_one_tweet_per_time()
 original_tweets = pd.read_json(dumps(original_tweets), encoding="ISO-8859-2")
-
 basic_preprocessed_tweets = initial_text_preprocessing(original_tweets["text"])
-'''
+
 tweets = refined_text_preprocessing(basic_preprocessed_tweets["text"], "english")
 print(words_counter(tweets))
 
@@ -224,6 +227,7 @@ cloud_visualization(tweets)
 histogram_visualization(tweets)
 afinn_visualization(basic_preprocessed_tweets)
 vader_visualization(basic_preprocessed_tweets)
-'''
+
 
 NRC_visualization(basic_preprocessed_tweets["text"])
+'''
