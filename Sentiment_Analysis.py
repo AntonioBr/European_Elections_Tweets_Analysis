@@ -30,8 +30,8 @@ def retrieve_one_tweet_per_time():
     db = client.european_elections
     collection = db.tweets
 
-    startingDate = '2019-05-20T00:00:00.000Z'
-    endingDate = '2019-05-21T00:00:00.000Z'
+    startingDate = '2019-04-26T00:00:00.000Z'
+    endingDate = '2019-05-26T00:00:00.000Z'
 
     myStartingDatetime = dateutil.parser.parse(startingDate)
     myEndingDatetime = dateutil.parser.parse(endingDate)
@@ -211,7 +211,7 @@ def NRC_visualization(tweets):
     plt.show()
 
 
-'''
+
 original_tweets = retrieve_one_tweet_per_time()
 original_tweets = pd.read_json(dumps(original_tweets), encoding="ISO-8859-2")
 basic_preprocessed_tweets = initial_text_preprocessing(original_tweets["text"])
@@ -230,4 +230,3 @@ vader_visualization(basic_preprocessed_tweets)
 
 
 NRC_visualization(basic_preprocessed_tweets["text"])
-'''

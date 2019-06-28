@@ -15,11 +15,15 @@ def general_analysis(given_graph):
 
     for node in nx.nodes(graph):
 
-        nodes_language_list.append(graph.node[node]["language"])
+        m = graph.node[node]
+        try:
+            nodes_language_list.append(graph.node[node]["language"])
 
-        if graph.node[node]["language"] not in languages_list:
+            if graph.node[node]["language"] not in languages_list:
 
-            languages_list.append(graph.node[node]["language"])
+                languages_list.append(graph.node[node]["language"])
+        except:
+            pass
 
     print(colored("List of all detected languages: ", "yellow") + str(languages_list))
     print(colored("Total number of detected languages: ", "yellow") + str(len(languages_list)))
@@ -36,10 +40,10 @@ def general_analysis(given_graph):
 
     plt.bar(x, y, color = "b")
     plt.yscale("log")
-    plt.xticks(rotation='vertical')
+    plt.xticks(rotation='vertical', fontsize=8)
     plt.title("Languages distribution")
-    plt.xlabel("Languages")
+    plt.xlabel("Languages", fontsize=10)
     plt.ylabel("Number of users")
     plt.show()
 
-#general_analysis("./mentions_network_language.graphml")
+general_analysis("./mentions_network_language.graphml")

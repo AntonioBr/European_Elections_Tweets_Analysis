@@ -18,3 +18,28 @@ Queries interessanti a MONGO:
     "avg_bvc": { "$avg": { $strLenCP: "$text" } }
   }
 }])
+
+4) db.getCollection('tweets').aggregate([
+{"$group":
+  {
+    "_id": null,
+    "avg":{"$avg":{$size:{ $split: [ "$hashtags", "#" ]}}}
+  }
+ }]);
+
+5) db.getCollection('tweets').aggregate([
+{
+    "$match": {
+
+        "date" : { "$gte" : ISODate("2019-04-26T00:00:00Z"), "$lt" : ISODate("2019-05-26T00:00:00Z")},
+        "lan" : "en"
+
+
+    }
+},
+{
+  "$group": {
+    "_id": null,
+    "avg_bvc": { "$avg": "$retweets" }
+}
+}])

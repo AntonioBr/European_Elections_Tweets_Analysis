@@ -8,14 +8,20 @@ from plotly.offline import download_plotlyjs, init_notebook_mode,  iplot, plot
 from Language_Network_Analysis import general_analysis
 from Sentiment_Analysis import *
 import statistics
-
+import networkit as nit
 
 def preliminary_analysis(given_graph):
 
     if '.graphml' in given_graph:
         graph = nx.read_graphml(given_graph)
+        nit_graph = nit.readGraph(given_graph, nit.Format.GraphML)
     else:
         graph = given_graph
+        nx.write_graphml(graph, "./util_graph.graphml")
+        nit_graph = nit.readGraph("./util_graph.graphml", nit.Format.GraphML)
+
+
+    print(colored("Average clustering: ", "yellow") + str(nx.algorithms.average_clustering(graph)))
 
     list_of_all_degrees = sorted(graph.degree, key=lambda x: x[1], reverse=True)
     max_degree_tuple = list_of_all_degrees[0]
@@ -23,6 +29,9 @@ def preliminary_analysis(given_graph):
     print(colored("Total number of nodes: ", "yellow") + str(nx.number_of_nodes(graph)))
     print(colored("Total number of isolated nodes: ", "yellow") + str(nx.number_of_isolates(graph)))
     print(colored("Total number of edges: ", "yellow") + str(nx.number_of_edges(graph)))
+
+    print(colored("Network's overview: ", "yellow"))
+    nit.overview(nit_graph)
 
     if (nx.is_directed(graph)):
         print(colored("Type of network: directed", "yellow"))
@@ -106,6 +115,19 @@ def preliminary_analysis(given_graph):
         degree_list.append(list_of_all_degrees[i][1])
     average_degree = sum(degree_list) / nx.number_of_nodes(graph)
     print(colored("Average degree: " + str(average_degree), "green"))
+
+def average_shortes_path(given_graph):
+
+
+    if '.graphml' in given_graph:
+        graph = ig.Graph.Read_GraphML(given_graph)
+        graph_util = nx.read_graphml(given_graph)
+    else:
+        graph = given_graph
+
+    average_sp = ig.GraphBase.average_path_length(graph)
+
+    print(colored("Average path lenght: ", "yellow") + str(average_sp))
 
 def degree_distribution(given_graph):
 
@@ -197,19 +219,29 @@ def largest_node(centrality):
 def closeness_centrality(given_graph):
 
     if '.graphml' in given_graph:
-        graph = nx.read_graphml(given_graph)
+        graph = ig.Graph.Read_GraphML(given_graph)
+        graph_util = nx.read_graphml(given_graph)
     else:
-        graph = given_graph
+        graph_util = given_graph
+        nx.write_graphml(graph_util, "./util_graph.graphml")
+        graph = ig.Graph.Read_GraphML("./util_graph.graphml")
 
-    closeness = nx.closeness_centrality(graph)
-    plt.hist(closeness.values(), color = 'b')
+    closeness = ig.GraphBase.closeness(graph)
+    nodes = list(graph_util.nodes)
+
+    my_util_dict = {}
+
+    for i in range(0, len(nodes)):
+        my_util_dict[nodes[i]] = closeness[i]
+
+    plt.hist(my_util_dict.values(), color = 'b')
     plt.title("Normalized closeness distribution")
     plt.xlabel("Closeness")
     plt.ylabel("Number of nodes")
     plt.yscale("log")
     plt.show()
 
-    highest_closeness_centralities_list = largest_node(closeness)
+    highest_closeness_centralities_list = sorted(my_util_dict.items(), key=lambda x: x[1], reverse=True)
     print(colored("Top ten highest closeness centralities:", "green"))
     for i in range(0, 10):
         print(str((highest_closeness_centralities_list[i])[1]) + "->" +
@@ -218,20 +250,30 @@ def closeness_centrality(given_graph):
 def betweenness_centrality(given_graph):
 
     if '.graphml' in given_graph:
-        graph = nx.read_graphml(given_graph)
+        graph = ig.Graph.Read_GraphML(given_graph)
+        graph_util = nx.read_graphml(given_graph)
     else:
-        graph = given_graph
+        graph_util = given_graph
+        nx.write_graphml(graph_util, "./util_graph.graphml")
+        graph = ig.Graph.Read_GraphML("./util_graph.graphml")
 
-    betweenness = nx.betweenness_centrality(graph)
-    plt.hist(betweenness.values(), color = 'b')
-    plt.title("Normalized betweennes distribution")
+    betweenness = ig.GraphBase.betweenness(graph)
+    nodes = list(graph_util.nodes)
+
+    my_util_dict = {}
+
+    for i in range (0, len(nodes)):
+        my_util_dict[nodes[i]] = betweenness[i]
+
+    plt.hist(my_util_dict.values(), color = 'b')
+    plt.title("Betweennes distribution")
     plt.xlabel("betweennes")
     plt.ylabel("Number of nodes")
     plt.xticks(rotation='vertical')
     plt.yscale("log")
     plt.show()
 
-    highest_betweenness_centralities_list = largest_node(betweenness)
+    highest_betweenness_centralities_list = sorted(my_util_dict.items(), key=lambda x: x[1], reverse=True)
     print(colored("Top ten highest betweenness centralities:", "green"))
     for i in range(0, 10):
         print(str((highest_betweenness_centralities_list[i])[1]) + "->" +
@@ -240,20 +282,30 @@ def betweenness_centrality(given_graph):
 def eigenvector_centrality(given_graph):
 
     if '.graphml' in given_graph:
-        graph = nx.read_graphml(given_graph)
+        graph = ig.Graph.Read_GraphML(given_graph)
+        graph_util = nx.read_graphml(given_graph)
     else:
-        graph = given_graph
+        graph_util = given_graph
+        nx.write_graphml(graph_util, "./util_graph.graphml")
+        graph = ig.Graph.Read_GraphML("./util_graph.graphml")
 
-    eigenvector = nx.eigenvector_centrality(graph)
-    plt.hist(eigenvector.values(), color = 'b')
-    plt.title("Normalized eigenvector distribution")
+    eigenvector = ig.GraphBase.eigenvector_centrality(graph)
+    nodes = list(graph_util.nodes)
+
+    my_util_dict = {}
+
+    for i in range (0, len(nodes)):
+        my_util_dict[nodes[i]] = eigenvector[i]
+
+    plt.hist(my_util_dict.values(), color = 'b')
+    plt.title("Eigenvector distribution")
     plt.xlabel("eigenvector")
     plt.ylabel("Number of nodes")
     plt.xticks(rotation='vertical')
     plt.yscale("log")
     plt.show()
 
-    highest_eigenvector_centralities_list = largest_node(eigenvector)
+    highest_eigenvector_centralities_list = sorted(my_util_dict.items(), key=lambda x: x[1], reverse=True)
     print(colored("Top ten highest eigenvector centralities:", "green"))
     for i in range(0, 10):
         print(str((highest_eigenvector_centralities_list[i])[1]) + "->" +
@@ -281,6 +333,7 @@ def degree_centrality(given_graph):
         print(str((highest_degree_centralities_list[i])[1]) + "->" +
               str((highest_degree_centralities_list[i])[0]))
 
+
 def pagerank(given_graph):
 
     if '.graphml' in given_graph:
@@ -307,93 +360,94 @@ def connected_component_analysis(given_graph):
 
     if '.graphml' in given_graph:
         graph = nx.to_undirected(nx.read_graphml(given_graph))
+        nx.write_graphml(graph, "./util_graph.graphml")
+        nit_graph = nit.readGraph("./util_graph.graphml", nit.Format.GraphML)
     else:
         graph = given_graph
+        nx.write_graphml(nx.to_undirected(graph), "./util_graph.graphml")
+        nit_graph = nit.readGraph("./util_graph.graphml", nit.Format.GraphML)
 
-    number_of_connected_components = nx.number_connected_components(graph)
-    print(colored("Number of connected components: ", "yellow") + str(number_of_connected_components))
+    cc = nit.components.ConnectedComponents(nit_graph)
+    cc.run()
+    compSizes = cc.getComponentSizes()
+    numCC = len(compSizes)
+    maxCC = max(compSizes.values())
 
-    subgraphs_list = list(nx.connected_component_subgraphs(graph))
-    diameter_distributions = []
+    print("#cc = %d,largest = %d" % (numCC, maxCC))
 
-    for g in subgraphs_list:
-        diameter_distributions.append(nx.diameter(g))
-
-    diameter_distributions = sorted(diameter_distributions, reverse=True)
-
-    plt.hist(diameter_distributions, color="b")
-    plt.title("Diameter distribution of subgraphs (connected components)")
-    plt.xlabel("Diameter")
-    plt.ylabel("Number of nodes")
+    plt.hist(compSizes.values(), color="b")
+    plt.title("Connected components size distribution")
+    plt.xlabel("Size")
+    plt.ylabel("Number of connected components")
     plt.xticks(rotation='vertical')
     plt.yscale("log")
 
-    plt.axes([0.4, 0.4, 0.5, 0.5])
-    for g in subgraphs_list:
-        if(nx.diameter(g) == diameter_distributions[0]):
-            pos = nx.spring_layout(graph)
-            plt.axis('off')
-            nx.draw_networkx_nodes(g, pos, node_size=10)
-            nx.draw_networkx_edges(g, pos, alpha=0.4)
-
     plt.show()
+
+    nit_graph.removeSelfLoops()
+
+    print("Average local cluster coefficient: " + str(nit.globals.ClusteringCoefficient.avgLocal(nit_graph)))
 
 def greedy_modularity_communities_detection(given_graph):
 
     if '.graphml' in given_graph:
         graph = nx.to_undirected(nx.read_graphml(given_graph))
+        nx.write_graphml(graph, "./util_graph.graphml")
+        nit_graph = nit.readGraph("./util_graph.graphml", nit.Format.GraphML)
     else:
         graph = given_graph
+        nx.write_graphml(nx.to_undirected(graph), "./util_graph.graphml")
+        nit_graph = nit.readGraph("./util_graph.graphml", nit.Format.GraphML)
 
-    mod_communities = nx.algorithms.community.greedy_modularity_communities(graph)
+    communities = nit.community.detectCommunities(nit_graph)
 
-    print(colored("Total number of detected communities: ", "yellow"), str(len(mod_communities)))
-    print("")
+    mod_communities = []
+    for i in range(0, len(communities)):
+        mod_communities.append(list(communities.getMembers(i)))
 
-    mod_communities.sort(key=len, reverse = True)
-    greatest_communities = []
+    mod_communities.sort(key=len, reverse=True)
 
-    if len(mod_communities) > 5:
+    util_dict = {}
+    k = 0
+    list_graph_nodes = list(graph.nodes)
+    for i in range(0, len(list_graph_nodes)):
 
-        for i in range(0, 5):
-            greatest_communities.append(mod_communities[i])
+        util_dict[list_graph_nodes[i]] = k
+        k += 1
 
-    else:
+    comm_list = []
+    for i in range(0, 3):
+        for j in range(0, len(mod_communities[i])):
+            (mod_communities[i])[j] = [name for (name, age) in util_dict.items() if age == (mod_communities[i])[j]][0]
 
-        for i in range(0, len(mod_communities)):
-            greatest_communities.append(mod_communities[i])
+        comm_list.append((mod_communities[i]))
 
 
-    community_plotting(greatest_communities, graph)
-
-def community_plotting(communities, graph):
-
-    communities_list = []
-
-    for c in communities:
-        communities_list.append(len(c))
-
-    plt.hist(communities_list, color='b')
-    plt.title("Greedy modularity communities' size")
-    plt.xlabel("size")
+    sizes = communities.subsetSizes()
+    plt.hist(sizes)
+    plt.title("Communities size distribution")
     plt.ylabel("Number of communities")
-    plt.xticks(rotation='vertical')
+    plt.xlabel("Community size")
     plt.yscale("log")
     plt.show()
+
+    community_plotting(comm_list, graph)
+
+def community_plotting(communities, graph):
 
     communities_to_study_counter = 3
 
     for x in communities:
 
-        sub = nx.subgraph(graph, list(x))
+        sub = nx.subgraph(graph, x)
         my_dataframe = pd.DataFrame(columns=["username", "text"])
 
         #### Sentiment analysis over communities
 
         nodeDict = dict(graph.nodes(data=True))
-        for l in range(0, len(list(x))):
+        for l in range(0, len(x)):
             for key, value in nodeDict.items():
-                if key == list(x)[l]:
+                if key == x[l]:
                     try:
                         inserting_dict = {"username": key, "text": value["text"]}
                         my_dataframe = my_dataframe.append(inserting_dict,  ignore_index=True)
@@ -415,24 +469,24 @@ def community_plotting(communities, graph):
 
         ####
 
-        if communities_to_study_counter >= 0:
-            preliminary_analysis(sub)
-            degree_distribution(sub)
-            closeness_centrality(sub)
-            betweenness_centrality(sub)
-            eigenvector_centrality(sub)
-            degree_centrality(sub)
-            pagerank(sub)
-            connected_component_analysis(sub)
-            cliques_per_node_analysis(sub)
-            try:
-                general_analysis(sub)
-            except:
-                pass
 
-        communities_to_study_counter = communities_to_study_counter - 1
+        preliminary_analysis(sub)
+        degree_distribution(sub)
+        closeness_centrality(sub)
+        betweenness_centrality(sub)
+        eigenvector_centrality(sub)
+        degree_centrality(sub)
+        pagerank(sub)
+        #connected_component_analysis(sub)
+        #cliques_per_node_analysis(sub)
+        try:
+            general_analysis(sub)
+        except:
+            pass
+
         print("")
-        print("")
+        print("---------------------------------------------------------------------------------------------")
+        print("---------------------------------------------------------------------------------------------")
 
 def cliques_per_node_analysis(given_graph):
 
@@ -465,17 +519,15 @@ def cliques_per_node_analysis(given_graph):
     plt.ylabel("Nuber of maximal cliques per node")
     plt.show()
 
-#preliminary_analysis("./mentions_network_language.graphml")
+preliminary_analysis("./mentions_network_language.graphml")
 #degree_distribution("./mentions_network_language.graphml")
 #closeness_centrality("./mentions_network_language.graphml")
-betweenness_centrality("./mentions_network_language.graphml")
-#eigenvector_centrality("./mentions_network.graphml")
-#degree_centrality("./mentions_network.graphml")
-#pagerank("./mentions_network.graphml")
-#connected_component_analysis("./mentions_network.graphml")
-#greedy_modularity_communities_detection("./mentions_network.graphml")
-# In generale è meglio usare la rete con la lingua in quanto maggiori controlli sono stati effettuati
+#betweenness_centrality("./mentions_network_language.graphml")
+#eigenvector_centrality("./mentions_network_language.graphml")
+#degree_centrality("./mentions_network_language.graphml")
+#average_shortes_path("./mentions_network_language.graphml")
+#pagerank("./mentions_network_language.graphml")
+#connected_component_analysis("./mentions_network_language.graphml")
 #greedy_modularity_communities_detection("./mentions_network_language.graphml")
-
 #cliques_per_node_analysis("./mentions_network_language.graphml")
 
