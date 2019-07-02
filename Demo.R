@@ -2,8 +2,14 @@ library(dplyr)
 library(shiny)
 library(networkD3)
 library(igraph)
+library(ggplot2)
 
-# Sample data
+db = as.data.frame(read.csv("./util_df.csv"))
+
+EmotionalDB = as.data.frame(read.csv("./MainDB.csv"))
+my_list = as.list(names(EmotionalDB))
+my_list = my_list[c(2, 3, 4, 5, 6, 7, 8, 9, 10, 11)]
+
 number_of_tweets = data.frame(DATE=c('2018-05-01' , '2018-06-01', 
                                      '2018-07-01', '2018-08-01', 
                                      '2018-09-01', '2018-10-01', 
@@ -35,11 +41,39 @@ ui <- fluidPage(
   
   titlePanel("Tweets about European Elections 2019"),
   
-  simpleNetwork(gd, fontSize = 12, height = 20, width = 20),
-  
   sidebarPanel("Total number of tweets: 999448"),
   sidebarPanel("# of tweets in 2019: 667064"),
   sidebarPanel("# of tweets in May 2019: 405739"),
+  
+  ########
+  mainPanel(
+    h3("Emotion distribution"),
+    br()
+  ),
+  
+  column(12, wellPanel(
+    dateRangeInput('dateRangeEmotions',
+                   label = 'Filter emotions by date',
+                   start = as.Date('2019-05-20') , 
+                   end = as.Date('2019-05-26')
+    )
+  )),
+  
+  selectInput("data1",
+              label = "Choose an Emotion",
+              choices = my_list
+              
+  ),
+  
+  plotOutput("Emotions"),
+  ###############
+  
+  mainPanel(
+    h3("Tweets' DB"),
+    br()
+  ),
+  
+  dataTableOutput('db'),
   
   mainPanel(
     h3("Employed keywords"),  
@@ -69,6 +103,18 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
+ 
+  EmotionalDB$Date <- as.Date(EmotionalDB$Date)
+  
+  selectedData <- reactive({
+    subset(EmotionalDB[ , c("Date", input$data1)], Date >= input$dateRangeEmotions[1] & Date <= input$dateRangeEmotions[2])
+  })
+  
+  output$Emotions <- renderPlot({
+    sd <- selectedData()
+    plot(sd, main="Emotions", type="l", xaxt = "n")
+    axis.Date(side = 1, at = sd$Date, format = "%Y-%m-%d")
+  })
   
   output$my_table  <- renderDataTable({
     # Filter the data
@@ -93,6 +139,10 @@ server <- function(input, output, session) {
   
   output$words_search <- renderDataTable({
     search_words
+  })
+  
+  output$db <- renderDataTable({
+    db
   })
   
 }
